@@ -37,6 +37,11 @@ app.get('/', (req, res) => {
     res.send(data);
 });
 
+app.get('/test-data-2', (req, res) => {
+    const data = require('./format_2_test.json');
+    res.send(data);
+});
+
 app.use('/v1/situations', situationsRoutesV1);
 
 const host = '0.0.0.0';
