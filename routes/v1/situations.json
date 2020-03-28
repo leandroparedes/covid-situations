@@ -136,6 +136,22 @@
                         "9": "On 22 and 23 January, WHO Director-General convened an Emergency Committee under the International Health Regulations (IHR) (2005) regarding the outbreak of novel coronavirus (2019- nCoV).",
                         "10": "WHO assesses the risk of this event to be very high in China, high at the regional level and high at the global level."
                     }
+                },
+                "25": {
+                    "situations": {
+                        "0": "A total of 1,320 confirmed cases have been reported for novel coronavirus (2019-nCoV) globally.",
+                        "1": "Of the 1,320 cases reported, 1,297 cases were reported from China, including Hong Kong SAR (5 confirmed cases), Macau SAR (2 confirmed cases) and Taipei (3 confirmed cases).",
+                        "2": "A total of 1,965 suspected cases have been reported from 20 Chinese provinces, regions and cities (excluding Hong Kong SAR, Macau SAR and Taipei).",
+                        "3": "Twenty-three confirmed cases have been reported outside of China in nine countries.",
+                        "4": "Of these 23 confirmed cases, 21 had travel history to Wuhan City, China; one case in Australia had direct contact with a confirmed case from Wuhan while in China; and one confirmed case in Viet Nam had no travel history to any part of China as mentioned in situation report published on 24 January. According to preliminary investigations, this constitutes an instance of human to human transmission within a family.",
+                        "5": "Of the 1,287 confirmed cases (excluding Hong Kong SAR, Macau SAR and Taipei), 237 cases have been reported as severely ill.",
+                        "6": "Forty-one deaths have been reported to date (39 deaths in Hubei province, one death in Hebei province and one in Heilongjiang province).",
+                        "7": "On 25 January 2020, the number of reported confirmed cases of 2019-nCoV has increased by 474 cases since the last situation report published on 24 January 2020.",
+                        "8": "WHO’s assessment of the risk of this event has not changed since the last update (22 Jan): very high in China, high at the regional level and high at the global level."
+                    },
+                    "preparedness_and_responses": {
+                        
+                    }
                 }
             }
         }
