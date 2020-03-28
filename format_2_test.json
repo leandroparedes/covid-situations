@@ -1,53 +1,54 @@
-{
-    "2019": [
-        {
-            "31/12/2019": {
-                "reports": [
-                    "report 1 december 2019",
-                    "report 2 december 2019",
-                    "report 3 december 2019"
+[
+    {
+        "date": "31/12/2019",
+        "reports": [
+            "report 1 december 2019",
+            "report 2 december 2019",
+            "report 3 december 2019"
+        ]
+    },
+    {
+        "date": "01/01/2020",
+        "reports": [
+            "report 1 01 january 2020",
+            "report 2 01 january 2020",
+            "report 3 01 january 2020"
+        ],
+        "preparedness_and_responses": [
+            {
+                "authority": "WHO",
+                "responses": [
+                    "response 1 who 01 january 2020",
+                    "response 2 who 01 january 2020",
+                    "response 3 who 01 january 2020"
                 ]
             }
-        }
-    ],
-    "2020": [
-        {
-            "01/01/2020": {
-                "reports": [
-                    "report 1 01 january 2020",
-                    "report 2 01 january 2020",
-                    "report 3 01 january 2020"
-                ],
-                "preparedness_and_responses": [
-                    {
-                        "authority": "WHO",
-                        "responses": [
-                            "response 1 who 01 january 2020",
-                            "response 2 who 01 january 2020",
-                            "response 3 who 01 january 2020"
-                        ]
-                    }
+        ]
+    },
+    {
+        "date":  "02/01/2020",
+        "reports": [
+            "report 1 02 january 2020",
+            "report 2 02 january 2020",
+            "report 3 02 january 2020"
+        ],
+        "preparedness_and_responses": [
+            {
+                "authority": "WHO",
+                "responses": [
+                    "response 1 who  02 january 2020",
+                    "response 2 who 02 january 2020",
+                    "response 3 who 02 january 2020"
+                ]
+            },
+            {
+                "authority": "China",
+                "responses": [
+                    "response 1 China  02 january 2020",
+                    "response 2 China 02 january 2020",
+                    "response 3 China 02 january 2020"
                 ]
             }
-        },
-        {
-            "02/01/2020": {
-                "reports": [
-                    "report 1 02 january 2020",
-                    "report 2 02 january 2020",
-                    "report 3 02 january 2020"
-                ],
-                "preparedness_and_responses": [
-                    {
-                        "authority": "WHO",
-                        "responses": [
-                            "response 1 who  02 january 2020",
-                            "response 2 who 02 january 2020",
-                            "response 3 who 02 january 2020"
-                        ]
-                    }
-                ]
-            }
-        }
-    ]
-}
+        ]
+    }
+]
