@@ -36,8 +36,10 @@
                 },
                 "20": {
                     "situation": {
-                        "0": "On 20 January 2020, National IHR Focal Point (NFP) for Republic of Korea reported the first case of novel coronavirus in the Republic of Korea.",
-                        "1": "As of 20 January 2020, 282 confirmed cases of 2019-nCoV have been reported from four countries including China (278 cases), Thailand (2 cases), Japan (1 case) and the Republic of Korea (1 case); Cases in Thailand, Japan and Republic of Korea were exported from Wuhan City, China; Among the 278 cases confirmed in China, 258 cases were reported from Hubei Province, 14 from Guangdong Province, five from Beijing Municipality and one from Shanghai Municipality; Of the 278 confirmed cases, 51 cases are severely ill1, 12 are in critical condition2; Six deaths have been reported from Wuhan City"
+                        "0": "As of 20 January 2020, 282 confirmed cases of 2019-nCoV have been reported from four countries including China (278 cases), Thailand (2 cases), Japan (1 case) and the Republic of Korea (1 case).",
+                        "1": "Cases in Thailand, Japan and Republic of Korea were exported from Wuhan City, China",
+                        "2": "Among the 278 cases confirmed in China, 258 cases were reported from Hubei Province, 14 from Guangdong Province, five from Beijing Municipality and one from Shanghai Municipality.",
+                        "3": "Of the 278 confirmed cases, 51 cases are severely ill, 12 are in critical condition; Six deaths have been reported from Wuhan City"
                     }
                 }
             }
