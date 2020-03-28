@@ -3,7 +3,7 @@
         "december": {
             "days": {
                 "31": {
-                    "situation": {
+                    "situations": {
                         "0": "On 31 December 2019, the WHO China Country Office was informed of cases of pneumonia unknown etiology (unknown cause) detected in Wuhan City, Hubei Province of China. From 31 December 2019 through 3 January 2020, a total of 44 case-patients with pneumonia of unknown etiology were reported to WHO by the national authorities in China. During this reported period, the causal agent was not identified."
                     }
                 }
@@ -14,28 +14,28 @@
         "january": {
             "days": {
                 "11": {
-                    "situation": {
+                    "situations": {
                         "0": "On 11 and 12 January 2020, WHO received further detailed information from the National Health Commission China that the outbreak is associated with exposures in one seafood market in Wuhan City. The Chinese authorities identified a new type of coronavirus, which was isolated on 7 January 2020."
                     }
                 },
                 "12": {
-                    "situation": {
+                    "situations": {
                         "0": "On 11 and 12 January 2020, WHO received further detailed information from the National Health Commission China that the outbreak is associated with exposures in one seafood market in Wuhan City. The Chinese authorities identified a new type of coronavirus, which was isolated on 7 January 2020.",
                         "1": "On 12 January 2020, China shared the genetic sequence of the novel coronavirus for countries to use in developing specific diagnostic kits."
                     }
                 },
                 "13": {
-                    "situation": {
+                    "situations": {
                         "0": "On 13 January 2020, the Ministry of Public Health, Thailand reported the first imported case of lab-confirmed novel coronavirus (2019-nCoV) from Wuhan, Hubei Province, China."
                     }
                 },
                 "15": {
-                    "situation": {
+                    "situations": {
                         "0": "On 15 January 2020, the Ministry of Health, Labour and Welfare, Japan (MHLW) reported an imported case of laboratory-confirmed 2019-novel coronavirus (2019-nCoV) from Wuhan, Hubei Province, China."
                     }
                 },
                 "20": {
-                    "situation": {
+                    "situations": {
                         "0": "As of 20 January 2020, 282 confirmed cases of 2019-nCoV have been reported from four countries including China (278 cases), Thailand (2 cases), Japan (1 case) and the Republic of Korea (1 case).",
                         "1": "Cases in Thailand, Japan and Republic of Korea were exported from Wuhan City, China",
                         "2": "Among the 278 cases confirmed in China, 258 cases were reported from Hubei Province, 14 from Guangdong Province, five from Beijing Municipality and one from Shanghai Municipality.",
@@ -56,7 +56,7 @@
                     }
                 },
                 "23": {
-                    "situation": {
+                    "situations": {
                         "0": "A total of 581 confirmed cases have been reported for novel coronavirus (2019-nCoV) globally.",
                         "1": "Of the 581 cases reported, 571 cases were reported from China.",
                         "2": "Cases have been reported in Thailand, Japan, Hong Kong Special Administrative Region, Taipei Municipality, China, Macau Special Administrative Region, United States of America and the Republic of Korea; All had travel history to Wuhan.",
@@ -123,7 +123,7 @@
                     }
                 },
                 "24": {
-                    "situation": {
+                    "situations": {
                         "0": "A total of 846 confirmed cases have been reported for novel coronavirus (2019-nCoV) globally.",
                         "1": "Of the 846 cases reported, 830 cases were reported from China.",
                         "2": "Eleven confirmed cases have been reported outside of China in six countries (see table-1).",
