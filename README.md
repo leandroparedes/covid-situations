@@ -1,6 +1,8 @@
 # covid-situations
 Situations reports since the beginning of the Coronavirus outbreak
 
+**This is a work in progress**
+
 ## Endpoints
 
 [/situations](https://covid-situations.herokuapp.com/situations)
