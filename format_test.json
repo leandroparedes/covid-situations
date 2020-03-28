@@ -1,0 +1,69 @@
+[
+    {
+        "year": "2019",
+        "months": [
+            {
+                "month": "december",
+                "days": [
+                    {
+                        "day": "31",
+                        "situation": [
+                            "situation 1 december",
+                            "situation 2 december",
+                            "situation 3 december"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "months": [
+            {
+                "month": "january",
+                "days": [
+                    {
+                        "day": "1",
+                        "situation": [
+                            "situation 1 january",
+                            "situation 2 january",
+                            "situation 3 january"
+                        ]
+                    }
+                ]
+            },
+            {
+                "month": "february",
+                "days": [
+                    {
+                        "day": "1",
+                        "situation": [
+                            "situation 1 february",
+                            "situation 2 february",
+                            "situation 3 february"
+                        ],
+                        "preparedness_and_responses": [
+                            {
+                                "authority": "WHO",
+                                "responses": [
+                                    "response 1 who",
+                                    "response 2 who",
+                                    "response 3 who"
+                                ]
+                            },
+                            {
+                                "authority": "China",
+                                "responses": [
+                                    "response 1 china",
+                                    "response 2 china",
+                                    "response 3 china"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
