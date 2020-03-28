@@ -27,7 +27,7 @@ app.get('/situations/:year/:month', (req, res) => {
 });
 
 app.get('/situations/:year/:month/:day', (req, res) => {
-    const dayData = data[req.params.year][req.params.month][req.params.day];
+    const dayData = data[req.params.year][req.params.month]['days'][req.params.day];
 
     if (! dayData) {
         res.send({ message: `No hay datos para el dia ${req.params.day} del mes ${req.params.month} del año ${req.params.year}` });
