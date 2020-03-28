@@ -13,3 +13,6 @@ Situations reports since the beginning of the Coronavirus outbreak
 
 ## Collaborators
 https://github.com/sebagutierrez
+
+## Data Source
+https://github.com/CSSEGISandData/COVID-19
