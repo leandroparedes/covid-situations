@@ -121,6 +121,21 @@
                             "4": "CDC has developed a rRT-PCR test that can diagnose 2019-nCoV."
                         }
                     }
+                },
+                "24": {
+                    "situation": {
+                        "0": "A total of 846 confirmed cases have been reported for novel coronavirus (2019-nCoV) globally.",
+                        "1": "Of the 846 cases reported, 830 cases were reported from China.",
+                        "2": "Eleven confirmed cases have been reported outside of China in six countries (see table-1).",
+                        "3": "Of these 11 confirmed cases, 10 had travel history to Wuhan.",
+                        "4": "Of the 830 confirmed cases in China, 375 cases were confirmed from Hubei Province.",
+                        "5": "Of the 830 cases, 177 cases have been reported as severely ill.",
+                        "6": "Twenty-five deaths have been reported to date.",
+                        "7": "On 24 January 2020, the number of reported confirmed cases of 2019-nCoV has increased by 265 cases since the last situation report published on 23 January 2020, including China which reported additional 259 confirmed cases.",
+                        "8": "New epidemiological information reinforces the evidence that the 2019-nCoV can be transmitted from one individual to another. During previous outbreaks due to other coronavirus (Middle-East Respiratory Syndrome (MERS) and the Severe Acute Respiratory Syndrome (SARS)), human to human transmission occurred through droplets, contact and fomites, suggesting that the transmission mode of the 2019-nCoV can be similar. The strategic objectives of the response are to interrupt the transmission of the virus from one person to another in China, to prevent exportation of cases from China to other countries and territories, and to prevent further transmission from exported case if they were to happen. This can be achieved through a combination of public health measures, such as rapid identification, diagnosis and management of the cases, identification and follow up of the contacts, infection prevention and control in healthcare settings, implementation of health measures for travellers, awareness raising in the population, risk communication. WHO continuously updates guidance and works closely with Member States to implement these measures.",
+                        "9": "On 22 and 23 January, WHO Director-General convened an Emergency Committee under the International Health Regulations (IHR) (2005) regarding the outbreak of novel coronavirus (2019- nCoV).",
+                        "10": "WHO assesses the risk of this event to be very high in China, high at the regional level and high at the global level."
+                    }
                 }
             }
         }
