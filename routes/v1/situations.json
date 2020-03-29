@@ -4,6 +4,10 @@
         "reports": [
             "On 31 December 2019, the WHO China Country Office was informed of cases of pneumonia unknown etiology (unknown cause) detected in Wuhan City, Hubei Province of China. From 31 December 2019 through 3 January 2020, a total of 44 case-patients with pneumonia of unknown etiology were reported to WHO by the national authorities in China. During this reported period, the causal agent was not identified."
         ],
+        "highlights": [
+            "Virus outbreak",
+            "44 posible cases"
+        ],
         "preparedness_and_responses": [
             {
                 "authority": "World Health Organization",
@@ -80,24 +84,37 @@
         "date": "2020/01/11",
         "reports": [
             "On 11 and 12 January 2020, WHO received further detailed information from the National Health Commission China that the outbreak is associated with exposures in one seafood market in Wuhan City. The Chinese authorities identified a new type of coronavirus, which was isolated on 7 January 2020."
+        ],
+        "highlights": [
+            "Outbreak is associated with a market in Wuhan City",
+            "New type of coronavirus identified"
         ]
     },
     {
         "date": "2020/01/12",
         "reports": [
             "On 12 January 2020, China shared the genetic sequence of the novel coronavirus for countries to use in developing specific diagnostic kits."
+        ],
+        "highlights": [
+            "Coronavirus genetic sequence shared for developing diagnostic kit"
         ]
     },
     {
         "date": "2020/01/13",
         "reports": [
             "On 13 January 2020, the Ministry of Public Health, Thailand reported the first imported case of lab-confirmed novel coronavirus (2019-nCoV) from Wuhan, Hubei Province, China."
+        ],
+        "highlights": [
+            "First imported case on Thailand"
         ]
     },
     {
         "date": "2020/01/15",
         "reports": [
             "On 15 January 2020, the Ministry of Health, Labour and Welfare, Japan (MHLW) reported an imported case of laboratory-confirmed 2019-novel coronavirus (2019-nCoV) from Wuhan, Hubei Province, China."
+        ],
+        "highlights": [
+            "First imported case on Japan"
         ]
     },
     {
@@ -107,6 +124,11 @@
             "Cases in Thailand, Japan and Republic of Korea were exported from Wuhan City, China",
             "Among the 278 cases confirmed in China, 258 cases were reported from Hubei Province, 14 from Guangdong Province, five from Beijing Municipality and one from Shanghai Municipality.",
             "Of the 278 confirmed cases, 51 cases are severely ill, 12 are in critical condition; Six deaths have been reported from Wuhan City"
+        ],
+        "highlights": [
+            "282 confirmed cases on multiples countries",
+            "China: 51 severe ill cases and 12 in critical condition",
+            "6 deaths in Wuhan City"
         ]
     },
     {
@@ -121,6 +143,11 @@
             "Four of five deaths, with available epidemiological information, had underlying comorbidities.",
             "To date, sixteen health care workers have been infected.",
             "Details reported on 21 January 2020: Additional 32 cases (11% increase in number cases) have been reported since the last situation report published on 21 January 2020. Cases have been reported in seven additional provinces and two municipalities. One case was reported in Taiwan, China."
+        ],
+        "highlights": [
+            "314 confirmed cases globally",
+            "11% increase in number of cases since last report",
+            "First case in Taiwan"
         ]
     },
     {
@@ -136,6 +163,13 @@
             "Currently, cases infected in China have been exported to the US, Thailand, Japan and Republic of Korea. It is expected that more cases will be exported to other countries, and that further transmission may occur.",
             "The initial source of 2019-nCoV still remains unknown. However, it is clear the growing outbreak is no longer due to ongoing exposures at the Huanan seafood market in Wuhan; as in the last one week, less than 15% of new cases reported having visited Huanan market. There is now more evidence that 2019-nCoV spreads from human- to- human and also across generations of cases. Moreover, family clusters involving persons with no reported travel to Wuhan have been reported from Guangdong Province. There have been very few reports of hospital outbreaks or infections of health care workers, which is a prominent feature of MERS and SARS.",
             "WHO assesses the risk of this event to be very high in China, high at the regional level and high at the global level."
+        ],
+        "highlights": [
+            "581 confirmed cases globally",
+            "Reported cases from the United States of America",
+            "17 deaths in Hubei Province, China",
+            "China: 25% of confirmed cases reported as severe ill",
+            "WHO assesses the risk to be moderate at regional and global level"
         ]
     },
     {
@@ -147,6 +181,13 @@
             "Twenty-five deaths have been reported to date.",
             "On 24 January 2020, the number of reported confirmed cases of 2019-nCoV has increased by 265 cases since the last situation report published on 23 January 2020, including China which reported additional 259 confirmed cases. ",
             "New epidemiological information reinforces the evidence that the 2019-nCoV can be transmitted from one individual to another. During previous outbreaks due to other coronavirus (Middle-East Respiratory Syndrome (MERS) and the Severe Acute Respiratory Syndrome (SARS)), human to human transmission occurred through droplets, contact and fomites, suggesting that the transmission mode of the 2019-nCoV can be similar. The strategic objectives of the response are to interrupt the transmission of the virus from one person to another in China, to prevent exportation of cases from China to other countries and territories, and to prevent further transmission from exported case if they were to happen. This can be achieved through a combination of public health measures, such as rapid identification, diagnosis and management of the cases, identification and follow up of the contacts, infection prevention and control in healthcare settings, implementation of health measures for travellers, awareness raising in the population, risk communication. WHO continuously updates guidance and works closely with Member States to implement these measures."
+        ],
+        "highlights": [
+            "846 confirmed cases globally",
+            "25 confirmed deaths",
+            "11 cases reported in six countries",
+            "First case on Vietnam",
+            "New information reinforces the evidence of human-to-human transmission",
         ],
         "preparedness_and_responses": [
             {
@@ -212,6 +253,12 @@
             "Forty-one deaths have been reported to date (39 deaths in Hubei province, one death in Hebei province and one in Heilongjiang province).",
             "On 25 January 2020, the number of reported confirmed cases of 2019-nCoV has increased by 474 cases since the last situation report published on 24 January 2020."
         ],
+        "highlights": [
+            "1,320 confirmed cases globally",
+            "23 cases reported in 9 countries",
+            "237 cases reported as severy ill in China",
+            "41 confirmed deaths"
+        ],
         "preparedness_and_responses": [
             {
                 "authority": "Australia",
@@ -234,6 +281,11 @@
             "Among the three cases identified in countries outside of China: One case in Australia had direct contact with a confirmed case from Wuhan while in China; One case in Australia reported today; travel history is not yet known; One case in Viet Nam had no travel history but was in contact with a confirmed case (his father with travel history to Wuhan), resulting from human to human transmission within a family.",
             "Of the 1,975 confirmed cases (excluding Hong Kong SAR, Macau SAR and Taipei), 324 cases have been reported as severely ill.",
             "Fifty-six deaths have been reported to date (52 deaths in Hubei province and 4 from outside Hubei)."
+        ],
+        "highlights": [
+            "2,014 confirmed cases globally",
+            "29 confirmed cases in 10 countries",
+            "56 confirmed deaths"
         ],
         "preparedness_and_responses": [
             {
