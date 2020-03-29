@@ -678,5 +678,16 @@
             "The global number of reported cases of COVID-19 has surpassed 100,000.",
             "OpenWHO has reached 161, 000 learners in COVID-19 courses. The introductory course on COVID-19 has been partially or fully translated into 17 national languages."
         ]
+    },
+    {
+        "date": "2020/03/08",
+        "reports": [
+            "8 new countries/territories/areas (Bulgaria, Costa Rica, Faroe Islands, French Guiana, Maldives, Malta, Martinique, and Republic of Moldova) have reported cases of COVID-19 in the past 24 hours.",
+            "Over 100 countries have now reported laboratory-confirmed cases of COVID19.",
+            "WHO has issued a consolidated package of existing preparedness and response guidance for countries to enable them to slow and stop COVID-19 transmission and save lives. WHO is urging all countries to prepare for the potential arrival of COVID-19 by readying emergency response systems; increasing capacity to detect and care for patients; ensuring hospitals have the space, supplies and necessary personnel; and developing life-saving medical interventions."
+        ],
+        "highlights": [
+            "100 countries with laboratory-confirmed cases"
+        ]
     }
 ]
