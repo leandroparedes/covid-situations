@@ -289,5 +289,21 @@
             }
         ]
     },
+    {
+        "date": "2020/01/31",
+        "reports": [
+            "The Emergency Committee on the novel coronavirus (2019-nCoV) under the International Health Regulations (IHR 2005) was reconvened on 30 January. WHO declared the outbreak to be a public health emergency of international concern. The Emergency Committee has provided advice to WHO, to the People’s Republic of China, to all countries, and to the global community, on measures to control this outbreak. The Committee believes that it is still possible to interrupt virus spread, provided that countries put in place strong measures to detect disease early, isolate and treat cases, trace contacts, and promote social distancing measures commensurate with the risk.",
+            "Today, the first two confirmed cases of 2019-nCoV acute respiratory disease were reported in Italy; both had travel history to Wuhan City.",
+            "WHO’s Risk Communication Team has launched a new information platform called WHO Information Network for Epidemics (EPI-WIN). EPI-WIN will use a series of amplifiers to share tailored information for specific target groups. EPIWIN began this week to establish connections to health care and travel and tourism sectors and will work with food and agriculture and business/employer sectors next week."
+        ],
+        "preparedness_and_responses": [
+            {
+                "authority": "World Health Organization",
+                "actions": [
+                    "WHO has actively sought misinformation and responded to rumours through ‘myth busting’ on WHO’s social media and its website."
+                ]
+            }
+        ]
+    },
     }
 ]
