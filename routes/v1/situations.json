@@ -531,5 +531,12 @@
             "No new countries reported cases of COVID-19 in the past 24 hours.",
             "WHO is working with an international network of statisticians and mathematical modelers to estimate key epidemiologic parameters of COVID19, such as the incubation period (the time between infection and symptom onset), case fatality ratio (CFR, the proportion of cases that die), and the serial interval (the time between symptom onset of a primary and secondary case). Reports of current analyses that have estimated these parameters are provided in this Situation Report as a summary of currently available evidence. These values should be considered preliminary and parameters will likely be updated as more information becomes available. Modelling can support decision-making but needs to be combined with rigorous data collection and a comprehensive analysis of the situation."
         ]
+    },
+    {
+        "date": "2020/02/22",
+        "reports": [
+            "Two new countries (Lebanon and Israel) reported cases of COVID-19 in the past 24 hours.", "The role of environmental contamination in the transmission of COVID-19 is not yet clear. On 18 February, a new protocol entitled “Surface sampling of coronavirus disease (COVID-19): A practical “how to” protocol for health care and public health professionals” was published. This protocol was designed to determine viable virus presence and persistence on fomites in various locations where a COVID-19 patient is receiving care or isolated, and to understand how fomites may play a role in the transmission of the virus.",
+            "The WHO Director-General briefed the emergency ministerial meeting on COVID-19 organized by the African Union and the Africa Centres for Disease Control and Prevention."
+        ]
     }
 ]
