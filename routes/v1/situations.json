@@ -245,5 +245,14 @@
                 ]
             }
         ]
+    },
+    {
+        "date": "2020/01/27",
+        "reports": [
+            "WHO Director-General Dr Tedros Adhanom Ghebreyesus and colleagues are in Beijing to meet with government and health experts supporting the response. The mission’s aim is to understand the latest developments and strengthen the partnership with China, in particular for the response.",
+            "Current estimates of the incubation period of the virus range from 2-10 days, and these estimates will be refined as more data become available. Understanding the time when infected patients may transmit the virus to others is critical for control efforts. Detailed epidemiological information from more people infected is needed to determine the infectious period of 2019-nCoV, in particular whether transmission can occur from asymptomatic individuals or during the incubation period. WHO requests countries to notify WHO of cases following the guidanceincluded in: https://www.who.int/publications-detail/global-surveillance-forhuman-infection-with-novel-coronavirus-(2019-ncov)",
+            "WHO is continually monitoring developments and on standby to reconvene the Emergency Committee on very short notice as needed. Committee members are regularly informed of developments."
+        ]    
+    },
     }
 ]
