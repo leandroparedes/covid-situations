@@ -200,5 +200,29 @@
                 ]
             }
         ]
+    },
+    {
+        "date": "2020/01/25",
+        "reports": [
+            "A total of 1,320 confirmed cases have been reported for novel coronavirus (2019-nCoV) globally. Of the 1,320 cases reported, 1,297 cases were reported from China, including Hong Kong SAR (5 confirmed cases), Macau SAR (2 confirmed cases) and Taipei (3 confirmed cases).",
+            "A total of 1,965 suspected cases have been reported from 20 Chinese provinces, regions and cities (excluding Hong Kong SAR, Macau SAR and Taipei).",
+            "Twenty-three confirmed cases have been reported outside of China in nine countries.",
+            "Of these 23 confirmed cases, 21 had travel history to Wuhan City, China; one case in Australia had direct contact with a confirmed case from Wuhan while in China; and one confirmed case in Viet Nam had no travel history to any part of China as mentioned in situation report published on 24 January. According to preliminary investigations, this constitutes an instance of human to human transmission within a family.",
+            "Of the 1,287 confirmed cases (excluding Hong Kong SAR, Macau SAR and Taipei), 237 cases been reported as severely ill.",
+            "Forty-one deaths have been reported to date (39 deaths in Hubei province, one death in Hebei province and one in Heilongjiang province).",
+            "On 25 January 2020, the number of reported confirmed cases of 2019-nCoV has increased by 474 cases since the last situation report published on 24 January 2020."
+        ],
+        "preparedness_and_responses": [
+            {
+                "authority": "Australia",
+                "actions": [
+                    "Updated General Physicians, pharmacists, emergency departments, and the broader health system on the situation as it evolves to enable possible cases to be rapidly identified, diagnosed and managed.",
+                    "Developed diagnostic tests through the Public Health laboratories to rapidly diagnose cases.",
+                    "Supported the Commonwealth to provide advice and assess travellers for illness on the direct flight from Wuhan to Sydney on 23 January.",
+                    "Providing regular updates to the community, through media briefings, media release and social media including in Mandarin.",
+                    "Infection with 2019-nCoV is now notifiable under the New South Wales Public Health Act 2010, so doctors and pathology laboratories are required to notify NSW Health of all people suspected to have this infection."
+                ]
+            }
+        ]
     }
 ]
