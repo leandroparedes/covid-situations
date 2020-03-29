@@ -305,5 +305,13 @@
             }
         ]
     },
+    {
+        "date": "2020/02/01",
+        "reports": [
+            "The main driver of transmission, based on currently available data, is symptomatic cases. WHO is aware of possible transmission of 2019-nCoV from infected people before they developed symptoms. Detailed exposure histories are being taken to better understand the pre-clinical phase of infection and how transmission may have occurred in these few instances. Asymptomatic infection may be rare, and transmission from an asymptomatic person is very rare with other coronaviruses, as we have seen with Middle East Respiratory Syndrome coronavirus. Thus, transmission from asymptomatic cases is likely not a major driver of transmission. Persons who are symptomatic will spread the virus more readily through coughing and sneezing.",
+            "In China, 60.5% of all cases since the start of the outbreak have been reported from Hubei Province.",
+            "Additional instances of human-to-human transmission outside China were reported."
+        ]
+    },
     }
 ]
