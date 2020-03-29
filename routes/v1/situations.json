@@ -533,6 +533,21 @@
         ]
     },
     {
+        "date": "2020/02/20",
+        "reports": [
+            "One new country (Islamic Republic of Iran) reported cases of COVID-19 in the past 24 hours.",
+            "China has revised their guidance on case classification for COVID-19, removing the classification of “clinically diagnosed” previously used for Hubei province, and retaining only “suspected” and “confirmed” for all areas, the latter requiring laboratory confirmation. Some previously reported “clinically diagnosed” cases are thus expected to be discarded over the coming days as laboratory testing is conducted and some are found to be COVID-19-negative.",
+            "In early January, following the notification of the occurrence of cases of COVID-19 among travelers from Wuhan, China, WHO established a Global Surveillance System to collect and organize essential information to describe and monitor COVID-19. All WHO regions have implemented the reporting of COVID-19 cases either through existing or newly-established data collection systems."
+        ]
+    },
+    {
+        "date": "2020/02/21",
+        "reports": [
+            "No new countries reported cases of COVID-19 in the past 24 hours.",
+            "Through the International Food Safety Authorities Network (INFOSAN), national food safety authorities are seeking more information on the potential for persistence of SARS-CoV-2, which causes COVID-19, on foods traded internationally as well as the potential role of food in the transmission of the virus. Currently, there are investigations conducted to evaluate the viability and survival time of SARS-CoV-2. As a general rule, the consumption of raw or undercooked animal products should be avoided. Raw meat, raw milk or raw animal organs should be handled with care to avoid crosscontamination with uncooked foods."
+        ]
+    },
+    {
         "date": "2020/02/22",
         "reports": [
             "Two new countries (Lebanon and Israel) reported cases of COVID-19 in the past 24 hours.", "The role of environmental contamination in the transmission of COVID-19 is not yet clear. On 18 February, a new protocol entitled “Surface sampling of coronavirus disease (COVID-19): A practical “how to” protocol for health care and public health professionals” was published. This protocol was designed to determine viable virus presence and persistence on fomites in various locations where a COVID-19 patient is receiving care or isolated, and to understand how fomites may play a role in the transmission of the virus.",
@@ -593,7 +608,60 @@
         "date": "2020/02/29",
         "reports": [
             "Two new Member States (Mexico and San Marino) reported cases of COVID19 in the past 24 hours.",
-            "WHO has published the Rational use of personal protective equipment for COVID-19. This document summarizes WHO recommendations for the appropriate use of personal protective equipment (PPE) in health care and community settings, including the handling of cargo. More information on Infection Prevention and Control (IPC) activities can be found in the Subject in Focus."
+            "WHO has published the Rational use of personal protective equipment for COVID-19. This document summarizes WHO recommendations for the appropriate use of personal protective equipment (PPE) in health care and community settings, including the handling of cargo. More information on Infection Prevention and Control (IPC) activities can be found in the Subject in Focus."   
+        ]
+    },
+    {
+        "date": "2020/03/01",
+        "reports": [
+            "Five new Member States (Azerbaijan, Ecuador, Ireland, Monaco and Qatar) reported cases of COVID-19 in the past 24 hours.",
+            "Working with clinicians is crucial to understanding the clinical presentation, natural history and treatment interventions for COVID-19. WHO has published interim clinical guidance, clinical training materials and has launched a global clinical data platform to gather data and improve care for COVID-19 patients. This information is critical to inform the public health response.",
+            "The number of confirmed cases in Hubei province, China, has increased for two successive days after a period of decline. WHO is monitoring the situation and working to understand its possible significance.",
+            "WHO has published updated recommendations for international traffic in relation to COVID-19 outbreak."
+        ],
+        "preparedness_and_responses": [
+            {
+                "authority": "World Health Organization",
+                "actions": [
+                    "WHO is working with global expert networks and partnerships for laboratory, infection prevention and control, clinical management and mathematical modelling.",
+                    "WHO is working with its networks of researchers and other experts to coordinate global work on surveillance, epidemiology, modelling, diagnostics, clinical care and treatment, and other ways to identify, manage the disease and interrupt onward transmission. WHO has issued interim guidance for countries, which are updated regularly."
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2020/03/02",
+        "reports": [
+            "Six new Member States (Armenia, Czechia, Dominican Republic, Luxembourg, Iceland, and Indonesia) reported cases of COVID-19 in the past 24 hours.",
+            "A team of WHO experts has arrived in Tehran, Iran to support the COVID-19 response. The objectives are to identify transmission dynamics and at-risk populations, and provide technical guidance.",
+            "Containment remains the top priority for all countries. Management for COVID-19 globally, however, is not a one-size-fits-all approach and must be tailored to the transmission scenario a country faces. Early robust measures are key to saving lives and halting transmission, notes the WHO DirectorGeneral.",
+            "WHO’s Operations Supply and Logistics team are working across numerous areas to support the COVID-19 response. Activities include working to establish a Supply Chain Coordination Cell and providing a technical briefing for G20 members on the personal protective equipment (PPE) market situation."
+        ]
+    },
+    {
+        "date": "2020/03/03",
+        "reports": [
+            "Eight new Member States (Andorra, Jordan, Latvia, Morocco, Portugal, Saudi Arabia, Senegal, and Tunisia) reported cases of COVID-19 in the past 24 hours.",
+            "The increase of COVID-19 cases in the Eastern Mediterranean Region is of great concern. The WHO Regional Director of the Eastern Mediterranean region reiterated the need to enhance surveillance and response activities, and share critical information, as being essential to containing the outbreak and strengthening health systems.",
+            "The Pan American Health Organization (PAHO) is implementing a comprehensive plan to support country preparedness and containment efforts for COVID-19. Barbados was one of the first Caribbean countries to acquire test kits and reagents for COVID-19 detection, and receive training on how to use them.",
+            "Real-time training is critical for effective preparedness and response. WHO has several COVID-19 online resources for health professionals, decision-makers and the public in multiple languages."
+        ]
+    },
+    {
+        "date": "2020/03/04",
+        "reports": [
+            "Four new Member States (Argentina, Chile, Poland and Ukraine) have reported cases of COVID-19 in the past 24 hours.",
+            "The WHO Prequalification Team announced that the Emergency Use Listing (EUL) is now open to candidate in-vitro diagnostic (IVD) laboratory tests to detect COVID-19 virus. The EUL procedure is developed to expedite the availability of IVDs needed in public health emergency situations. Manufacturers are invited to submit an Expression of Interest.",
+            "Disruptions to the global supply of personal protective equipment (PPE) are leaving healthcare workers ill-equipped to care for patients. WHO is working with governments, industry and the Pandemic Supply Chain Network to boost production and secure allocations for critically affected and at-risk countries."
+        ]
+    },
+    {
+        "date": "2020/03/05",
+        "reports": [
+            "Five new countries/territories/areas (Bosnia and Herzegovina, Gibraltar, Hungary, Slovenia, and occupied Palestinian territory) have reported cases of COVID-19 in the past 24 hours.",
+            "In anticipation for an increase in the number of COVID-19 cases, the SouthEast Asia Region is preparing to roll out rapid response activities by engaging with communities, procuring personal protective equipment (PPE), and ensuring laboratories have the capacity to test for COVID-19 or ship samples to global referral laboratories.",
+            "The WHO Director-General emphasized the importance of implementing a comprehensive approach to mitigate the impact of COVID-19. Educating the population, expanding surveillance, caring for patients, and strengthening preparedness systems are key to interrupting transmission.",
+            "WHO’s initiative called the WHO Network for Information in Epidemics (EPIWIN) leverages all communications platforms to amplify evidence-based information. EPI-WIN has identified trusted sources and engaged with these “trust chains”."
         ]
     }
 ]
