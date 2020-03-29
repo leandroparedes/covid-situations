@@ -224,5 +224,26 @@
                 ]
             }
         ]
+    },
+    {
+        "date": "2020/01/26",
+        "reports": [
+            "On 26 January 2020, the number of reported confirmed cases of novel coronavirus (2019-nCoV) has increased by 694 cases since the last situation report published yesterday.",
+            "A total of 2,014 confirmed 2019-nCoV cases have been reported globally. Of the 2,014 cases reported, 1,985 cases were reported from China, including Hong Kong SAR (5 confirmed cases), Macau SAR (2 confirmed cases) and Taipei (3 confirmed cases).",
+            "Twenty-nine confirmed cases have been reported outside of China in ten countries. Of these 29 exported cases, 26 had a travel history from Wuhan City, China.",
+            "Among the three cases identified in countries outside of China: One case in Australia had direct contact with a confirmed case from Wuhan while in China; One case in Australia reported today; travel history is not yet known; One case in Viet Nam had no travel history but was in contact with a confirmed case (his father with travel history to Wuhan), resulting from human to human transmission within a family.",
+            "Of the 1,975 confirmed cases (excluding Hong Kong SAR, Macau SAR and Taipei), 324 cases have been reported as severely ill.",
+            "Fifty-six deaths have been reported to date (52 deaths in Hubei province and 4 from outside Hubei)."
+        ],
+        "preparedness_and_responses": [
+            {
+                "authority": "World Health Organization",
+                "actions": [
+                    "WHO is providing guidance on early investigations, which are critical to carry out early in an outbreak of a new virus. The data collected from the study protocols can be used to refine recommendations for surveillance and case definitions, to characterize the key epidemiological transmission features of 2019-nCoV, help understand spread, severity, spectrum of disease, impact on the community and to inform operational models for implementation of countermeasures such as case isolation, contact tracing and isolation. The first protocol that is available is a: Household transmission investigation protocol for 2019-novel coronavirus (2019-nCoV) infection.",
+                    "WHO has developed an online course to provide general introduction to emerging respiratory viruses, including novel coronaviruses.",
+                    "WHO is working with networks of specialists to analyze 2019-nCoV full genome as they become available."
+                ]
+            }
+        ]
     }
 ]
