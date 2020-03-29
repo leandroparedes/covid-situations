@@ -338,5 +338,21 @@
             "The business sectoris one audience to whom EPI-WIN is reaching out with tailored information. EPI-WIN colleagues co-hosted a call with a global communications firm whose clients include large multinationals. Over 50 multinationals were represented on the call, where WHO provided an update of the 2019-nCoV situation and responded to questions about improving communications with employees; the role of businesses in public health crises; and managing uncertainty through accessing accurate information."
         ]
     },
+    {
+        "date": "2020/02/05",
+        "reports": [
+            "Belgium reported its first confirmed case of 2019-nCoV acute respiratory disease.",
+            "WHO and partners have developed a global strategic preparedness and response plan, which outlines the public health measures that the international community can provide to support all countries to prepare for and respond to the 2019‑nCoV outbreak. The overall goal of the plan is to stop further transmission of 2019‑nCoV within China and to other countries, and to mitigate the impact of the outbreak in all countries.",
+            "WHO is working with the travel and tourism industry to discuss real and perceived risks experienced in the industry, measures put in place for customers and employees, and challenges faced regarding implementation of the Temporary Recommendations associated with the declaration of a Public Health Emergency of International Concern. In the coming days, WHO will work with the industry to identify solutions to these challenges, within the framework of the International Health Regulations (2005)."
+        ],
+        "preparedness_and_responses": [
+            {
+                "authority": "World Health Organization",
+                "actions": [
+                    "WHO is working closely with International Air Transport Association (IATA) and have jointly developed a guidance document to provide advice to cabin crew and airport workers, based on country queries. The guidance can be found on the IATA webpage."
+                ]
+            }
+        ]
+    },
     }
 ]
