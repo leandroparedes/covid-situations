@@ -313,5 +313,14 @@
             "Additional instances of human-to-human transmission outside China were reported."
         ]
     },
+    {
+        "date": "2020/02/02",
+        "reports": [
+            "No new countries have reported cases of 2019-nCoV acute respiratory disease in the last 24 hours.",
+            "WHO is receiving information about cases from a number of countries. As additional details become known, WHO requests countries to share information in a timely manner as specified in the guidance on Global Surveillance for human infection with novel coronavirus (2019-nCoV).",
+            "The first death has been reported outside of China, in the Philippines. The patient was a close contact of the first patient confirmed in the Philippines.",
+            "Due to the high demand for timely and trustworthy information about 2019-nCoV WHO technical risk communication and social media teams have been working closely to track and respond to myths and rumours."
+        ]
+    },
     }
 ]
