@@ -254,5 +254,14 @@
             "WHO is continually monitoring developments and on standby to reconvene the Emergency Committee on very short notice as needed. Committee members are regularly informed of developments."
         ]    
     },
+    {
+        "date": "2020/01/28",
+        "reports": [
+            "A World Health Organization (WHO) senior leadership team, led by DirectorGeneral Dr Tedros Adhanom Ghebreyesus, today met President Xi Jinping of the People’s Republic of China in Beijing. They shared the latest information on the outbreak and reiterated their commitment to bring it under control.",
+            "The discussions focused on continued collaboration to improve containment measures in Wuhan, to strengthen public health measures in other cities and provinces, to conduct further studies and transmissibility of the virus, to continue to share data, and for China to share biological material with WHO. These measures will advance scientific understanding of the virus and contribute to the development such as vaccines and treatments.",
+            "WHO is launching a Global 2019-nCoV Clinical Data Platform to allow Member States to contribute anonymized clinical data in order to inform the public health clinical response.",
+            "WHO is continually monitoring developments and the Director-General can reconvene the Emergency Committee on very short notice as needed. Committee members are regularly informed of developments."
+        ]
+    },
     }
 ]
