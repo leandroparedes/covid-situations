@@ -413,5 +413,43 @@
             "WHO is working with partners to strengthen global diagnostic capacity for 2019-nCoV detection to improve surveillance and track the spread of disease. WHO and partners have activated a network of specialized referral laboratories with demonstrated expertise in the molecular detection of coronaviruses. These international labs can support national labs to confirm new cases and troubleshoot their molecular assays.",
             "WHO is convening a global research and innovation forum to mobilize international action in response to the new coronavirus, covering a broad spectrum of research areas including epidemiology, clinical care, vaccines, therapeutics, diagnostics, animal health, social sciences, and other topics."
         ]
+    },
+    {
+        "date": "2020/02/07",
+        "reports": [
+            "No new countries reported cases of 2019-nCoV in the past 24 hours.",
+            "To date, a total of 72 States Parties were identified to be implementing travel restrictions through official reports, official statements and the media. Of these 72 States Parties, WHO received 23 (32%) official reports from States Parties about their travel restrictions.",
+            "“The Pandemic Supply Chain Network (PSCN)” has commissioned a market assessment of the personal protective equipment market which will be distributed shortly to stakeholders of the PSCN as it continues to monitor the market. Additionally, senior management of WHO spoke with the stakeholders of the PSCN to ensure the private sector’s continued engagement to distribute supplies to those countries in most need. The PSCN will encourage manufacturers to increase production, commit supplies to frontline health emergency responders, and expand the number of stakeholders who are involved in the PSCN to gain a critical mass of suppliers to mitigate the operational risks within the market. WHO will continue to provide the technical guidance and coordination of supplies to those countries in most need."
+        ]
+    },
+    {
+        "date": "2020/02/08",
+        "reports": [
+            "No new countries reported cases of 2019-nCoV in the past 24 hours.",
+            "The infection prevention and control (IPC) global network is convened through weekly teleconferences with international IPC experts to discuss technical aspects of IPC measures, share epidemiological updates and experiences regarding the IPC measures put in place in affected countries. In consultation with the global IPC expert network, WHO has released three key IPC interim guidance materials on IPC measures during health care and home care, as well as advice on the use of masks in various settings."
+        ],
+        "cruise_ships_report": {
+            "diamond_princess": [
+                "As of 8 February, 64 individuals were found to have been infected with 2019-nCoV among passengers and crew members. All individuals testing positive were disembarked and admitted for medical care in infectious disease hospitals in the Yokohama area. Close contacts of the infected passengers are asked to remain in quarantine for 14 days from last contact with a confirmed case. Thus, the quarantine period will be extended beyond the 19 February as appropriate only for close contacts of newly confirmed cases."
+            ]
+        } 
+    },
+    {
+        "date": "2020/02/09",
+        "reports": [
+            "No new countries reported cases of 2019-nCoV in the past 24 hours."
+        ],
+        "cruise_ships_report": {
+            "diamond_princess": [
+                "On 9 February, Japanese National Health Authorities provided WHO with a detailed update on the situation of the Cruise Ship Diamond Princess, currently harboured in Yokohama, Japan. Following confirmation of a case of 2019-nCoV, all crew and passengers are being quarantined for a 14-day period on board the vessel, asked to stay in their cabins and to wear a mask when leaving their cabin. All crew and passengers are closely followed-up and are medically examined and tested for 2019-nCoV when displaying any signs or symptoms suggestive of 2019- nCoV disease. The quarantine period will come to an end on 19 February. Epidemiological and environmental investigations are ongoing."
+            ]
+        } 
+    },
+    {
+        "date": "2020/02/10",
+        "reports": [
+            "No new countries reported cases of 2019-nCoV in the past 24 hours.",
+            "The WHO R&D Blueprint is a global strategy and preparedness plan that allows the rapid activation of R&D activities during epidemics. On 11-12 February, WHO is convening a global research and innovation forum to mobilize international action and enable identification of key knowledge gaps and research priorities to contribute to the control of 2019-nCoV. The forum will include members of the scientific community, researchers from Member States’ public health agencies, regulatory experts, bioethicists with expertise in research in emergencies, and major funder of research related to 2019-nCoV."
+        ]
     }
 ]
