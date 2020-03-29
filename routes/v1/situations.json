@@ -699,7 +699,7 @@
         ]
     },
     {
-        "data": "2020/03/19",
+        "date": "2020/03/19",
         "reports": [
             "Seven new countries/territories/areas (African Region, Eastern Mediterranean Region, European Region, and Region of the Americas) have reported cases of COVID-19.",
             "The number of confirmed cases worldwide has exceeded 200 000. It took over three months to reach the first 100 00 confirmed cases, and only 12 days to reach the next 100 000.",
@@ -707,7 +707,7 @@
         ]
     },
     {
-        "data": "2020/03/20",
+        "date": "2020/03/20",
         "reports": [
             "Six new countries/territories/areas (African Region, and Region of the Americas, Western Pacific Region, European Region and South East Asia Region) have reported cases of COVID19.",
             "To increase access to reliable information, WHO has partnered with WhatsApp and Facebook to launch a WHO Health Alert messaging service. This service will provide the latest news and information on COVID-19, including details on symptoms and how people can protect themselves. The Health Alert service now available in English and will be introduced in other languages next week. To access it, send the word 'hi' to the following number on WhatsApp: +41 798 892.",
@@ -719,7 +719,7 @@
         ]
     },
     {
-        "data": "2020/03/21",
+        "date": "2020/03/21",
         "reports": [
             "Four new countries/territories/areas from the African Region have reported cases of COVID-19.",
             "As COVID-19 cases continue to increase, many countries are requesting individuals to stay at home in self-quarantine. WHO EURO has released a guide on how to stay physically active during self-quarantine.",
