@@ -524,5 +524,12 @@
                 ]
             }
         ]
+    },
+    {
+        "date": "2020/02/19",
+        "reports": [
+            "No new countries reported cases of COVID-19 in the past 24 hours.",
+            "WHO is working with an international network of statisticians and mathematical modelers to estimate key epidemiologic parameters of COVID19, such as the incubation period (the time between infection and symptom onset), case fatality ratio (CFR, the proportion of cases that die), and the serial interval (the time between symptom onset of a primary and secondary case). Reports of current analyses that have estimated these parameters are provided in this Situation Report as a summary of currently available evidence. These values should be considered preliminary and parameters will likely be updated as more information becomes available. Modelling can support decision-making but needs to be combined with rigorous data collection and a comprehensive analysis of the situation."
+        ]
     }
 ]
