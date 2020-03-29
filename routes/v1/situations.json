@@ -538,5 +538,11 @@
             "Two new countries (Lebanon and Israel) reported cases of COVID-19 in the past 24 hours.", "The role of environmental contamination in the transmission of COVID-19 is not yet clear. On 18 February, a new protocol entitled “Surface sampling of coronavirus disease (COVID-19): A practical “how to” protocol for health care and public health professionals” was published. This protocol was designed to determine viable virus presence and persistence on fomites in various locations where a COVID-19 patient is receiving care or isolated, and to understand how fomites may play a role in the transmission of the virus.",
             "The WHO Director-General briefed the emergency ministerial meeting on COVID-19 organized by the African Union and the Africa Centres for Disease Control and Prevention."
         ]
+    },
+    {
+        "date": "2020/02/23",
+        "reports": [
+            "No new countries reported cases of COVID-19 in the past 24 hours."
+        ]
     }
 ]
