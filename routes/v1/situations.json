@@ -544,5 +544,12 @@
         "reports": [
             "No new countries reported cases of COVID-19 in the past 24 hours."
         ]
+    },
+    {
+        "date": "2020/02/24",
+        "reports": [
+            "One new Member State (Kuwait) reported cases of COVID-19 in the past 24 hours.",
+            "Since the emergence of COVID-19 we have seen instances of public stigmatization among specific populations, and the rise of harmful stereotypes. Stigmatization could potentially contribute to more severe health problems, ongoing transmission, and difficulties controlling infectious diseases during an epidemic."
+        ]
     }
 ]
