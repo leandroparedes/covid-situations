@@ -3,18 +3,18 @@ const router = express.Router();
 
 const data = require('./situations.json');
 
-router.get('/:year', (req, res) => {
-    res.send('Feature not available at the moment');
+/**
+ * Return the last 10 situations reports
+ */
+router.get('/latest', (req, res) => {
+    res.send(
+        data.slice(data.length - 10, data.length)
+    );
 });
 
-router.get('/:year/:month', (req, res) => {
-    res.send('Feature not available at the moment');
-});
-
-router.get('/:year/:month/:day', (req, res) => {
-    res.send('Feature not available at the moment');
-});
-
+/**
+ * Return all situations reports
+ */
 router.get('/', (req, res) => {
     res.send(data);
 });
