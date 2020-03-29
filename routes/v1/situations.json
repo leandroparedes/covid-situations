@@ -697,5 +697,13 @@
                 ]
             }
         ]
+    },
+    {
+        "data": "2020/03/19",
+        "reports": [
+            "Seven new countries/territories/areas (African Region, Eastern Mediterranean Region, European Region, and Region of the Americas) have reported cases of COVID-19.",
+            "The number of confirmed cases worldwide has exceeded 200 000. It took over three months to reach the first 100 00 confirmed cases, and only 12 days to reach the next 100 000.",
+            "A new protocol to investigate the extent of COVID-19 infection in the population, as determined by positive antibody tests in the general population has been developed. The protocol is titled the Population-based age-stratified seroepidemiological investigation protocol for COVID-19 virus infection."
+        ]
     }
 ]
