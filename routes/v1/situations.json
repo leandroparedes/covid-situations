@@ -427,6 +427,22 @@
         "reports": [
             "No new countries reported cases of 2019-nCoV in the past 24 hours.",
             "The infection prevention and control (IPC) global network is convened through weekly teleconferences with international IPC experts to discuss technical aspects of IPC measures, share epidemiological updates and experiences regarding the IPC measures put in place in affected countries. In consultation with the global IPC expert network, WHO has released three key IPC interim guidance materials on IPC measures during health care and home care, as well as advice on the use of masks in various settings."
-        ]
+        ],
+        "cruise_ships_report": {
+            "diamond_princess": [
+                "As of 8 February, 64 individuals were found to have been infected with 2019-nCoV among passengers and crew members. All individuals testing positive were disembarked and admitted for medical care in infectious disease hospitals in the Yokohama area. Close contacts of the infected passengers are asked to remain in quarantine for 14 days from last contact with a confirmed case. Thus, the quarantine period will be extended beyond the 19 February as appropriate only for close contacts of newly confirmed cases."
+            ]
+        } 
+    },
+    {
+        "date": "2020/02/09",
+        "reports": [
+            "No new countries reported cases of 2019-nCoV in the past 24 hours."
+        ],
+        "cruise_ships_report": {
+            "diamond_princess": [
+                "On 9 February, Japanese National Health Authorities provided WHO with a detailed update on the situation of the Cruise Ship Diamond Princess, currently harboured in Yokohama, Japan. Following confirmation of a case of 2019-nCoV, all crew and passengers are being quarantined for a 14-day period on board the vessel, asked to stay in their cabins and to wear a mask when leaving their cabin. All crew and passengers are closely followed-up and are medically examined and tested for 2019-nCoV when displaying any signs or symptoms suggestive of 2019- nCoV disease. The quarantine period will come to an end on 19 February. Epidemiological and environmental investigations are ongoing."
+            ]
+        } 
     }
 ]
