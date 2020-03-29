@@ -476,5 +476,12 @@
             "The two-day global research and innovation forum regarding COVID-19 was convened in line with the WHO R&D Blueprint this week. Leading health experts from around the world met at WHO to assess the current level of knowledge about the new COVID-19 disease, identify gaps and work together to accelerate and fund priority research needed to help stop this outbreak and prepare for any future outbreaks.",
             "Overnight 14’840 cases, including 13’332 clinically diagnosed cases were reported from Hubei. This is the first time China has reported clinically diagnosed cases in addition to laboratory-confirmed cases. For consistency, we report here only the number of laboratory-confirmed cases. WHO has formally requested additional information on the clinically diagnosed cases, in particular when these have occurred in the course of the outbreak and whether suspect cases were reclassified as clinically diagnosed cases."
         ]
+    },
+    {
+        "date": "2020/02/14",
+        "reports": [
+            "The second death has been reported outside of China, in Japan. This individual did not have known travel history to China.",
+            "In China, health care workers account for 1716 confirmed cases of COVID-19 including six deaths."
+        ]
     }
 ]
