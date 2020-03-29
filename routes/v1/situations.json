@@ -680,5 +680,22 @@
             "As the on-going COVID-19 pandemic continues to develop, WHO is committed to working together with the travel, transport and tourism sectors on emergency preparedness and response.",
             ""
         ]
+    },
+    {
+        "date": "2020/03/18",
+        "reports": [
+            "One new country/territory/area (European Region) has reported cases of COVID-19.",
+            "Data presented in the COVID-19 Situation Reports has changed to reflect data reported as of 00:00 CET. As this is the first Situation Report with the new reporting period, there is overlap of data between Situation Report 57 and this report, thus the number of new cases may not equal the difference between total cases in the two reports.",
+            "WHO COVID-19 Situation Reports present official counts of confirmed COVID19 cases, thus differences between WHO reports and other sources of COVID19 data using different inclusion criteria and different data cutoff times are to be expected.",
+            "WHO, IFRC, and UNICEF jointly released the Risk Communication and Community Engagement (RCCE) Action Plan Guidance for COVID-19 on 16 March."
+        ],
+        "preparedness_and_responses": [
+            {
+                "authority": "World Health Organization",
+                "actions": [
+                    "WHO has developed online courses on the following topics: A general introduction to emerging respiratory viruses, including novel coronaviruses (available in Arabic, Chinese, English, French, Russian, Spanish, Portuguese, Persian, Serbian, and Turkish); Clinical Care for Severe Acute Respiratory Infections (available in English, French, Russian, and Vietnamese); Health and safety briefing for respiratory diseases - ePROTECT (available in English, French, Russian, Indonesian, and Portuguese); Infection Prevention and Control for Novel Coronavirus (COVID-19) (available in English, French, Russian, Spanish, Indonesian, Italian, Japanese, Portuguese, and Serbian); and COVID-19 Operational Planning Guidelines and COVID-19 Partners Platform to support country preparedness and response (available in English and coming soon in additional languages)."
+                ]
+            }
+        ]
     }
 ]
