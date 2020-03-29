@@ -546,5 +546,23 @@
             "No new countries reported cases of COVID-19 in the past 24 hours.",
             "Through the International Food Safety Authorities Network (INFOSAN), national food safety authorities are seeking more information on the potential for persistence of SARS-CoV-2, which causes COVID-19, on foods traded internationally as well as the potential role of food in the transmission of the virus. Currently, there are investigations conducted to evaluate the viability and survival time of SARS-CoV-2. As a general rule, the consumption of raw or undercooked animal products should be avoided. Raw meat, raw milk or raw animal organs should be handled with care to avoid crosscontamination with uncooked foods."
         ]
+    },
+    {
+        "date": "2020/03/01",
+        "reports": [
+            "Five new Member States (Azerbaijan, Ecuador, Ireland, Monaco and Qatar) reported cases of COVID-19 in the past 24 hours.",
+            "Working with clinicians is crucial to understanding the clinical presentation, natural history and treatment interventions for COVID-19. WHO has published interim clinical guidance, clinical training materials and has launched a global clinical data platform to gather data and improve care for COVID-19 patients. This information is critical to inform the public health response.",
+            "The number of confirmed cases in Hubei province, China, has increased for two successive days after a period of decline. WHO is monitoring the situation and working to understand its possible significance.",
+            "WHO has published updated recommendations for international traffic in relation to COVID-19 outbreak."
+        ],
+        "preparedness_and_responses": [
+            {
+                "authority": "World Health Organization",
+                "actions": [
+                    "WHO is working with global expert networks and partnerships for laboratory, infection prevention and control, clinical management and mathematical modelling.",
+                    "WHO is working with its networks of researchers and other experts to coordinate global work on surveillance, epidemiology, modelling, diagnostics, clinical care and treatment, and other ways to identify, manage the disease and interrupt onward transmission. WHO has issued interim guidance for countries, which are updated regularly."
+                ]
+            }
+        ]
     }
 ]
