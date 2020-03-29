@@ -297,5 +297,121 @@
                 ]
             }
         ]
+    },
+    {
+        "date": "2020/01/27",
+        "reports": [
+            "WHO Director-General Dr Tedros Adhanom Ghebreyesus and colleagues are in Beijing to meet with government and health experts supporting the response. The mission’s aim is to understand the latest developments and strengthen the partnership with China, in particular for the response.",
+            "Current estimates of the incubation period of the virus range from 2-10 days, and these estimates will be refined as more data become available. Understanding the time when infected patients may transmit the virus to others is critical for control efforts. Detailed epidemiological information from more people infected is needed to determine the infectious period of 2019-nCoV, in particular whether transmission can occur from asymptomatic individuals or during the incubation period. WHO requests countries to notify WHO of cases following the guidanceincluded in: https://www.who.int/publications-detail/global-surveillance-forhuman-infection-with-novel-coronavirus-(2019-ncov)",
+            "WHO is continually monitoring developments and on standby to reconvene the Emergency Committee on very short notice as needed. Committee members are regularly informed of developments."
+        ]    
+    },
+    {
+        "date": "2020/01/28",
+        "reports": [
+            "A World Health Organization (WHO) senior leadership team, led by DirectorGeneral Dr Tedros Adhanom Ghebreyesus, today met President Xi Jinping of the People’s Republic of China in Beijing. They shared the latest information on the outbreak and reiterated their commitment to bring it under control.",
+            "The discussions focused on continued collaboration to improve containment measures in Wuhan, to strengthen public health measures in other cities and provinces, to conduct further studies and transmissibility of the virus, to continue to share data, and for China to share biological material with WHO. These measures will advance scientific understanding of the virus and contribute to the development such as vaccines and treatments.",
+            "WHO is launching a Global 2019-nCoV Clinical Data Platform to allow Member States to contribute anonymized clinical data in order to inform the public health clinical response.",
+            "WHO is continually monitoring developments and the Director-General can reconvene the Emergency Committee on very short notice as needed. Committee members are regularly informed of developments."
+        ]
+    },
+    {
+        "date": "2020/01/29",
+        "reports": [
+            "Four confirmed cases reported in United Arab Emirates, in individuals traveling from Wuhan City.",
+            "World Health Organization (WHO), in collaboration with the World Economic Forum, has set up a public private collaboration called “The Pandemic Supply Chain Network (PSCN)”. It is a Market Network that seeks to provide a platform for data sharing, market visibility, and operational coordination and connecting.",
+            "Today, PSCN is launching the first of several teleconference calls with over 30 private sector organizations and 10 multilateral organizations to develop a market capacity and risk assessment for personal protective equipment (PPE). This assessment will be used as the basis to match the global demand for PPE with the global supply. The market and risk assessment for PPE is expected to be completed by 5 February 2020.",
+            "The Emergency Committee on the novel coronavirus (2019-nCoV) under the International Health Regulations (IHR 2005) is re-convened by the World Health Organization Director-General Dr Tedros Adhanom Ghebreyesus on 30 January."
+        ]
+    },
+    {
+        "date": "2020/01/30",
+        "reports": [
+            "The Emergency Committee on the novel coronavirus (2019-nCoV) under the International Health Regulations (IHR 2005) is meeting today to discuss whether the outbreak constitutes a public health emergency of international concern.",
+            "First confirmed cases of 2019-nCoV acute respiratory disease in Finland, India and Philippines; all had travel history to Wuhan City.",
+            "On 29 January, WHO held its third press briefing to provide update on the situation. The audio can be found here.",
+            "WHO recommends that the interim name of the disease causing the current outbreak should be “2019-nCoV acute respiratory disease” (where ‘n’ is for novel and ‘CoV’ is for coronavirus). This name complies with the WHO Best Practices for Naming of New Human Infectious Diseases, which were developed through a consultative process among partner agencies. Endorsement for the interim name is being sought from WHO’s partner agencies, World Organization for Animal Health (OIE) and Food and Agriculture Organization (FAO). The final name of the disease will be provided by the International Classification of Diseases (ICD). WHO is also proposing ‘2019-nCoV’ as an interim name of the virus. The final decision on the official name of the virus will be made by the International Committee on Taxonomy of Viruses."
+        ],
+        "preparedness_and_responses": [
+            {
+                "authority": "World Health Organization",
+                "actions": [
+                    "WHO has developed a protocol for the investigation of early cases (the “First Few X (FFX) Cases and contact investigation protocol for 2019-novel coronavirus (2019-nCoV) infection”). The protocol is designed to gain an early understanding of the key clinical, epidemiological and virological characteristics of the first cases of 2019-nCoV infection detected in any individual country, to inform the development and updating of public health guidance to manage cases and reduce potential spread and impact of infection."
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2020/01/31",
+        "reports": [
+            "The Emergency Committee on the novel coronavirus (2019-nCoV) under the International Health Regulations (IHR 2005) was reconvened on 30 January. WHO declared the outbreak to be a public health emergency of international concern. The Emergency Committee has provided advice to WHO, to the People’s Republic of China, to all countries, and to the global community, on measures to control this outbreak. The Committee believes that it is still possible to interrupt virus spread, provided that countries put in place strong measures to detect disease early, isolate and treat cases, trace contacts, and promote social distancing measures commensurate with the risk.",
+            "Today, the first two confirmed cases of 2019-nCoV acute respiratory disease were reported in Italy; both had travel history to Wuhan City.",
+            "WHO’s Risk Communication Team has launched a new information platform called WHO Information Network for Epidemics (EPI-WIN). EPI-WIN will use a series of amplifiers to share tailored information for specific target groups. EPIWIN began this week to establish connections to health care and travel and tourism sectors and will work with food and agriculture and business/employer sectors next week."
+        ],
+        "preparedness_and_responses": [
+            {
+                "authority": "World Health Organization",
+                "actions": [
+                    "WHO has actively sought misinformation and responded to rumours through ‘myth busting’ on WHO’s social media and its website."
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2020/02/01",
+        "reports": [
+            "The main driver of transmission, based on currently available data, is symptomatic cases. WHO is aware of possible transmission of 2019-nCoV from infected people before they developed symptoms. Detailed exposure histories are being taken to better understand the pre-clinical phase of infection and how transmission may have occurred in these few instances. Asymptomatic infection may be rare, and transmission from an asymptomatic person is very rare with other coronaviruses, as we have seen with Middle East Respiratory Syndrome coronavirus. Thus, transmission from asymptomatic cases is likely not a major driver of transmission. Persons who are symptomatic will spread the virus more readily through coughing and sneezing.",
+            "In China, 60.5% of all cases since the start of the outbreak have been reported from Hubei Province.",
+            "Additional instances of human-to-human transmission outside China were reported."
+        ]
+    },
+    {
+        "date": "2020/02/02",
+        "reports": [
+            "No new countries have reported cases of 2019-nCoV acute respiratory disease in the last 24 hours.",
+            "WHO is receiving information about cases from a number of countries. As additional details become known, WHO requests countries to share information in a timely manner as specified in the guidance on Global Surveillance for human infection with novel coronavirus (2019-nCoV).",
+            "The first death has been reported outside of China, in the Philippines. The patient was a close contact of the first patient confirmed in the Philippines.",
+            "Due to the high demand for timely and trustworthy information about 2019-nCoV WHO technical risk communication and social media teams have been working closely to track and respond to myths and rumours."
+        ]
+    },
+    {
+        "date": "2020/02/03",
+        "reports": [
+            "No new countries reported cases of 2019-nCoV in the past 24 hours.",
+            "WHO has developed a dashboard for Novel coronavirus (2019-nCoV) with the number of confirmed cases globally, which includes cases in China by provinces, regions and cities, as well as confirmed cases outside China by country.",
+            "WHO has prepared a list of Q&A to respond to queries WHO is receiving from various organizations and individuals.",
+            "Working with technical experts in health operations, WHO operational support and logistics has developed a “2019-nCoV kit”, similar to prepared treatment kits used for outbreaks of other high threat pathogens. In the coming days, the costing, procurement and assembly of these kits will be a priority."
+        ]
+    },
+    {
+        "date": "2020/02/04",
+        "reports": [
+            "No new countries reported cases of 2019-nCoV in the 24 hours since the previous situation report.",
+            "The business sectoris one audience to whom EPI-WIN is reaching out with tailored information. EPI-WIN colleagues co-hosted a call with a global communications firm whose clients include large multinationals. Over 50 multinationals were represented on the call, where WHO provided an update of the 2019-nCoV situation and responded to questions about improving communications with employees; the role of businesses in public health crises; and managing uncertainty through accessing accurate information."
+        ]
+    },
+    {
+        "date": "2020/02/05",
+        "reports": [
+            "Belgium reported its first confirmed case of 2019-nCoV acute respiratory disease.",
+            "WHO and partners have developed a global strategic preparedness and response plan, which outlines the public health measures that the international community can provide to support all countries to prepare for and respond to the 2019‑nCoV outbreak. The overall goal of the plan is to stop further transmission of 2019‑nCoV within China and to other countries, and to mitigate the impact of the outbreak in all countries.",
+            "WHO is working with the travel and tourism industry to discuss real and perceived risks experienced in the industry, measures put in place for customers and employees, and challenges faced regarding implementation of the Temporary Recommendations associated with the declaration of a Public Health Emergency of International Concern. In the coming days, WHO will work with the industry to identify solutions to these challenges, within the framework of the International Health Regulations (2005)."
+        ],
+        "preparedness_and_responses": [
+            {
+                "authority": "World Health Organization",
+                "actions": [
+                    "WHO is working closely with International Air Transport Association (IATA) and have jointly developed a guidance document to provide advice to cabin crew and airport workers, based on country queries. The guidance can be found on the IATA webpage."
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2020/02/06",
+        "reports": [
+            "No new countries reported cases of 2019-nCoV in the past 24 hours.",
+            "WHO is working with partners to strengthen global diagnostic capacity for 2019-nCoV detection to improve surveillance and track the spread of disease. WHO and partners have activated a network of specialized referral laboratories with demonstrated expertise in the molecular detection of coronaviruses. These international labs can support national labs to confirm new cases and troubleshoot their molecular assays.",
+            "WHO is convening a global research and innovation forum to mobilize international action in response to the new coronavirus, covering a broad spectrum of research areas including epidemiology, clinical care, vaccines, therapeutics, diagnostics, animal health, social sciences, and other topics."
+        ]
     }
 ]
