@@ -689,5 +689,13 @@
         "highlights": [
             "100 countries with laboratory-confirmed cases"
         ]
+    },
+    {
+        "date": "2020/03/09",
+        "reports": [
+            "3 new countries/territories/areas (Bangladesh, Albania and Paraguay) have reported cases of COVID-19 in the past 24 hours.",
+            "WHO continues to support Samoa and Tokelau with preparations for COVID19.",
+            "WHO Operations Supply and Logistics (OSL) continues to support COVID-19 emergency operations where global demand for critical items continues to outpace global supply availability. Since the beginning of the outbreak, OSL have shipped more than 584,000 surgical masks, 47,000 N95 masks, 620,000 gloves, 72,000 gowns and 11,000 goggles to 57 countries."
+        ]
     }
 ]
