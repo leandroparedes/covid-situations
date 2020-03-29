@@ -354,5 +354,12 @@
             }
         ]
     },
+    {
+        "date": "2020/02/06",
+        "reports": [
+            "No new countries reported cases of 2019-nCoV in the past 24 hours.",
+            "WHO is working with partners to strengthen global diagnostic capacity for 2019-nCoV detection to improve surveillance and track the spread of disease. WHO and partners have activated a network of specialized referral laboratories with demonstrated expertise in the molecular detection of coronaviruses. These international labs can support national labs to confirm new cases and troubleshoot their molecular assays.",
+            "WHO is convening a global research and innovation forum to mobilize international action in response to the new coronavirus, covering a broad spectrum of research areas including epidemiology, clinical care, vaccines, therapeutics, diagnostics, animal health, social sciences, and other topics."
+        ]
     }
 ]
