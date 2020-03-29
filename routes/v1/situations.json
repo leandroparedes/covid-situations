@@ -508,5 +508,21 @@
             "Based on the evidence currently available about COVID-19, WHO has developed guidance documents for managing public health events at Points of Entry and mass gatherings. These are posted on WHO COVID-19 Points of Entry and Mass Gatherings website. See Technical Focus for more details.",
             "WHO Eastern Mediterranean office has updated information on COVID-19 cases"
         ]
+    },
+    {
+        "date": "2020/02/18",
+        "reports": [
+            "No new countries reported cases of COVID-19 in the past 24 hours.",
+            "WHO Operations Support and Logistics (OSL) continues to gather and assess the needs of Member States for critical items such as Personal Protective Equipment (PPE). On 14 February, OSL started the dispatch of laboratory COVID-19 testing kits for 56 countries. As of 17 February, 37 shipments have been dispatched to 34 countries and three regional offices.",
+            "Health care workers are on the front line of the response to the COVID-19 outbreak. WHO has developed guidance on the Rights, Roles and Responsibilities Of Health Workers, Including Key Considerations For Occupational Safety And Health."
+        ],
+        "preparedness_and_responses": [
+            {
+                "authority": "World Health Organization",
+                "actions": [
+                    "WHO has developed interim guidance for laboratory diagnosis, advice on the use of masks during home care and in health care settings in the context of the novel coronavirus (2019-nCoV) outbreak, clinical management, infection prevention and control in health care settings, home care for patients with suspected novel coronavirus, risk communication and community engagement and Global Surveillance for human infection with novel coronavirus (2019-nCoV)."
+                ]
+            }
+        ]
     }
 ]
