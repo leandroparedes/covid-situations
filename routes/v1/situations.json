@@ -3,69 +3,6 @@
         "date": "2019/12/31",
         "reports": [
             "On 31 December 2019, the WHO China Country Office was informed of cases of pneumonia unknown etiology (unknown cause) detected in Wuhan City, Hubei Province of China. From 31 December 2019 through 3 January 2020, a total of 44 case-patients with pneumonia of unknown etiology were reported to WHO by the national authorities in China. During this reported period, the causal agent was not identified."
-        ]
-    },
-    {
-        "date": "2020/01/11",
-        "reports": [
-            "On 11 and 12 January 2020, WHO received further detailed information from the National Health Commission China that the outbreak is associated with exposures in one seafood market in Wuhan City. The Chinese authorities identified a new type of coronavirus, which was isolated on 7 January 2020."
-        ]
-    },
-    {
-        "date": "2020/01/12",
-        "reports": [
-            "On 11 and 12 January 2020, WHO received further detailed information from the National Health Commission China that the outbreak is associated with exposures in one seafood market in Wuhan City. The Chinese authorities identified a new type of coronavirus, which was isolated on 7 January 2020.",
-            "On 12 January 2020, China shared the genetic sequence of the novel coronavirus for countries to use in developing specific diagnostic kits."
-        ]
-    },
-    {
-        "date": "2020/01/13",
-        "reports": [
-            "On 13 January 2020, the Ministry of Public Health, Thailand reported the first imported case of lab-confirmed novel coronavirus (2019-nCoV) from Wuhan, Hubei Province, China."
-        ]
-    },
-    {
-        "date": "2020/01/15",
-        "reports": [
-            "On 15 January 2020, the Ministry of Health, Labour and Welfare, Japan (MHLW) reported an imported case of laboratory-confirmed 2019-novel coronavirus (2019-nCoV) from Wuhan, Hubei Province, China."
-        ]
-    },
-    {
-        "date": "2020/01/20",
-        "reports": [
-            "As of 20 January 2020, 282 confirmed cases of 2019-nCoV have been reported from four countries including China (278 cases), Thailand (2 cases), Japan (1 case) and the Republic of Korea (1 case).",
-            "Cases in Thailand, Japan and Republic of Korea were exported from Wuhan City, China",
-            "Among the 278 cases confirmed in China, 258 cases were reported from Hubei Province, 14 from Guangdong Province, five from Beijing Municipality and one from Shanghai Municipality.",
-            "Of the 278 confirmed cases, 51 cases are severely ill, 12 are in critical condition; Six deaths have been reported from Wuhan City"
-        ]
-    },
-    {
-        "date": "2020/01/21",
-        "reports": [
-            "As of 21 January 2020, a total of 314 confirmed cases have been reported for novel coronavirus (2019-nCoV) globally.",
-            "Of the 314 cases reported, 309 cases were reported from China, two from Thailand, one from Japan and one from the Republic of Korea.",
-            "Cases in Thailand, Japan and the Republic of Korea were exported from Wuhan City, China.",
-            "Of the 309 confirmed cases in China, 270 cases were confirmed from Wuhan.",
-            "Of the 270 cases, 51 cases are severely ill1 and 12 are in critical condition.",
-            "Six deaths have been reported from Wuhan,",
-            "Four of five deaths, with available epidemiological information, had underlying comorbidities.",
-            "To date, sixteen health care workers have been infected.",
-            "Details reported on 21 January 2020: Additional 32 cases (11% increase in number cases) have been reported since the last situation report published on 21 January 2020. Cases have been reported in seven additional provinces and two municipalities. One case was reported in Taiwan, China."
-        ]
-    },
-    {
-        "date": "2020/01/23",
-        "reports": [
-            "A total of 581 confirmed cases have been reported for novel coronavirus (2019-nCoV) globally.",
-            "Of the 581 cases reported, 571 cases were reported from China.",
-            "Cases have been reported in Thailand, Japan, Hong Kong Special Administrative Region, Taipei Municipality, China, Macau Special Administrative Region, United States of America and the Republic of Korea; All had travel history to Wuhan.",
-            "Of the 571 confirmed cases in China, 375 cases were confirmed from Hubei Province.",
-            "Of the 571 cases, 95 cases are severely ill.",
-            "Seventeen deaths have been reported (all from Hubei Province).",
-            "On 23 January2020, the number of reported confirmed cases of 2019-nCoV has increased by 267 cases since the last situation report published on 22 January 2020. As of 23 January, China reported cases in 25 provinces (autonomous regions and municipalities). Twenty five percent of confirmed cases reported by China have been classified by Chinese health authorities as seriously ill (from Wubei Province: (16% severely ill, 5% critically ill, and 4% having died).",
-            "Currently, cases infected in China have been exported to the US, Thailand, Japan and Republic of Korea. It is expected that more cases will be exported to other countries, and that further transmission may occur.",
-            "The initial source of 2019-nCoV still remains unknown. However, it is clear the growing outbreak is no longer due to ongoing exposures at the Huanan seafood market in Wuhan; as in the last one week, less than 15% of new cases reported having visited Huanan market. There is now more evidence that 2019-nCoV spreads from human- to- human and also across generations of cases. Moreover, family clusters involving persons with no reported travel to Wuhan have been reported from Guangdong Province. There have been very few reports of hospital outbreaks or infections of health care workers, which is a prominent feature of MERS and SARS.",
-            "WHO assesses the risk of this event to be very high in China, high at the regional level and high at the global level."
         ],
         "preparedness_and_responses": [
             {
@@ -137,6 +74,68 @@
                     "CDC has developed a rRT-PCR test that can diagnose 2019-nCoV."
                 ]
             }
+        ]
+    },
+    {
+        "date": "2020/01/11",
+        "reports": [
+            "On 11 and 12 January 2020, WHO received further detailed information from the National Health Commission China that the outbreak is associated with exposures in one seafood market in Wuhan City. The Chinese authorities identified a new type of coronavirus, which was isolated on 7 January 2020."
+        ]
+    },
+    {
+        "date": "2020/01/12",
+        "reports": [
+            "On 12 January 2020, China shared the genetic sequence of the novel coronavirus for countries to use in developing specific diagnostic kits."
+        ]
+    },
+    {
+        "date": "2020/01/13",
+        "reports": [
+            "On 13 January 2020, the Ministry of Public Health, Thailand reported the first imported case of lab-confirmed novel coronavirus (2019-nCoV) from Wuhan, Hubei Province, China."
+        ]
+    },
+    {
+        "date": "2020/01/15",
+        "reports": [
+            "On 15 January 2020, the Ministry of Health, Labour and Welfare, Japan (MHLW) reported an imported case of laboratory-confirmed 2019-novel coronavirus (2019-nCoV) from Wuhan, Hubei Province, China."
+        ]
+    },
+    {
+        "date": "2020/01/20",
+        "reports": [
+            "As of 20 January 2020, 282 confirmed cases of 2019-nCoV have been reported from four countries including China (278 cases), Thailand (2 cases), Japan (1 case) and the Republic of Korea (1 case).",
+            "Cases in Thailand, Japan and Republic of Korea were exported from Wuhan City, China",
+            "Among the 278 cases confirmed in China, 258 cases were reported from Hubei Province, 14 from Guangdong Province, five from Beijing Municipality and one from Shanghai Municipality.",
+            "Of the 278 confirmed cases, 51 cases are severely ill, 12 are in critical condition; Six deaths have been reported from Wuhan City"
+        ]
+    },
+    {
+        "date": "2020/01/21",
+        "reports": [
+            "As of 21 January 2020, a total of 314 confirmed cases have been reported for novel coronavirus (2019-nCoV) globally.",
+            "Of the 314 cases reported, 309 cases were reported from China, two from Thailand, one from Japan and one from the Republic of Korea.",
+            "Cases in Thailand, Japan and the Republic of Korea were exported from Wuhan City, China.",
+            "Of the 309 confirmed cases in China, 270 cases were confirmed from Wuhan.",
+            "Of the 270 cases, 51 cases are severely ill and 12 are in critical condition.",
+            "Six deaths have been reported from Wuhan,",
+            "Four of five deaths, with available epidemiological information, had underlying comorbidities.",
+            "To date, sixteen health care workers have been infected.",
+            "Details reported on 21 January 2020: Additional 32 cases (11% increase in number cases) have been reported since the last situation report published on 21 January 2020. Cases have been reported in seven additional provinces and two municipalities. One case was reported in Taiwan, China."
+        ]
+    },
+    {
+        "date": "2020/01/23",
+        "reports": [
+            "A total of 581 confirmed cases have been reported for novel coronavirus (2019-nCoV) globally.",
+            "Of the 581 cases reported, 571 cases were reported from China.",
+            "Cases have been reported in Thailand, Japan, Hong Kong Special Administrative Region, Taipei Municipality, China, Macau Special Administrative Region, United States of America and the Republic of Korea; All had travel history to Wuhan.",
+            "Of the 571 confirmed cases in China, 375 cases were confirmed from Hubei Province.",
+            "Of the 571 cases, 95 cases are severely ill.",
+            "Seventeen deaths have been reported (all from Hubei Province).",
+            "On 23 January2020, the number of reported confirmed cases of 2019-nCoV has increased by 267 cases since the last situation report published on 22 January 2020. As of 23 January, China reported cases in 25 provinces (autonomous regions and municipalities). Twenty five percent of confirmed cases reported by China have been classified by Chinese health authorities as seriously ill (from Wubei Province: (16% severely ill, 5% critically ill, and 4% having died).",
+            "Currently, cases infected in China have been exported to the US, Thailand, Japan and Republic of Korea. It is expected that more cases will be exported to other countries, and that further transmission may occur.",
+            "The initial source of 2019-nCoV still remains unknown. However, it is clear the growing outbreak is no longer due to ongoing exposures at the Huanan seafood market in Wuhan; as in the last one week, less than 15% of new cases reported having visited Huanan market. There is now more evidence that 2019-nCoV spreads from human- to- human and also across generations of cases. Moreover, family clusters involving persons with no reported travel to Wuhan have been reported from Guangdong Province. There have been very few reports of hospital outbreaks or infections of health care workers, which is a prominent feature of MERS and SARS.",
+            "WHO assesses the risk of this event to be very high in China, high at the regional level and high at the global level."
         ]
     }
 ]
