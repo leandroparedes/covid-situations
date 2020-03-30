@@ -52,17 +52,17 @@ const whitelistFields = [
 ];
 
 function validateFields (fields) {
-    let invalid_fields = fields.map(field => {
+    let invalidFields = fields.map(field => {
         if (! whitelistFields.includes(field)) {
             return field;
         }
     });
 
-    invalid_fields = invalid_fields.filter(field => field != undefined);
+    invalidFields = invalidFields.filter(field => field != undefined);
 
-    return (invalid_fields.length && {
+    return (invalidFields.length && {
         valid: false,
-        invalid_fields: invalid_fields
+        invalid_fields: invalidFields
     }) || { valid: true };
 }
 
