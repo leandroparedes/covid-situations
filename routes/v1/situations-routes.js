@@ -41,11 +41,67 @@ function findByID (id) {
     return baseData.find(situation => situation.date == date);
 }
 
+const whitelistFields = [
+    'date',
+    'reports',
+    'highlights',
+    'preparedness_and_responses',
+    'related_links',
+    'original_report_link'
+];
+
+function validateFields (fields) {
+    let invalid_fields = fields.map(field => {
+        if (! whitelistFields.includes(field)) {
+            return field;
+        }
+    });
+
+    invalid_fields = invalid_fields.filter(field => field != undefined);
+
+    return (invalid_fields.length && {
+        valid: false,
+        invalid_fields: invalid_fields
+    }) || { valid: true };
+}
+
+function formatInvalidFieldsError (validation) {
+    return {
+        errors: {
+            message: 'Invalid requested field(s)',
+            'invalid_fields': validation.invalid_fields
+        }
+    };
+}
+
 /**
  * Return the last 10 situations reports
  */
 router.get('/latest', (req, res) => {
-    const latestData = baseData.slice(baseData.length - 10, baseData.length);
+    let filteredData = baseData;
+
+    // return only the requested fields
+    if (req.query.fields) {
+        const fields = req.query.fields.split(';');
+        const validation = validateFields(fields);
+
+        if (! validation.valid) {
+            return res.status(400).send(
+                formatInvalidFieldsError(validation)
+            );
+        }
+
+        // filtered data is no longer all the original data
+        filteredData = [];
+
+        baseData.map(situation => {
+            let situationData = {};
+            fields.map(field => situationData[field] = situation[field]);
+            filteredData.push(situationData);
+        });
+    }
+    
+    const latestData = filteredData.slice(baseData.length - 10, baseData.length);
 
     if (req.query.page) {
         const paginated = paginate({
@@ -78,6 +134,22 @@ router.get('/:id', (req, res) => {
         return;
     }
 
+    if (req.query.fields) {
+        const fields = req.query.fields.split(';');
+
+        const validation = validateFields(fields);
+
+        if (! validation.valid) {
+            return res.status(400).send(
+                formatInvalidFieldsError(validation)
+            );
+        }
+
+        let response = { situation: {} };
+        fields.map(field => response.situation[field] = situation[field] || []);
+        return res.send(response);
+    }
+
     res.send({ situation });
 });
 
@@ -85,20 +157,46 @@ router.get('/:id', (req, res) => {
  * Return all situations reports
  */
 router.get('/', (req, res) => {
+    // let the filtered data be all the original data
+    let filteredData = baseData;
+
+    // return only the requested fields
+    if (req.query.fields) {
+        const fields = req.query.fields.split(';');
+        const validation = validateFields(fields);
+
+        if (! validation.valid) {
+            return res.status(400).send(
+                formatInvalidFieldsError(validation)
+            );
+        }
+
+        // filtered data is no longer all the original data
+        filteredData = [];
+
+        baseData.map(situation => {
+            let situationData = {};
+            fields.map(field => situationData[field] = situation[field]);
+            filteredData.push(situationData);
+        });
+    }
+
+    // Here now filtered data is either the original data or actually filtered data
+    // ready to be paginated if necessary
 
     // send paginated response
     if (req.query.page) {
         const paginatedData = paginate({
             pageNumber: req.query.page,
             perPage: req.query.perPage,
-            data: baseData,
-            url: req.originalUrl.split('?').shift()
+            data: filteredData,
+            url: req.originalUrl.split(/(\?|&)(page|perPage)=[0-9]/).shift()
         });
         res.send(paginatedData);
         return;
     }
 
-    res.send(baseData);
+    res.send(filteredData);
 });
 
 module.exports = router;
