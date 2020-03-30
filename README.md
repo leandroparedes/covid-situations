@@ -108,19 +108,8 @@ Response
     - preparedness_and_responses
     - related_links
     - original_report_link
-   
-#### Important note:
-If you're using ```fields``` with ```page``` (and optionally with ```perPage```) the parameter ```fields``` **must be the first query string parameter**, otherwise the pagination will not work.
 
-This will work fine
-
-[/v1/situations?fields=date;reports&page=1](https://covid-situations.herokuapp.com/v1/situations?fields=date;reports&page=1)
-
-**This will not work**
-
-[/v1/situations?page=1&fields=date;reports](https://covid-situations.herokuapp.com/v1/situations?page=1&fields=date;report)
-
-If you pass a invalid field the following response will be sent
+If you pass an invalid field the following response will be sent
 
 Example request:
 
@@ -136,6 +125,17 @@ Example request:
     }
 }
 ```
+   
+#### Important note:
+If you're using ```fields``` with ```page``` (and optionally with ```perPage```) the parameter ```fields``` **must be the first query string parameter**, otherwise the pagination will not work.
+
+This will work fine
+
+[/v1/situations?fields=date;reports&page=1](https://covid-situations.herokuapp.com/v1/situations?fields=date;reports&page=1)
+
+This **will not** work
+
+[/v1/situations?page=1&fields=date;reports](https://covid-situations.herokuapp.com/v1/situations?page=1&fields=date;report)
 
 
 
