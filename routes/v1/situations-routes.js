@@ -1,11 +1,13 @@
 const express = require('express');
 const router = express.Router();
 
-const data = require('./situations.json');
+const baseData = require('./situations.json');
 
-const apiUrl = `https://covid-situations.herokuapp.com/v1`;
+const host = `https://covid-situations.herokuapp.com`;
 
-function paginate (pageNumber, perPage) {
+function paginate (options) {
+    const { pageNumber, perPage, data, url } = options;
+
     const itemsPerPage = perPage || 10;
 
     let end = pageNumber * itemsPerPage;
@@ -17,12 +19,12 @@ function paginate (pageNumber, perPage) {
     let links = {};
     if (start > 0) {
         let page = parseInt(pageNumber) - 1;
-        links.prev = `${apiUrl}/situations?page=${page}&perPage=${itemsPerPage}`;
+        links.prev = `${host}${url}?page=${page}&perPage=${itemsPerPage}`;
     }
 
     if (end < data.length) {
         let page = parseInt(pageNumber) + 1;
-        links.next = `${apiUrl}/situations?page=${page}&perPage=${itemsPerPage}`;
+        links.next = `${host}${options.url}?page=${page}&perPage=${itemsPerPage}`;
     }
 
     paginatedData.links = links;
@@ -34,9 +36,21 @@ function paginate (pageNumber, perPage) {
  * Return the last 10 situations reports
  */
 router.get('/latest', (req, res) => {
-    res.send(
-        data.slice(data.length - 10, data.length)
-    );
+    const latestData = baseData.slice(baseData.length - 10, baseData.length);
+
+    if (req.query.page) {
+        const paginated = paginate({
+            pageNumber: req.query.page,
+            perPage: req.query.perPage,
+            data: latestData,
+            url: req.originalUrl.split('?').shift()
+        });
+
+        res.send(paginated);
+        return;
+    }
+
+    res.send(latestData);
 });
 
 /**
@@ -46,12 +60,17 @@ router.get('/', (req, res) => {
 
     // send paginated response
     if (req.query.page) {
-        const paginatedData = paginate(req.query.page, req.query.perPage);
+        const paginatedData = paginate({
+            pageNumber: req.query.page,
+            perPage: req.query.perPage,
+            data: baseData,
+            url: req.originalUrl.split('?').shift()
+        });
         res.send(paginatedData);
         return;
     }
 
-    res.send(data);
+    res.send(baseData);
 });
 
 module.exports = router;
