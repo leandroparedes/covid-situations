@@ -71,10 +71,11 @@ Response:
   "data": [
     {
       "date": "2019/12/31",
-      "reports": [
-        "report 1",
-        "report 2"
-      ]
+      "reports": [],
+      "highlights": [],
+      "preparedness_and_responses": [],
+      "related_links": [],
+      "original_report_link": "https://link_to_original_report_pdf.test/file.pdf"
     }
   ],
   "links": {
