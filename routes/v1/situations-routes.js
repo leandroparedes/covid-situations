@@ -75,6 +75,10 @@ function formatInvalidFieldsError (validation) {
     };
 }
 
+function parseUrl (url) {
+    return url.split(/(\?|&)(page|perPage)=[0-9]/).shift()
+}
+
 /**
  * Return the last 10 situations reports
  */
@@ -109,7 +113,7 @@ router.get('/latest', (req, res) => {
             pageNumber: req.query.page,
             perPage: req.query.perPage,
             data: latestData,
-            url: req.originalUrl.split(/(\?|&)(page|perPage)=[0-9]/).shift(),
+            url: parseUrl(req.originalUrl),
             filtering: req.query.fields != undefined
         });
 
@@ -192,7 +196,7 @@ router.get('/', (req, res) => {
             pageNumber: req.query.page,
             perPage: req.query.perPage,
             data: filteredData,
-            url: req.originalUrl.split(/(\?|&)(page|perPage)=[0-9]/).shift(),
+            url: parseUrl(req.originalUrl),
             filtering: req.query.fields != undefined
         });
         res.send(paginatedData);
