@@ -32,6 +32,15 @@ function paginate (options) {
     return paginatedData;
 }
 
+function findByID (id) {
+    const year = id.slice(0, 4);
+    const month = id.slice(4, 6);
+    const day = id.slice(6, 8);
+    const date = `${year}/${month}/${day}`;
+
+    return baseData.find(situation => situation.date == date);
+}
+
 /**
  * Return the last 10 situations reports
  */
@@ -62,13 +71,7 @@ router.get('/:id', (req, res) => {
         return;
     }
 
-    const id = req.params.id;
-    const year = id.slice(0, 4);
-    const month = id.slice(4, 6);
-    const day = id.slice(6, 8);
-    const date = `${year}/${month}/${day}`;
-
-    const situation = baseData.find(situation => situation.date == date);
+    const situation = findByID(req.params.id);
 
     if (! situation) {
         res.status(404).send({ message: 'Situation not found' });
