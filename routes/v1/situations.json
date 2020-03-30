@@ -627,7 +627,8 @@
                     "WHO is working with its networks of researchers and other experts to coordinate global work on surveillance, epidemiology, modelling, diagnostics, clinical care and treatment, and other ways to identify, manage the disease and interrupt onward transmission. WHO has issued interim guidance for countries, which are updated regularly."
                 ]
             }
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200301-sitrep-41-covid-19.pdf"
     },
     {
         "date": "2020/03/02",
@@ -636,7 +637,8 @@
             "A team of WHO experts has arrived in Tehran, Iran to support the COVID-19 response. The objectives are to identify transmission dynamics and at-risk populations, and provide technical guidance.",
             "Containment remains the top priority for all countries. Management for COVID-19 globally, however, is not a one-size-fits-all approach and must be tailored to the transmission scenario a country faces. Early robust measures are key to saving lives and halting transmission, notes the WHO DirectorGeneral.",
             "WHO’s Operations Supply and Logistics team are working across numerous areas to support the COVID-19 response. Activities include working to establish a Supply Chain Coordination Cell and providing a technical briefing for G20 members on the personal protective equipment (PPE) market situation."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200302-sitrep-42-covid-19.pdf"
     },
     {
         "date": "2020/03/03",
@@ -645,7 +647,8 @@
             "The increase of COVID-19 cases in the Eastern Mediterranean Region is of great concern. The WHO Regional Director of the Eastern Mediterranean region reiterated the need to enhance surveillance and response activities, and share critical information, as being essential to containing the outbreak and strengthening health systems.",
             "The Pan American Health Organization (PAHO) is implementing a comprehensive plan to support country preparedness and containment efforts for COVID-19. Barbados was one of the first Caribbean countries to acquire test kits and reagents for COVID-19 detection, and receive training on how to use them.",
             "Real-time training is critical for effective preparedness and response. WHO has several COVID-19 online resources for health professionals, decision-makers and the public in multiple languages."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200303-sitrep-43-covid-19.pdf"
     },
     {
         "date": "2020/03/04",
@@ -653,7 +656,8 @@
             "Four new Member States (Argentina, Chile, Poland and Ukraine) have reported cases of COVID-19 in the past 24 hours.",
             "The WHO Prequalification Team announced that the Emergency Use Listing (EUL) is now open to candidate in-vitro diagnostic (IVD) laboratory tests to detect COVID-19 virus. The EUL procedure is developed to expedite the availability of IVDs needed in public health emergency situations. Manufacturers are invited to submit an Expression of Interest.",
             "Disruptions to the global supply of personal protective equipment (PPE) are leaving healthcare workers ill-equipped to care for patients. WHO is working with governments, industry and the Pandemic Supply Chain Network to boost production and secure allocations for critically affected and at-risk countries."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200304-sitrep-44-covid-19.pdf"
     },
     {
         "date": "2020/03/05",
@@ -662,14 +666,16 @@
             "In anticipation for an increase in the number of COVID-19 cases, the SouthEast Asia Region is preparing to roll out rapid response activities by engaging with communities, procuring personal protective equipment (PPE), and ensuring laboratories have the capacity to test for COVID-19 or ship samples to global referral laboratories.",
             "The WHO Director-General emphasized the importance of implementing a comprehensive approach to mitigate the impact of COVID-19. Educating the population, expanding surveillance, caring for patients, and strengthening preparedness systems are key to interrupting transmission.",
             "WHO’s initiative called the WHO Network for Information in Epidemics (EPIWIN) leverages all communications platforms to amplify evidence-based information. EPI-WIN has identified trusted sources and engaged with these “trust chains”."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200305-sitrep-45-covid-19.pdf"
     },
     {
         "date": "2020/03/06",
         "reports": [
             "4 new countries/territories/areas (Bhutan, Cameroon, Serbia, and South Africa) have reported cases of COVID-19 in the past 24 hours.",
             "As the COVID-19 outbreak continues to evolve, comparisons have been drawn to influenza. WHO has provided a Q&A regarding the similarities and differences between the two diseases."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200306-sitrep-46-covid-19.pdf"
     },
     {
         "date": "2020/03/07",
@@ -677,7 +683,8 @@
             "5 new countries/territories/areas (Colombia, Holy See, Peru, Serbia, and Togo) have reported cases of COVID-19 in the past 24 hours.",
             "The global number of reported cases of COVID-19 has surpassed 100,000.",
             "OpenWHO has reached 161, 000 learners in COVID-19 courses. The introductory course on COVID-19 has been partially or fully translated into 17 national languages."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200307-sitrep-47-covid-19.pdf"
     },
     {
         "date": "2020/03/08",
@@ -688,7 +695,8 @@
         ],
         "highlights": [
             "100 countries with laboratory-confirmed cases"
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200308-sitrep-48-covid-19.pdf"
     },
     {
         "date": "2020/03/09",
@@ -697,7 +705,8 @@
             "WHO continues to support Samoa and Tokelau with preparations for COVID19.",
             "WHO Operations Supply and Logistics (OSL) continues to support COVID-19 emergency operations where global demand for critical items continues to outpace global supply availability. Since the beginning of the outbreak, OSL have shipped more than 584,000 surgical masks, 47,000 N95 masks, 620,000 gloves, 72,000 gowns and 11,000 goggles to 57 countries.",
             "As of 9 March 2020, a total of 45 States Parties informed WHO of additional health measures they implemented in relation to COVID-19 and provided the public health rationale for these measures. WHO reiterates that measures that restrict the movement of people during this outbreak should be proportionate to the public health risk, short in duration and reviewed regularly as more information about the virus, the disease epidemiology and clinical characteristics becomes available."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200309-sitrep-49-covid-19.pdf"
     },
     {
         "date": "2020/03/10",
@@ -705,7 +714,8 @@
             "5 new countries/territories/areas (Brunei Darussalam, Mongolia, Cyprus, Guernsey and Panama) have reported cases of COVID-19 in the past 24 hours.",
             "WHO Director- General in his regular media briefing on 9 March stated that the threat of a pandemic has become very real; however, this would be the first pandemic in history that could be controlled.",
             "On 10 March, the IFRC, UNICEF and WHO issued a new guidance to help protect children and schools from transmission of the COVID-19 virus. The guidance provides critical considerations and practical checklists to keep schools safe."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200310-sitrep-50-covid-19.pdf"
     },
     {
         "date": "2020/03/11",
@@ -714,7 +724,8 @@
             "Four new countries/territories/areas (Bolivia [Plurinational State of], Jamaica, Burkina Faso and Democratic Republic of the Congo) have reported cases of COVID-19 in the past 24 hours.",
             "The COVID-19 virus infects people of all ages. However, evidence to date suggests that two groups of people are at a higher risk of getting severe COVID-19 disease. These are older people; and those with underlying medical conditions. WHO emphasizes that all must protect themselves from COVID-19 in order to protect others.",
             "On 11 March, ICAO and WHO issued a joint statement to reminding all stakeholders of the importance of existing regulations and guidance."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200311-sitrep-51-covid-19.pdf"
     },
     {
         "date": "2020/03/12",
@@ -722,7 +733,8 @@
             "Four new countries/territories/areas (French Polynesia, Turkey, Honduras and Côte d’Ivoire) have reported cases of COVID-19 in the past 24 hours.",
             "The Clinical Unit continues to convene clinicians around the globe, twice weekly by teleconference (COVID-19 Clinical Network) to share knowledge and experiences from clinicians caring for COVID-19 patients and highlight operational challenges and technical questions.",
             "At the Member States information session held today, WHO Director-General reiterated that countries should not give up on stopping the outbreak now that WHO has characterized it as a pandemic. A shift from containment to mitigation would be wrong and dangerous. This is a controllable pandemic."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200312-sitrep-52-covid-19.pdf"
     },
     {
         "date": "2020/03/13",
@@ -731,7 +743,8 @@
             "The WHO, UN Foundation and partners launched a first-of-its-kind COVID-19 Solidarity Response Fund today. The fund will raise money from a wide range of donors to support the work of the WHO and partners to help countries respond to the COVID-19 pandemic.",
             "Since the onset of the COVID-19 outbreak, Infection Prevention and Control (IPC) has been a major factor in preventive and mitigation measures. To ensure evidence-based quality guidance and prompt response to global demand, WHO convened a WHO Health Emergencies Programme Experts Advisory Panel for IPC.",
             "A team of experts from WHO, Global Outbreak Alert and Response Network partners, the Robert Koch Institute in Germany and the Chinese Center for Disease Control concluded a technical support mission on COVID-19 to Iran on 10 March 2020. During the team’s mission in Iran, the Ministry of Health and Medical Education (MOHME) launched a national campaign to control COVID19."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200313-sitrep-53-covid-19.pdf"
     },
     {
         "date": "2020/03/14",
@@ -739,14 +752,16 @@
             "12 new countries/territories/areas have reported cases of COVID-19 in the past 24 hours.",
             "The Director-General said yesterday that Europe has now become the epicenter of the pandemic, with more reported cases and deaths than the rest of the world combined, apart from China. Many countries are now acting on the eight pillars of WHO’s Strategic Preparedness and Response Plan.",
             "WHO published guidance on ‘Clinical management of severe acute respiratory infection (SARI) when COVID-19 disease is suspected’ on 13 March. The document provides clinicians with updated interim guidance on timely, effective, and safe supportive management of patients with suspected and confirmed COVID-19."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200314-sitrep-54-covid-19.pdf"
     },
     {
         "date": "2020/03/15",
         "reports": [
             "Nine new countries/territories/areas (African Region, European Region and Region of Americas) in have reported cases of COVID-19 in the past 24 hours.",
             "A WHO high-level technical mission concluded a visit to Iraq to support the Iraqi Ministry of Health in their COVID-19 prevention and containment measures. WHO is working around the clock to establish 3 negative-pressure [contagious respiratory disease isolation] rooms in Baghdad, Erbil and Basra to accommodate patients who might require more sophisticated medical treatment."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200315-sitrep-55-covid-19.pdf"
     },
     {
         "date": "2020/03/16",
@@ -755,7 +770,8 @@
             "The total number of cases and deaths outside China has overtaken the total number of cases in China. From today, total cases from China will no longer be featured separately.",
             "The WHO COVID-19 Incident Management Team is working closely with partners across all levels to provide support to countries, strengthen technical and operational networking and collaboration, and support operational coordination of the global response.",
             "Two new technical guidance documents were published today: Critical preparedness, readiness and response actions for COVID-19 and Risk Communication and Community Engagement (RCCE) Action Plan Guidance."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200316-sitrep-56-covid-19.pdf"
     },
     {
         "date": "2020/03/17",
@@ -763,7 +779,8 @@
             "8 new countries/territories/areas (African Region, Eastern Mediterranean Region, Region of the Americas, and Western Pacific Region) in have reported cases of COVID-19 in the past 24 hours.",
             "As the on-going COVID-19 pandemic continues to develop, WHO is committed to working together with the travel, transport and tourism sectors on emergency preparedness and response.",
             ""
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200317-sitrep-57-covid-19.pdf"
     },
     {
         "date": "2020/03/18",
@@ -780,7 +797,8 @@
                     "WHO has developed online courses on the following topics: A general introduction to emerging respiratory viruses, including novel coronaviruses (available in Arabic, Chinese, English, French, Russian, Spanish, Portuguese, Persian, Serbian, and Turkish); Clinical Care for Severe Acute Respiratory Infections (available in English, French, Russian, and Vietnamese); Health and safety briefing for respiratory diseases - ePROTECT (available in English, French, Russian, Indonesian, and Portuguese); Infection Prevention and Control for Novel Coronavirus (COVID-19) (available in English, French, Russian, Spanish, Indonesian, Italian, Japanese, Portuguese, and Serbian); and COVID-19 Operational Planning Guidelines and COVID-19 Partners Platform to support country preparedness and response (available in English and coming soon in additional languages)."
                 ]
             }
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200318-sitrep-58-covid-19.pdf"
     },
     {
         "date": "2020/03/19",
@@ -788,7 +806,8 @@
             "Seven new countries/territories/areas (African Region, Eastern Mediterranean Region, European Region, and Region of the Americas) have reported cases of COVID-19.",
             "The number of confirmed cases worldwide has exceeded 200 000. It took over three months to reach the first 100 00 confirmed cases, and only 12 days to reach the next 100 000.",
             "A new protocol to investigate the extent of COVID-19 infection in the population, as determined by positive antibody tests in the general population has been developed. The protocol is titled the Population-based age-stratified seroepidemiological investigation protocol for COVID-19 virus infection."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200319-sitrep-59-covid-19.pdf"
     },
     {
         "date": "2020/03/20",
@@ -800,7 +819,8 @@
             "WHO regional directors of Europe, the Western Pacific and Africa called for global solidarity to fight COVID-19. Ensuring international cooperation, investing in health, and engaging communities are keys to effectively tackle the pandemic.",
             "Updated technical guidance on critical preparedness, readiness and response.",
             "OpenWHO is constantly updating and adding online open courses for COVID19 as a resource for health professionals, decision-makers and the public. As of 20 March, more than 500 000 learners have already enrolled."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200320-sitrep-60-covid-19.pdf"
     },
     {
         "date": "2020/03/21",
@@ -808,7 +828,8 @@
             "Four new countries/territories/areas from the African Region have reported cases of COVID-19.",
             "As COVID-19 cases continue to increase, many countries are requesting individuals to stay at home in self-quarantine. WHO EURO has released a guide on how to stay physically active during self-quarantine.",
             "There has been a rise in criminals disguising themselves as WHO to steal money or sensitive information. WHO urges individuals to stay alert and to verify the authenticity of the request."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200322-sitrep-62-covid-19.pdf"
     },
     {
         "date": "2020/03/23",
@@ -817,7 +838,8 @@
             "The number of COVID-19 cases surpassed 300,000 globally.", "Diagnostic testing for COVID-19 is critical to tracking the virus, understanding epidemiology, informing case management, and to suppressing transmission. WHO has updated the Laboratory Testing Strategy document according to the 4Cs transmission scenarios.",
             "WHO Regional Office for Europe has published interim guidance on how to deal with COVID-19 in prisons and other places of detention.",
             "World Water Day 2020, celebrated on 22 March, highlighted the essential role of hand washing in hygiene to protect you and those around you."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200323-sitrep-63-covid-19.pdf"
     },
     {
         "date": "2020/03/24",
@@ -827,6 +849,7 @@
             "The WHO WhatsApp Health Alert has now attracted 10 million users since launching Friday, and the COVID-19 Solidarity Response Fund has raised more than US$70 million, in just 10 days.",
             "WHO and FIFA launched a joint campaign to equip the football community to tackle COVID-19. This awareness campaign calls on all people around the world to follow the five key steps to stop the spread of the disease.",
             "WHO and its partners are constantly working to strengthen the chains of essential COVID-19 supplies. As global demand rises, WHO and its partners aim to ensure assistance to areas most in need."
-        ]
+        ],
+        "original_pdf_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200324-sitrep-64-covid-19.pdf"
     }
 ]
