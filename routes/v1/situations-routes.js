@@ -108,7 +108,7 @@ router.get('/latest', (req, res) => {
             pageNumber: req.query.page,
             perPage: req.query.perPage,
             data: latestData,
-            url: req.originalUrl.split('?').shift()
+            url: req.originalUrl.split(/(\?|&)(page|perPage)=[0-9]/).shift()
         });
 
         res.send(paginated);
