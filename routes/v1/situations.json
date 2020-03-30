@@ -747,5 +747,86 @@
             "Nine new countries/territories/areas (African Region, European Region and Region of Americas) in have reported cases of COVID-19 in the past 24 hours.",
             "A WHO high-level technical mission concluded a visit to Iraq to support the Iraqi Ministry of Health in their COVID-19 prevention and containment measures. WHO is working around the clock to establish 3 negative-pressure [contagious respiratory disease isolation] rooms in Baghdad, Erbil and Basra to accommodate patients who might require more sophisticated medical treatment."
         ]
+    },
+    {
+        "date": "2020/03/16",
+        "reports": [
+            "Four new countries/territories/areas (African Region, European Region and Region of the Americas) in have reported cases of COVID-19 in the past 24 hours.",
+            "The total number of cases and deaths outside China has overtaken the total number of cases in China. From today, total cases from China will no longer be featured separately.",
+            "The WHO COVID-19 Incident Management Team is working closely with partners across all levels to provide support to countries, strengthen technical and operational networking and collaboration, and support operational coordination of the global response.",
+            "Two new technical guidance documents were published today: Critical preparedness, readiness and response actions for COVID-19 and Risk Communication and Community Engagement (RCCE) Action Plan Guidance."
+        ]
+    },
+    {
+        "date": "2020/03/17",
+        "reports": [
+            "8 new countries/territories/areas (African Region, Eastern Mediterranean Region, Region of the Americas, and Western Pacific Region) in have reported cases of COVID-19 in the past 24 hours.",
+            "As the on-going COVID-19 pandemic continues to develop, WHO is committed to working together with the travel, transport and tourism sectors on emergency preparedness and response.",
+            ""
+        ]
+    },
+    {
+        "date": "2020/03/18",
+        "reports": [
+            "One new country/territory/area (European Region) has reported cases of COVID-19.",
+            "Data presented in the COVID-19 Situation Reports has changed to reflect data reported as of 00:00 CET. As this is the first Situation Report with the new reporting period, there is overlap of data between Situation Report 57 and this report, thus the number of new cases may not equal the difference between total cases in the two reports.",
+            "WHO COVID-19 Situation Reports present official counts of confirmed COVID19 cases, thus differences between WHO reports and other sources of COVID19 data using different inclusion criteria and different data cutoff times are to be expected.",
+            "WHO, IFRC, and UNICEF jointly released the Risk Communication and Community Engagement (RCCE) Action Plan Guidance for COVID-19 on 16 March."
+        ],
+        "preparedness_and_responses": [
+            {
+                "authority": "World Health Organization",
+                "actions": [
+                    "WHO has developed online courses on the following topics: A general introduction to emerging respiratory viruses, including novel coronaviruses (available in Arabic, Chinese, English, French, Russian, Spanish, Portuguese, Persian, Serbian, and Turkish); Clinical Care for Severe Acute Respiratory Infections (available in English, French, Russian, and Vietnamese); Health and safety briefing for respiratory diseases - ePROTECT (available in English, French, Russian, Indonesian, and Portuguese); Infection Prevention and Control for Novel Coronavirus (COVID-19) (available in English, French, Russian, Spanish, Indonesian, Italian, Japanese, Portuguese, and Serbian); and COVID-19 Operational Planning Guidelines and COVID-19 Partners Platform to support country preparedness and response (available in English and coming soon in additional languages)."
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2020/03/19",
+        "reports": [
+            "Seven new countries/territories/areas (African Region, Eastern Mediterranean Region, European Region, and Region of the Americas) have reported cases of COVID-19.",
+            "The number of confirmed cases worldwide has exceeded 200 000. It took over three months to reach the first 100 00 confirmed cases, and only 12 days to reach the next 100 000.",
+            "A new protocol to investigate the extent of COVID-19 infection in the population, as determined by positive antibody tests in the general population has been developed. The protocol is titled the Population-based age-stratified seroepidemiological investigation protocol for COVID-19 virus infection."
+        ]
+    },
+    {
+        "date": "2020/03/20",
+        "reports": [
+            "Six new countries/territories/areas (African Region, and Region of the Americas, Western Pacific Region, European Region and South East Asia Region) have reported cases of COVID19.",
+            "To increase access to reliable information, WHO has partnered with WhatsApp and Facebook to launch a WHO Health Alert messaging service. This service will provide the latest news and information on COVID-19, including details on symptoms and how people can protect themselves. The Health Alert service now available in English and will be introduced in other languages next week. To access it, send the word 'hi' to the following number on WhatsApp: +41 798 892.",
+            "The first vaccine trial has begun just 60 days after the genetic sequence of the virus was shared by China. This is an incredible achievement. To ensure clear evidence of which treatments are most effective, WHO and its partners are organizing a large international study, called the Solidarity Trial, in many countries to compare different treatments. ",
+            "WHO and Global Citizen launched #TogetherAtHome, a virtual, no-contact concert series to promote physical distancing and action for global health. Chris Martin, lead singer of Coldplay, kicked it off earlier this week with a performance from his home. More Solidarity Sessions are planned to promote health, show support for people who are staying at home to protect themselves and others from COVID-19, and encourage donations to the COVID-19 Solidarity Response Fund.",
+            "WHO regional directors of Europe, the Western Pacific and Africa called for global solidarity to fight COVID-19. Ensuring international cooperation, investing in health, and engaging communities are keys to effectively tackle the pandemic.",
+            "Updated technical guidance on critical preparedness, readiness and response.",
+            "OpenWHO is constantly updating and adding online open courses for COVID19 as a resource for health professionals, decision-makers and the public. As of 20 March, more than 500 000 learners have already enrolled."
+        ]
+    },
+    {
+        "date": "2020/03/21",
+        "reports": [
+            "Four new countries/territories/areas from the African Region have reported cases of COVID-19.",
+            "As COVID-19 cases continue to increase, many countries are requesting individuals to stay at home in self-quarantine. WHO EURO has released a guide on how to stay physically active during self-quarantine.",
+            "There has been a rise in criminals disguising themselves as WHO to steal money or sensitive information. WHO urges individuals to stay alert and to verify the authenticity of the request."
+        ]
+    },
+    {
+        "date": "2020/03/23",
+        "reports": [
+            "Three new countries/territories/areas from the African Region, Region of the Americas, and Eastern Mediterranean Region, have reported cases of COVID-19.",
+            "The number of COVID-19 cases surpassed 300,000 globally.", "Diagnostic testing for COVID-19 is critical to tracking the virus, understanding epidemiology, informing case management, and to suppressing transmission. WHO has updated the Laboratory Testing Strategy document according to the 4Cs transmission scenarios.",
+            "WHO Regional Office for Europe has published interim guidance on how to deal with COVID-19 in prisons and other places of detention.",
+            "World Water Day 2020, celebrated on 22 March, highlighted the essential role of hand washing in hygiene to protect you and those around you."
+        ]
+    },
+    {
+        "date": "2020/03/24",
+        "reports": [
+            "Four new countries/territories/areas from the South-East Asia Region, and Region of the Americas have reported cases of COVID-19.",
+            "WHO has delivered a new shipment of emergency medical supplies to the Islamic Republic of Iran as part of COVID-19 response measures.",
+            "The WHO WhatsApp Health Alert has now attracted 10 million users since launching Friday, and the COVID-19 Solidarity Response Fund has raised more than US$70 million, in just 10 days.",
+            "WHO and FIFA launched a joint campaign to equip the football community to tackle COVID-19. This awareness campaign calls on all people around the world to follow the five key steps to stop the spread of the disease.",
+            "WHO and its partners are constantly working to strengthen the chains of essential COVID-19 supplies. As global demand rises, WHO and its partners aim to ensure assistance to areas most in need."
+        ]
     }
 ]
