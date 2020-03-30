@@ -152,10 +152,10 @@ This **will not** work
 [/v1/situations?page=1&fields=date;reports](https://covid-situations.herokuapp.com/v1/situations?page=1&fields=date;report)
 
 ## Upcoming features
-* Distribution of Covid-19 maps images per situation report
+* Distribution of Covid-19 maps images per situation report (if any)
 * Highlights per situation report
-* Charts images (epidemic curve by date, etc) per situation report
-* Situation in number data (confirmed, suspected, severe, deaths)
+* Charts images (epidemic curve by date, etc) per situation report (if any)
+* Situation in numbers (confirmed, suspected, severe, deaths) per report (if any)
 
 ## Built with this API
 https://covid-t.herokuapp.com/timeline
