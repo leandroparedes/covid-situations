@@ -54,6 +54,31 @@ router.get('/latest', (req, res) => {
 });
 
 /**
+ * Return the situations with the given ID
+ */
+router.get('/:id', (req, res) => {
+    if (req.params.id.length != 8) {
+        res.status(400).send({ message: 'Wrong ID format. It should be YYYYMMDD' });
+        return;
+    }
+
+    const id = req.params.id;
+    const year = id.slice(0, 4);
+    const month = id.slice(4, 6);
+    const day = id.slice(6, 8);
+    const date = `${year}/${month}/${day}`;
+
+    const situation = baseData.find(situation => situation.date == date);
+
+    if (! situation) {
+        res.status(404).send({ message: 'Situation not found' });
+        return;
+    }
+
+    res.send({ situation });
+});
+
+/**
  * Return all situations reports
  */
 router.get('/', (req, res) => {
