@@ -1,4 +1,4 @@
-# covid-situations
+# World Health Organization situations reports
 World Health Organization situations reports since the beginning of the Coronavirus outbreak.
 
 **This is a work in progress**
