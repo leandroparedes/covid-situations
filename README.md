@@ -1,19 +1,43 @@
 # covid-situations
-Situations reports since the beginning of the Coronavirus outbreak
+World Health Organization situations reports since the beginning of the Coronavirus outbreak.
 
 **This is a work in progress**
 
 ## Endpoints
 
+### Get all the reports since the beginning of the outbreak
 [/v1/situations](https://covid-situations.herokuapp.com/v1/situations)
 
-[/v1/situations/{year}](https://covid-situations.herokuapp.com/v1/situations/2020) (in progress)
+### Get paginated reports
+[/v1/situations?page=2](https://covid-situations.herokuapp.com/v1/situations?page=2)
 
-[/v1/situations/{year}/{month}](https://covid-situations.herokuapp.com/v1/situations/2020/january) (in progress)
+Parameters:
+  - page
+  - perPage (default: 10)
+  
+Response:
+```json
+{
+  "data": [
+    {
+      "date": "2019/12/31",
+      "reports": [
+        "report 1",
+        "report 2"
+      ]
+    }
+  ],
+  "links": {
+    "previous": "https://covid-situations.herokuapp.com/v1/situations?page=1",
+    "next": "https://covid-situations.herokuapp.com/v1/situations?page=3"
+  }
+}
+```
 
-[/v1/situations/{year}/{month}/{day}](https://covid-situations.herokuapp.com/v1/situations/2020/january/20) (in progress)
+### Get the last 10 reports
+[/v1/situations/latest](https://covid-situations.herokuapp.com/v1/situations/latest)
 
-## Made with this API
+## Built with this API
 https://covid-t.herokuapp.com/timeline
 
 ## Collaborators
