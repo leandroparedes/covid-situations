@@ -852,6 +852,12 @@
             "The number of confirmed cases worldwide has exceeded 200 000. It took over three months to reach the first 100 00 confirmed cases, and only 12 days to reach the next 100 000.",
             "A new protocol to investigate the extent of COVID-19 infection in the population, as determined by positive antibody tests in the general population has been developed. The protocol is titled the Population-based age-stratified seroepidemiological investigation protocol for COVID-19 virus infection."
         ],
+        "related_links": [
+            {
+                "link_text": "Population-based age-stratified seroepidemiological investigation protocol for COVID-19 virus infection",
+                "link_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/early-investigations"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200319-sitrep-59-covid-19.pdf"
     },
     {
@@ -865,6 +871,12 @@
             "Updated technical guidance on critical preparedness, readiness and response.",
             "OpenWHO is constantly updating and adding online open courses for COVID19 as a resource for health professionals, decision-makers and the public. As of 20 March, more than 500 000 learners have already enrolled."
         ],
+        "related_links": [
+            {
+                "link_text": "The COVID-19 Solidarity Response Fund",
+                "link_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200320-sitrep-60-covid-19.pdf"
     },
     {
@@ -874,15 +886,40 @@
             "As COVID-19 cases continue to increase, many countries are requesting individuals to stay at home in self-quarantine. WHO EURO has released a guide on how to stay physically active during self-quarantine.",
             "There has been a rise in criminals disguising themselves as WHO to steal money or sensitive information. WHO urges individuals to stay alert and to verify the authenticity of the request."
         ],
+        "related_links": [
+            {
+                "link_text": "Guide on how to stay physically active during self-quarantine",
+                "link_url": "http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/novel-coronavirus-2019-ncov-technical-guidance/stay-physically-active-during-self-quarantine/_recache#article"
+            },
+            {
+                "link_text": "Protecting yourselves against scams",
+                "link_url": "https://www.who.int/about/communications/cyber-security"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200322-sitrep-62-covid-19.pdf"
     },
     {
         "date": "2020/03/23",
         "reports": [
             "Three new countries/territories/areas from the African Region, Region of the Americas, and Eastern Mediterranean Region, have reported cases of COVID-19.",
-            "The number of COVID-19 cases surpassed 300,000 globally.", "Diagnostic testing for COVID-19 is critical to tracking the virus, understanding epidemiology, informing case management, and to suppressing transmission. WHO has updated the Laboratory Testing Strategy document according to the 4Cs transmission scenarios.",
+            "The number of COVID-19 cases surpassed 300,000 globally.",
+            "Diagnostic testing for COVID-19 is critical to tracking the virus, understanding epidemiology, informing case management, and to suppressing transmission. WHO has updated the Laboratory Testing Strategy document according to the 4Cs transmission scenarios.",
             "WHO Regional Office for Europe has published interim guidance on how to deal with COVID-19 in prisons and other places of detention.",
             "World Water Day 2020, celebrated on 22 March, highlighted the essential role of hand washing in hygiene to protect you and those around you."
+        ],
+        "related_links": [
+            {
+                "link_text": "Laboratory Testing Strategy document",
+                "link_url": "https://apps.who.int/iris/bitstream/handle/10665/331509/WHO-COVID-19-lab_testing-2020.1-eng.pdf"
+            },
+            {
+                "link_text": " Interim guidance on how to deal with COVID-19 in prisons",
+                "link_url": "http://www.euro.who.int/en/health-topics/health-determinants/prisons-and-health/news/news/2020/3/preventing-covid-19-outbreak-in-prisons-a-challenging-but-essential-task-for-authorities"
+            },
+            {
+                "link_text": "Essential role of hand washing in hygiene to protect you",
+                "link_url": "http://www.euro.who.int/en/health-topics/environment-and-health/water-and-sanitation/news/news/2020/3/world-water-day-2020-highlights-the-essential-role-of-handwashing"
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200323-sitrep-63-covid-19.pdf"
     },
@@ -894,6 +931,20 @@
             "The WHO WhatsApp Health Alert has now attracted 10 million users since launching Friday, and the COVID-19 Solidarity Response Fund has raised more than US$70 million, in just 10 days.",
             "WHO and FIFA launched a joint campaign to equip the football community to tackle COVID-19. This awareness campaign calls on all people around the world to follow the five key steps to stop the spread of the disease.",
             "WHO and its partners are constantly working to strengthen the chains of essential COVID-19 supplies. As global demand rises, WHO and its partners aim to ensure assistance to areas most in need."
+        ],
+        "related_links": [
+            {
+                "link_text": "WHO has delivered a new shipment of emergency medical supplies to the Islamic Republic of Iran",
+                "link_url": "http://www.emro.who.int/irn/iran-news/who-delivers-new-shipment-of-medical-supplies-for-covid-19-response-in-islamic-republic-of-irann.html?format=html"
+            },
+            {
+                "link_text": "The WHO WhatsApp Health Alert has now attracted 10 million users since launching Friday",
+                "link_url": "https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---23-march-2020"
+            },
+            {
+                "link_text": "WHO and FIFA launched a joint campaign to equip the football community to tackle COVID-19",
+                "link_url": "https://www.who.int/news-room/detail/23-03-2020-pass-the-message-five-steps-to-kicking-out-coronavirus"
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200324-sitrep-64-covid-19.pdf"
     }
