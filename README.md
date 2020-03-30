@@ -57,6 +57,18 @@ Response:
   }
 }
 ```
+If the ID doesn't match the required format (YYYYMMDD) the following response (HTTP 400) will be sent:
+```json
+{
+    "message": "Wrong ID format. It should be YYYYMMDD"
+}
+```
+If no situation is found the following reponse (HTTP 404) will be sent:
+```json
+{
+    "message": "Situation not found"
+}
+```
 
 ### Get paginated situation reports
 [/v1/situations?page=2](https://covid-situations.herokuapp.com/v1/situations?page=2)
