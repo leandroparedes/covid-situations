@@ -39,6 +39,7 @@ Response:
 
 ## Built with this API
 https://covid-t.herokuapp.com/timeline
+https://report-reader.herokuapp.com/
 
 ## Collaborators
 https://github.com/sebagutierrez
