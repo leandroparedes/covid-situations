@@ -6,7 +6,7 @@ const baseData = require('./situations.json');
 const host = `https://covid-situations.herokuapp.com`;
 
 function paginate (options) {
-    const { pageNumber, perPage, data, url } = options;
+    const { pageNumber, perPage, data, url, filtering } = options;
 
     const itemsPerPage = perPage || 10;
 
@@ -17,14 +17,15 @@ function paginate (options) {
     paginatedData.data = data.slice(start, end);
 
     let links = {};
+    const queryStringSymbol = filtering ? '&' : '?';
     if (start > 0) {
         let page = parseInt(pageNumber) - 1;
-        links.prev = `${host}${url}?page=${page}&perPage=${itemsPerPage}`;
+        links.prev = `${host}${url}${queryStringSymbol}page=${page}&perPage=${itemsPerPage}`;
     }
 
     if (end < data.length) {
         let page = parseInt(pageNumber) + 1;
-        links.next = `${host}${options.url}?page=${page}&perPage=${itemsPerPage}`;
+        links.next = `${host}${options.url}${queryStringSymbol}page=${page}&perPage=${itemsPerPage}`;
     }
 
     paginatedData.links = links;
@@ -108,7 +109,8 @@ router.get('/latest', (req, res) => {
             pageNumber: req.query.page,
             perPage: req.query.perPage,
             data: latestData,
-            url: req.originalUrl.split(/(\?|&)(page|perPage)=[0-9]/).shift()
+            url: req.originalUrl.split(/(\?|&)(page|perPage)=[0-9]/).shift(),
+            filtering: req.query.fields != undefined
         });
 
         res.send(paginated);
@@ -190,7 +192,8 @@ router.get('/', (req, res) => {
             pageNumber: req.query.page,
             perPage: req.query.perPage,
             data: filteredData,
-            url: req.originalUrl.split(/(\?|&)(page|perPage)=[0-9]/).shift()
+            url: req.originalUrl.split(/(\?|&)(page|perPage)=[0-9]/).shift(),
+            filtering: req.query.fields != undefined
         });
         res.send(paginatedData);
         return;
