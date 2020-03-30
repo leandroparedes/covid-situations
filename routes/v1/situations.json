@@ -79,6 +79,20 @@
                 ]
             }
         ],
+        "related_links": [
+            {
+                "link_text": "Interim guidence for infection prevention and control in health care settings",
+                "link_url": "https://www.who.int/publications-detail/infection-prevention-and-control-during-health-care-when-novel-coronavirus-(ncov)-infection-is-suspected-20200125"
+            },
+            {
+                "link_text": "Interim guidence for risk communication and community engagement",
+                "link_url": "https://www.who.int/publications-detail/risk-communication-and-community-engagement-readiness-and-initial-response-for-novel-coronaviruses-(-ncov)"
+            },
+            {
+                "link_text": "Disease commodity package",
+                "link_url": "https://www.who.int/who-documents-detail/disease-commodity-package---novel-coronavirus-(ncov)"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200121-sitrep-1-2019-ncov.pdf"
     },
     {
@@ -249,6 +263,16 @@
                 ]
             }
         ],
+        "related_links": [
+            {
+                "link_text": "WHO Director-General Emergency Committee details",
+                "link_url": "https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)"
+            },
+            {
+                "link_text": "WHO's updated advice for international traffic",
+                "link_url": "https://www.who.int/news-room/articles-detail/updated-who-advice-for-international-traffic-in-relation-to-the-outbreak-of-the-novel-coronavirus-2019-ncov-24-jan/"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200124-sitrep-4-2019-ncov.pdf"
     },
     {
@@ -307,16 +331,28 @@
                 ]
             }
         ],
+        "related_links": [
+            {
+                "link_text": "WHO's online course to provide general introduction to emerging respiratory viruses.",
+                "link_url": "https://openwho.org/courses/introduction-to-ncov"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200126-sitrep-6-2019--ncov.pdf"
     },
     {
         "date": "2020/01/27",
         "reports": [
             "WHO Director-General Dr Tedros Adhanom Ghebreyesus and colleagues are in Beijing to meet with government and health experts supporting the response. The mission’s aim is to understand the latest developments and strengthen the partnership with China, in particular for the response.",
-            "Current estimates of the incubation period of the virus range from 2-10 days, and these estimates will be refined as more data become available. Understanding the time when infected patients may transmit the virus to others is critical for control efforts. Detailed epidemiological information from more people infected is needed to determine the infectious period of 2019-nCoV, in particular whether transmission can occur from asymptomatic individuals or during the incubation period. WHO requests countries to notify WHO of cases following the guidanceincluded in: https://www.who.int/publications-detail/global-surveillance-forhuman-infection-with-novel-coronavirus-(2019-ncov)",
+            "Current estimates of the incubation period of the virus range from 2-10 days, and these estimates will be refined as more data become available. Understanding the time when infected patients may transmit the virus to others is critical for control efforts. Detailed epidemiological information from more people infected is needed to determine the infectious period of 2019-nCoV, in particular whether transmission can occur from asymptomatic individuals or during the incubation period.",
             "WHO is continually monitoring developments and on standby to reconvene the Emergency Committee on very short notice as needed. Committee members are regularly informed of developments."
         ],
-        "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200127-sitrep-7-2019--ncov.pdf"  
+        "related_links": [
+            {
+                "link_text": "Global Surveillance for human infection with coronavirus disease guidence",
+                "link_url": "https://www.who.int/publications-detail/global-surveillance-for-human-infection-with-novel-coronavirus-(2019-ncov)"
+            }
+        ],
+        "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200127-sitrep-7-2019--ncov.pdf"
     },
     {
         "date": "2020/01/28",
@@ -325,6 +361,12 @@
             "The discussions focused on continued collaboration to improve containment measures in Wuhan, to strengthen public health measures in other cities and provinces, to conduct further studies and transmissibility of the virus, to continue to share data, and for China to share biological material with WHO. These measures will advance scientific understanding of the virus and contribute to the development such as vaccines and treatments.",
             "WHO is launching a Global 2019-nCoV Clinical Data Platform to allow Member States to contribute anonymized clinical data in order to inform the public health clinical response.",
             "WHO is continually monitoring developments and the Director-General can reconvene the Emergency Committee on very short notice as needed. Committee members are regularly informed of developments."
+        ],
+        "related_links": [
+            {
+                "link_text": "China leaders discuss next steps in battle against coronavirus outbreak",
+                "link_url": "https://www.who.int/news-room/detail/28-01-2020-who-china-leaders-discuss-next-steps-in-battle-against-coronavirus-outbreak"
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200128-sitrep-8-ncov-cleared.pdf"
     },
@@ -354,6 +396,20 @@
                 ]
             }
         ],
+        "related_links": [
+            {
+                "link_text": "WHO Best Practices for Naming of New Human Infectious Diseases",
+                "link_url": "https://www.who.int/topics/infectious_diseases/naming-new-diseases/en/"
+            },
+            {
+                "link_text": "International Classification of Diseases (ICD)",
+                "link_url": "https://www.who.int/classifications/icd/en/"
+            },
+            {
+                "link_text": "The First Few X (FFX) Cases and contact investigation protocol for 2019-novel coronavirus (2019-nCoV) infection",
+                "link_url": "https://www.who.int/publications-detail/the-first-few-x-(ffx)-cases-and-contact-investigation-protocol-for-2019-novel-coronavirus-(2019-ncov)-infection"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200130-sitrep-10-ncov.pdf"
     },
     {
@@ -369,6 +425,16 @@
                 "actions": [
                     "WHO has actively sought misinformation and responded to rumours through ‘myth busting’ on WHO’s social media and its website."
                 ]
+            }
+        ],
+        "related_links": [
+            {
+                "link_text": "Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV)",
+                "link_url": "https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)"
+            },
+            {
+                "link_text": "Coronavirus disease (COVID-19) advice for the public: Myth busters",
+                "link_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters"
             }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200131-sitrep-11-ncov.pdf"
@@ -390,6 +456,12 @@
             "The first death has been reported outside of China, in the Philippines. The patient was a close contact of the first patient confirmed in the Philippines.",
             "Due to the high demand for timely and trustworthy information about 2019-nCoV WHO technical risk communication and social media teams have been working closely to track and respond to myths and rumours."
         ],
+        "related_links": [
+            {
+                "link_text": "Global Surveillance for human infection with coronavirus disease (COVID-19)",
+                "link_url": "https://www.who.int/publications-detail/global-surveillance-for-human-infection-with-novel-coronavirus-(2019-ncov)"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200202-sitrep-13-ncov-v3.pdf"
     },
     {
@@ -399,6 +471,16 @@
             "WHO has developed a dashboard for Novel coronavirus (2019-nCoV) with the number of confirmed cases globally, which includes cases in China by provinces, regions and cities, as well as confirmed cases outside China by country.",
             "WHO has prepared a list of Q&A to respond to queries WHO is receiving from various organizations and individuals.",
             "Working with technical experts in health operations, WHO operational support and logistics has developed a “2019-nCoV kit”, similar to prepared treatment kits used for outbreaks of other high threat pathogens. In the coming days, the costing, procurement and assembly of these kits will be a priority."
+        ],
+        "related_links": [
+            {
+                "link_text": "Dashboard for Novel coronavirus (2019-nCoV)",
+                "link_url": "https://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667"
+            },
+            {
+                "link_text": "Q&A on coronaviruses (COVID-19)",
+                "link_url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses"
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200203-sitrep-14-ncov.pdf"
     },
@@ -425,6 +507,20 @@
                 ]
             }
         ],
+        "related_links": [
+            {
+                "link_text": "Strategic preparedness and response plan",
+                "link_url": "https://www.who.int/docs/default-source/coronaviruse/srp-04022020.pdf"
+            },
+            {
+                "link_text": "Temporary Recommendations associated with the declaration of a Public Health Emergency of International Concern",
+                "link_url": "https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)"
+            },
+            {
+                "link_text": "AITA guidence document to provide advice to cabin crew and airport workers",
+                "link_url": "https://www.iata.org/en/programs/safety/health/diseases/#tab-2"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200205-sitrep-16-ncov.pdf"
     },
     {
@@ -433,6 +529,12 @@
             "No new countries reported cases of 2019-nCoV in the past 24 hours.",
             "WHO is working with partners to strengthen global diagnostic capacity for 2019-nCoV detection to improve surveillance and track the spread of disease. WHO and partners have activated a network of specialized referral laboratories with demonstrated expertise in the molecular detection of coronaviruses. These international labs can support national labs to confirm new cases and troubleshoot their molecular assays.",
             "WHO is convening a global research and innovation forum to mobilize international action in response to the new coronavirus, covering a broad spectrum of research areas including epidemiology, clinical care, vaccines, therapeutics, diagnostics, animal health, social sciences, and other topics."
+        ],
+        "related_links": [
+            {
+                "link_text": "Global research and innovation forum to mobilize international action in response to the new coronavirus",
+                "link_url": "https://www.who.int/news-room/detail/06-02-2020-who-to-accelerate-research-and-innovation-for-new-coronavirus"
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200206-sitrep-17-ncov.pdf"
     },
@@ -476,6 +578,12 @@
             "No new countries reported cases of 2019-nCoV in the past 24 hours.",
             "The WHO R&D Blueprint is a global strategy and preparedness plan that allows the rapid activation of R&D activities during epidemics. On 11-12 February, WHO is convening a global research and innovation forum to mobilize international action and enable identification of key knowledge gaps and research priorities to contribute to the control of 2019-nCoV. The forum will include members of the scientific community, researchers from Member States’ public health agencies, regulatory experts, bioethicists with expertise in research in emergencies, and major funder of research related to 2019-nCoV."
         ],
+        "related_links": [
+            {
+                "link_text": "WHO R&D Blueprint",
+                "link_url": "https://www.who.int/blueprint/about/en/"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200210-sitrep-21-ncov.pdf"
     },
     {
@@ -484,6 +592,12 @@
             "No new countries reported cases of 2019-nCoV in the past 24 hours.",
             "An advanced team is currently in Beijing to prepare an international mission and to determine the questions the international team will want to learn more about: from characteristics of the virus to public health response China put in place to try to contain the virus. The group of international experts, with a range of specializations, will work with Chinese counterparts on increasing understanding of the outbreak to guide global response efforts. Since being notified of the outbreak on 31 December, the WHO Country Office in China, supported by the regional and international offices, has worked to support China, and indeed the world, to scale up the response. A small mission was sent to Wuhan mid-January, and the Director visited in January.",
             "Following WHO best practices for naming of new human infectious diseases, which were developed in consultation and collaboration with the World Organisation for Animal Health (OIE) and the Food and Agriculture Organization of the United Nations (FAO), WHO has named the disease COVID-19, short for 'coronavirus disease 2019.' "
+        ],
+        "related_links": [
+            {
+                "link_text": "WHO best practices for naming of new human infectious diseases",
+                "link_url": "https://www.who.int/topics/infectious_diseases/naming-new-diseases/en/"
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200211-sitrep-22-ncov.pdf"
     },
@@ -495,6 +609,16 @@
             "The UN activated a Crisis Management Team (CMT) on the COVID-19 outbreak, to be led by WHO. The WHO Director-General nominated Dr Mike Ryan, Executive Director of WHO Health Emergencies Programme as the Crisis Manager. The CMT brings together WHO, OCHA, IMO (International Maritime Organization), UNICEF, ICAO, WFP, FAO, the World Bank and several departments of the UN Secretariat. It held its first meeting yesterday via teleconference. This mechanism will help WHO focus on the health response while the other agencies will bring their expertise to bear on the wider social, economic and developmental implications of the outbreak. Additional members will be included depending on the evolution of the outbreak and its impact globally.",
             "WHO has prepared a list of Q&A on infection prevention and control for health care workers caring for patients with suspected or confirmed 2019-nCoV."
         ],
+        "related_links": [
+            {
+                "link_text": "Key considerations for repatriation and quarantine of travellers in relation to COVID-19",
+                "link_url": "https://www.who.int/ith/Repatriation_Quarantine_nCoV-key-considerations_HQ-final11Feb.pdf?ua=1"
+            },
+            {
+                "link_text": "Q&A on infection prevention and control for health care workers caring for patients with suspected or confirmed 2019-nCoV",
+                "link_url": "https://www.who.int/news-room/q-a-detail/q-a-on-infection-prevention-and-control-for-health-care-workers-caring-for-patients-with-suspected-or-confirmed-2019-ncov"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200212-sitrep-23-ncov.pdf"
     },
     {
@@ -503,6 +627,16 @@
             "WHO has developed a database to collect the latest scientific findings and knowledge on Coronavirus disease.",
             "The two-day global research and innovation forum regarding COVID-19 was convened in line with the WHO R&D Blueprint this week. Leading health experts from around the world met at WHO to assess the current level of knowledge about the new COVID-19 disease, identify gaps and work together to accelerate and fund priority research needed to help stop this outbreak and prepare for any future outbreaks.",
             "Overnight 14’840 cases, including 13’332 clinically diagnosed cases were reported from Hubei. This is the first time China has reported clinically diagnosed cases in addition to laboratory-confirmed cases. For consistency, we report here only the number of laboratory-confirmed cases. WHO has formally requested additional information on the clinically diagnosed cases, in particular when these have occurred in the course of the outbreak and whether suspect cases were reclassified as clinically diagnosed cases."
+        ],
+        "related_links": [
+            {
+                "link_text": "Database to collect the latest scientific findings and knowledge on Coronavirus disease",
+                "link_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov"
+            },
+            {
+                "link_text": "World experts and funders set priorities for COVID-19 research",
+                "link_url": "https://www.who.int/news-room/detail/12-02-2020-world-experts-and-funders-set-priorities-for-covid-19-research"
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200213-sitrep-24-covid-19.pdf"
     },
@@ -521,6 +655,40 @@
             "In a speech to the Munich Security Conference, the WHO Director-General, Dr. Tedros Adhanom Ghebreyesus, described aspects of the COVID-19 outbreak situation that WHO finds encouraging, and areas of concern.",
             "WHO regional offices continue to support countries with their COVID-19 readiness efforts. "
         ],
+        "related_links": [
+            {
+                "link_text": "Joint media statement from the Ministry and WHO (in Arabic)",
+                "link_url": "https://www.facebook.com/352015718468937/posts/1097988220538346/"
+            },
+            {
+                "link_text": "Munich Security Conference",
+                "link_url": "https://www.who.int/dg/speeches/detail/munich-security-conference"
+            },
+            {
+                "link_text": "Africa readiness efforts",
+                "link_url": "https://www.afro.who.int/news/african-region-reinforces-preparedness-novel-coronavirus"
+            },
+            {
+                "link_text": "Americas readiness efforts",
+                "link_url": "https://www.paho.org/hq/index.php?option=com_content&view=article&id=15724:paho-prepares-a-further-9-countries-in-the-americas-for-laboratory-diagnosis-of-new-coronavirus&Itemid=1926&lang=en"
+            },
+            {
+                "link_text": "South-East Asia readiness efforts",
+                "link_url": "https://www.who.int/southeastasia/news/detail/27-01-2020-readiness-is-the-key-to-detect-combat-spread-of-the-new-coronavirus"
+            },
+            {
+                "link_text": "Europe readiness efforts",
+                "link_url": "http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/news/news/2020/2/coronavirus-disease-covid-19-european-region-focusing-on-readiness"
+            },
+            {
+                "link_text": "Eastern Mediterranean readiness efforts",
+                "link_url": "http://www.emro.who.int/media/news/whos-eastern-mediterranean-region-scales-up-preparedness-for-novel-coronavirus.html"
+            },
+            {
+                "link_text": "Western Pacific readiness efforts",
+                "link_url": "https://www.who.int/westernpacific/news/commentaries/detail-hq/china-virus-outbreak-shows-asia-needs-to-step-up-infection-preparation"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200215-sitrep-26-covid-19.pdf"
     },
     {
@@ -529,6 +697,12 @@
             "No new countries reported cases of COVID-19 in the past 24 hours.",
             "A third death of a COVID-19 patient has been reported outside of China. This individual was a tourist from China visiting France.",
             "Studies to assess the epidemiology and clinical characteristics of COVID-19 cases in different settings are therefore critical to furthering our understanding of this virus and associated disease. Several early investigation master protocols or master forms are available for countries to use"
+        ],
+        "related_links": [
+            {
+                "link_text": "Early investigations protocol",
+                "link_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/early-investigations"
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200216-sitrep-27-covid-19.pdf"
     },
@@ -539,6 +713,20 @@
             "From today, WHO will be reporting all confirmed cases, including both laboratory-confirmed as previously reported, and those reported as clinically diagnosed (currently only applicable to Hubei province, China). From 13 February through 16 February, we reported only laboratory confirmed cases for Hubei province as mentioned in the situation report published on 13 February. The change in reporting is now shown in the figures. This accounts for the apparent large increase in cases compared to prior situation reports.",
             "Based on the evidence currently available about COVID-19, WHO has developed guidance documents for managing public health events at Points of Entry and mass gatherings. These are posted on WHO COVID-19 Points of Entry and Mass Gatherings website. See Technical Focus for more details.",
             "WHO Eastern Mediterranean office has updated information on COVID-19 cases"
+        ],
+        "related_links": [
+            {
+                "link_text": "13th February situation report",
+                "link_url": "https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200213-sitrep-24-covid-19.pdf?sfvrsn=9a7406a4_4"
+            },
+            {
+                "link_text": "WHO COVID-19 Points of Entry and Mass Gatherings",
+                "link_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/points-of-entry-and-mass-gatherings"
+            },
+            {
+                "link_text": "WHO Eastern Mediterranean updated information on COVID-19 cases",
+                "link_url": "http://www.emro.who.int/media/news/update-on-covid-19-in-the-eastern-mediterranean-region.html"
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200217-sitrep-28-covid-19.pdf"
     },
@@ -557,13 +745,62 @@
                 ]
             }
         ],
+        "related_links": [
+            {
+                "link_text": "Rights, Roles and Responsibilities Of Health Workers, Including Key Considerations For Occupational Safety And Health",
+                "link_url": "https://www.who.int/docs/default-source/coronaviruse/who-rights-roles-respon-hw-covid-19.pdf?sfvrsn=bcabd401_0"
+            },
+            {
+                "link_text": "Interim guidance for laboratory diagnosis",
+                "link_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance"
+            },
+            {
+                "link_text": "Advice on the use of masks in the community, during home care and in healthcare settings in the context of the novel coronavirus (COVID-19) outbreak",
+                "link_url": "https://www.who.int/publications-detail/advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-the-novel-coronavirus-(2019-ncov)-outbreak"
+            },
+            {
+                "link_text": "Infection prevention and control in health care settings",
+                "link_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/infection-prevention-and-control"
+            },
+            {
+                "link_text": "Home care for patients with suspected novel coronavirus",
+                "link_url": "https://www.who.int/publications-detail/home-care-for-patients-with-suspected-novel-coronavirus-(ncov)-infection-presenting-with-mild-symptoms-and-management-of-contacts"
+            },
+            {
+                "link_text": "Global Surveillance for human infection with novel coronavirus",
+                "link_url": "https://www.who.int/publications-detail/global-surveillance-for-human-infection-with-novel-coronavirus-(2019-ncov)"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200218-sitrep-29-covid-19.pdf"
     },
     {
         "date": "2020/02/19",
         "reports": [
             "No new countries reported cases of COVID-19 in the past 24 hours.",
-            "WHO is working with an international network of statisticians and mathematical modelers to estimate key epidemiologic parameters of COVID19, such as the incubation period (the time between infection and symptom onset), case fatality ratio (CFR, the proportion of cases that die), and the serial interval (the time between symptom onset of a primary and secondary case). Reports of current analyses that have estimated these parameters are provided in this Situation Report as a summary of currently available evidence. These values should be considered preliminary and parameters will likely be updated as more information becomes available. Modelling can support decision-making but needs to be combined with rigorous data collection and a comprehensive analysis of the situation."
+            "WHO is working with an international network of statisticians and mathematical modelers to estimate key epidemiologic parameters of COVID19, such as the incubation period (the time between infection and symptom onset), case fatality ratio (CFR, the proportion of cases that die), and the serial interval (the time between symptom onset of a primary and secondary case). Reports of current analyses that have estimated these parameters are provided in this Situation Report as a summary of currently available evidence. These values should be considered preliminary and parameters will likely be updated as more information becomes available. Modelling can support decision-making but needs to be combined with rigorous data collection and a comprehensive analysis of the situation.",
+            "Several online courses related to COVID-19 have been added to the OpenWHO platform"
+        ],
+        "related_links": [
+            {
+                "link_text": "A general introduction to emerging respiratory viruses (English)",
+                "link_url": "https://openwho.org/courses/introduction-to-ncov"
+            },
+            {
+                "link_text": "A general introduction to emerging respiratory viruses (French)",
+                "link_url": "https://openwho.org/courses/introduction-au-ncov"
+            },
+            {
+                "link_text": "A general introduction to emerging respiratory viruses (Simplified Chinese)",
+                "link_url": "https://openwho.org/courses/introduction-to-ncov-ZH"
+            },
+            {
+                "link_text": "A general introduction to emerging respiratory viruses (Spanish)",
+                "link_url": "https://openwho.org/courses/introduccion-al-ncov"
+            },
+            {
+                "link_text": "Health and briefing for respiratory diseases - ePROTECT",
+                "link_url": "https://openwho.org/courses/eprotect-acute-respiratory-infections"
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200219-sitrep-30-covid-19.pdf"
     },
@@ -574,6 +811,12 @@
             "China has revised their guidance on case classification for COVID-19, removing the classification of “clinically diagnosed” previously used for Hubei province, and retaining only “suspected” and “confirmed” for all areas, the latter requiring laboratory confirmation. Some previously reported “clinically diagnosed” cases are thus expected to be discarded over the coming days as laboratory testing is conducted and some are found to be COVID-19-negative.",
             "In early January, following the notification of the occurrence of cases of COVID-19 among travelers from Wuhan, China, WHO established a Global Surveillance System to collect and organize essential information to describe and monitor COVID-19. All WHO regions have implemented the reporting of COVID-19 cases either through existing or newly-established data collection systems."
         ],
+        "related_links": [
+            {
+                "link_text": "China's guidance on case classification for COVID-19 (Chinese)",
+                "link_url": "http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11815/202002/W020200219516971614358.pdf"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200220-sitrep-31-covid-19.pdf"
     },
     {
@@ -582,13 +825,30 @@
             "No new countries reported cases of COVID-19 in the past 24 hours.",
             "Through the International Food Safety Authorities Network (INFOSAN), national food safety authorities are seeking more information on the potential for persistence of SARS-CoV-2, which causes COVID-19, on foods traded internationally as well as the potential role of food in the transmission of the virus. Currently, there are investigations conducted to evaluate the viability and survival time of SARS-CoV-2. As a general rule, the consumption of raw or undercooked animal products should be avoided. Raw meat, raw milk or raw animal organs should be handled with care to avoid crosscontamination with uncooked foods."
         ],
+        "related_links": [
+            {
+                "link_text": "",
+                "link_url": ""
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200221-sitrep-32-covid-19.pdf"
     },
     {
         "date": "2020/02/22",
         "reports": [
-            "Two new countries (Lebanon and Israel) reported cases of COVID-19 in the past 24 hours.", "The role of environmental contamination in the transmission of COVID-19 is not yet clear. On 18 February, a new protocol entitled “Surface sampling of coronavirus disease (COVID-19): A practical “how to” protocol for health care and public health professionals” was published. This protocol was designed to determine viable virus presence and persistence on fomites in various locations where a COVID-19 patient is receiving care or isolated, and to understand how fomites may play a role in the transmission of the virus.",
+            "Two new countries (Lebanon and Israel) reported cases of COVID-19 in the past 24 hours.", 
+            "The role of environmental contamination in the transmission of COVID-19 is not yet clear. On 18 February, a new protocol entitled “Surface sampling of coronavirus disease (COVID-19): A practical “how to” protocol for health care and public health professionals” was published. This protocol was designed to determine viable virus presence and persistence on fomites in various locations where a COVID-19 patient is receiving care or isolated, and to understand how fomites may play a role in the transmission of the virus.",
             "The WHO Director-General briefed the emergency ministerial meeting on COVID-19 organized by the African Union and the Africa Centres for Disease Control and Prevention."
+        ],
+        "related_links": [
+            {
+                "link_text": "Surface sampling of coronavirus disease (COVID-19): A practical 'how to' protocol for health care and public health professionals",
+                "link_url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/early-investigations"
+            },
+            {
+                "link_text": "Emergency Ministerial meeting on COVID-19 organized by the African Union and the Africa Centres for Disease Control and Prevention",
+                "link_url": "https://www.who.int/dg/speeches/detail/emergency-ministerial-meeting-on-covid-19-organized-by-the-african-union-and-the-africa-centres-for-disease-control-and-prevention"
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200222-sitrep-33-covid-19.pdf"
     },
@@ -615,6 +875,20 @@
             "The WHO-China joint mission concluded on 24 February. The team has made a range of findings about the transmissibility of the virus, the severity of disease and the impact of the measures taken.",
             "A joint WHO and European Centre for Disease Prevention and Control (ECDC) mission arrived in Italy on 24 February to support Italian authorities on the COVID-19 situation."
         ],
+        "related_links": [
+            {
+                "link_text": "Infection Prevention and Control (IPC) for Novel Coronavirus (COVID-19)",
+                "link_url": "https://openwho.org/courses/COVID-19-IPC-EN"
+            },
+            {
+                "link_text": "WHO-China joint mission findings",
+                "link_url": "https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---24-february-2020"
+            },
+            {
+                "link_text": "Joint WHO and ECDC mission in Italy to support COVID-19 control and prevention efforts",
+                "link_url": "http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/news/news/2020/2/joint-who-and-ecdc-mission-in-italy-to-support-covid-19-control-and-prevention-efforts"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200225-sitrep-36-covid-19.pdf"
     },
     {
@@ -623,6 +897,12 @@
             "Four new Member States (Algeria, Austria, Croatia, and Switzerland) reported cases of COVID-19 in the past 24 hours. Algeria is the first Member State of the AFRO Region to report a case of COVID-19. ",
             "For the first time, since the onset of symptoms of the first identified case of COVID-19 on 8 December 2019, there have been more new cases reported from countries outside of China than from China.",
             "The WHO Director-General provided opening remarks at the weekly Member State briefing on COVID-19 regarding ongoing and future WHO missions along with priorities for control of the outbreak."
+        ],
+        "related_links": [
+            {
+                "link_text": "WHO Director-General provided opening remarks at the weekly Member State briefing on COVID-19 regarding ongoing and future",
+                "link_url": "https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-mission-briefing-on-covid-19---26-february-2020"
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200226-sitrep-37-covid-19.pdf"
     },
@@ -633,6 +913,20 @@
             "WHO and the World Tourism Organization released a joint statement regarding responsibility and coordination on tourism and COVID-19.",
             "OpenWHO, a web-based learning platform, has launched the free online courses Introduction to Emerging Respiratory Viruses, Including Novel Coronovirus, in Portuguese and Health and Safety Briefing for Respiratory Diseases – ePROTECT in French today.",
             "WHO is utilizing an international network of expert laboratories to support in the detection of the COVID-19 virus globally. For more information, please see the Subject in Focus below."
+        ],
+        "related_links": [
+            {
+                "link_text": "WHO and the World Tourism Organization joint statement",
+                "link_url": "https://www.who.int/news-room/detail/27-02-2020-a-joint-statement-on-tourism-and-covid-19---unwto-and-who-call-for-responsibility-and-coordination"
+            },
+            {
+                "link_text": "A general introduction to emerging respiratory viruses (Portuguese)",
+                "link_url": "https://openwho.org/courses/introducao-ao-ncov"
+            },
+            {
+                "link_text": "Health and Safety Briefing for Respiratory Diseases – ePROTECT (French)",
+                "link_url": "https://openwho.org/courses/eprotect-infections-respiratoires-aigues"
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200227-sitrep-38-covid-19.pdf"
     },
@@ -646,6 +940,16 @@
             "As of 27 February, there are 36 117 (26 403 in Hubei and 15 826 in Wuhan) cases who have recovered from COVID-19 in China.",
             "Under the International Health Regulations (2005), States Parties implementing additional health measures that significantly interfere with international traffic shall notify WHO of the public health rationale of those measures within 48 hours of their implementation. As of 27 February, 41 States Parties are officially reporting additional health measures."
         ],
+        "related_links": [
+            {
+                "link_text": "WHO-China Joint Mission findings",
+                "link_url": "https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf"
+            },
+            {
+                "link_text": "Updated Global Surveillance for human infection with coronavirus disease (COVID-19)",
+                "link_url": "https://www.who.int/publications-detail/global-surveillance-for-human-infection-with-novel-coronavirus-(2019-ncov)"
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200228-sitrep-39-covid-19.pdf"
     },
     {
@@ -653,6 +957,12 @@
         "reports": [
             "Two new Member States (Mexico and San Marino) reported cases of COVID19 in the past 24 hours.",
             "WHO has published the Rational use of personal protective equipment for COVID-19. This document summarizes WHO recommendations for the appropriate use of personal protective equipment (PPE) in health care and community settings, including the handling of cargo. More information on Infection Prevention and Control (IPC) activities can be found in the Subject in Focus."   
+        ],
+        "related_links": [
+            {
+                "link_text": "Rational use of personal protective equipment for COVID-19",
+                "link_url": "https://apps.who.int/iris/bitstream/handle/10665/331215/WHO-2019-nCov-IPCPPE_use-2020.1-eng.pdf"
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200229-sitrep-40-covid-19.pdf"
     },
