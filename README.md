@@ -85,8 +85,59 @@ Response:
 }
 ```
 
-### Get the last 10 reports
+### Get the last 10 reports (supports pagination as well)
 [/v1/situations/latest](https://covid-situations.herokuapp.com/v1/situations/latest)
+
+### Get only the data you need
+[/v1/situations?fields=date;reports](https://covid-situations.herokuapp.com/v1/situations?fields=date;reports)
+
+Response
+```json
+[
+    {
+        "date": "2019/12/31",
+        "reports": []
+    }
+]
+```
+
+- Supported fields (separated by a **;** ):
+    - date
+    - reports
+    - highlights
+    - preparedness_and_responses
+    - related_links
+    - original_report_link
+   
+#### Important note:
+If you're using ```fields``` with ```page``` (and optionally with ```perPage```) the parameter ```fields``` **must be the first query string parameter**, otherwise the pagination will not work.
+
+This will work fine
+
+[/v1/situations?fields=date;reports&page=1](https://covid-situations.herokuapp.com/v1/situations?fields=date;reports&page=1)
+
+**This will not work**
+
+[/v1/situations?page=1&fields=date;reports](https://covid-situations.herokuapp.com/v1/situations?page=1&fields=date;report)
+
+If you pass a invalid field the following response will be sent
+
+Example request:
+
+[/v1/situations?fields=invalid;invalid2](https://covid-situations.herokuapp.com/v1/situations?fields=invalid;invalid2)
+```json
+{
+    "errors": {
+        "message": "Invalid requested field(s)",
+        "invalid_fields": [
+            "invalid",
+            "invalid2"
+        ]
+    }
+}
+```
+
+
 
 ## Built with this API
 https://covid-t.herokuapp.com/timeline
