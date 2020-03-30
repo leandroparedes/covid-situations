@@ -182,7 +182,7 @@ router.get('/', (req, res) => {
 
         baseData.map(situation => {
             let situationData = {};
-            fields.map(field => situationData[field] = situation[field]);
+            fields.map(field => situationData[field] = situation[field] || []);
             filteredData.push(situationData);
         });
     }
