@@ -673,6 +673,29 @@
             "No new countries reported cases of 2019-nCoV in the 24 hours since the previous situation report.",
             "The business sectoris one audience to whom EPI-WIN is reaching out with tailored information. EPI-WIN colleagues co-hosted a call with a global communications firm whose clients include large multinationals. Over 50 multinationals were represented on the call, where WHO provided an update of the 2019-nCoV situation and responded to questions about improving communications with employees; the role of businesses in public health crises; and managing uncertainty through accessing accurate information."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 20630
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 20471,
+                    "severe": 2788,
+                    "deaths": 425
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 159,
+                    "deaths": 1
+                }
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200204-sitrep-15-ncov.pdf"
     },
     {
@@ -681,6 +704,29 @@
             "Belgium reported its first confirmed case of 2019-nCoV acute respiratory disease.",
             "WHO and partners have developed a global strategic preparedness and response plan, which outlines the public health measures that the international community can provide to support all countries to prepare for and respond to the 2019‑nCoV outbreak. The overall goal of the plan is to stop further transmission of 2019‑nCoV within China and to other countries, and to mitigate the impact of the outbreak in all countries.",
             "WHO is working with the travel and tourism industry to discuss real and perceived risks experienced in the industry, measures put in place for customers and employees, and challenges faced regarding implementation of the Temporary Recommendations associated with the declaration of a Public Health Emergency of International Concern. In the coming days, WHO will work with the industry to identify solutions to these challenges, within the framework of the International Health Regulations (2005)."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 24554
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 24363,
+                    "severe": 3219,
+                    "deaths": 491
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 191,
+                    "deaths": 1
+                }
+            }
         ],
         "preparedness_and_responses": [
             {
@@ -713,6 +759,29 @@
             "WHO is working with partners to strengthen global diagnostic capacity for 2019-nCoV detection to improve surveillance and track the spread of disease. WHO and partners have activated a network of specialized referral laboratories with demonstrated expertise in the molecular detection of coronaviruses. These international labs can support national labs to confirm new cases and troubleshoot their molecular assays.",
             "WHO is convening a global research and innovation forum to mobilize international action in response to the new coronavirus, covering a broad spectrum of research areas including epidemiology, clinical care, vaccines, therapeutics, diagnostics, animal health, social sciences, and other topics."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 28276
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 28060,
+                    "severe": 3859,
+                    "deaths": 564
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 216,
+                    "deaths": 1
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "Global research and innovation forum to mobilize international action in response to the new coronavirus",
@@ -728,6 +797,29 @@
             "To date, a total of 72 States Parties were identified to be implementing travel restrictions through official reports, official statements and the media. Of these 72 States Parties, WHO received 23 (32%) official reports from States Parties about their travel restrictions.",
             "“The Pandemic Supply Chain Network (PSCN)” has commissioned a market assessment of the personal protective equipment market which will be distributed shortly to stakeholders of the PSCN as it continues to monitor the market. Additionally, senior management of WHO spoke with the stakeholders of the PSCN to ensure the private sector’s continued engagement to distribute supplies to those countries in most need. The PSCN will encourage manufacturers to increase production, commit supplies to frontline health emergency responders, and expand the number of stakeholders who are involved in the PSCN to gain a critical mass of suppliers to mitigate the operational risks within the market. WHO will continue to provide the technical guidance and coordination of supplies to those countries in most need."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 31481
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 31211,
+                    "severe": 4821,
+                    "deaths": 637
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 270,
+                    "deaths": 1
+                }
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200207-sitrep-18-ncov.pdf"
     },
     {
@@ -735,6 +827,29 @@
         "reports": [
             "No new countries reported cases of 2019-nCoV in the past 24 hours.",
             "The infection prevention and control (IPC) global network is convened through weekly teleconferences with international IPC experts to discuss technical aspects of IPC measures, share epidemiological updates and experiences regarding the IPC measures put in place in affected countries. In consultation with the global IPC expert network, WHO has released three key IPC interim guidance materials on IPC measures during health care and home care, as well as advice on the use of masks in various settings."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 34886
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 34598,
+                    "severe": 6101,
+                    "deaths": 723
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 288,
+                    "deaths": 1
+                }
+            }
         ],
         "cruise_ships_report": {
             "diamond_princess": [
@@ -748,6 +863,29 @@
         "reports": [
             "No new countries reported cases of 2019-nCoV in the past 24 hours."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 37558
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 37251,
+                    "severe": 6188,
+                    "deaths": 812
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 307,
+                    "deaths": 1
+                }
+            }
+        ],
         "cruise_ships_report": {
             "diamond_princess": [
                 "On 9 February, Japanese National Health Authorities provided WHO with a detailed update on the situation of the Cruise Ship Diamond Princess, currently harboured in Yokohama, Japan. Following confirmation of a case of 2019-nCoV, all crew and passengers are being quarantined for a 14-day period on board the vessel, asked to stay in their cabins and to wear a mask when leaving their cabin. All crew and passengers are closely followed-up and are medically examined and tested for 2019-nCoV when displaying any signs or symptoms suggestive of 2019- nCoV disease. The quarantine period will come to an end on 19 February. Epidemiological and environmental investigations are ongoing."
@@ -760,6 +898,29 @@
         "reports": [
             "No new countries reported cases of 2019-nCoV in the past 24 hours.",
             "The WHO R&D Blueprint is a global strategy and preparedness plan that allows the rapid activation of R&D activities during epidemics. On 11-12 February, WHO is convening a global research and innovation forum to mobilize international action and enable identification of key knowledge gaps and research priorities to contribute to the control of 2019-nCoV. The forum will include members of the scientific community, researchers from Member States’ public health agencies, regulatory experts, bioethicists with expertise in research in emergencies, and major funder of research related to 2019-nCoV."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 40554
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 40235,
+                    "severe": 6484,
+                    "deaths": 909
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 319,
+                    "deaths": 1
+                }
+            }
         ],
         "related_links": [
             {
@@ -776,6 +937,29 @@
             "An advanced team is currently in Beijing to prepare an international mission and to determine the questions the international team will want to learn more about: from characteristics of the virus to public health response China put in place to try to contain the virus. The group of international experts, with a range of specializations, will work with Chinese counterparts on increasing understanding of the outbreak to guide global response efforts. Since being notified of the outbreak on 31 December, the WHO Country Office in China, supported by the regional and international offices, has worked to support China, and indeed the world, to scale up the response. A small mission was sent to Wuhan mid-January, and the Director visited in January.",
             "Following WHO best practices for naming of new human infectious diseases, which were developed in consultation and collaboration with the World Organisation for Animal Health (OIE) and the Food and Agriculture Organization of the United Nations (FAO), WHO has named the disease COVID-19, short for 'coronavirus disease 2019.' "
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 43103
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 42708,
+                    "severe": 7333,
+                    "deaths": 1017
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 395,
+                    "deaths": 1
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "WHO best practices for naming of new human infectious diseases",
@@ -791,6 +975,29 @@
             "WHO has published key considerations for repatriation and quarantine of travellers in relation to COVID-19.",
             "The UN activated a Crisis Management Team (CMT) on the COVID-19 outbreak, to be led by WHO. The WHO Director-General nominated Dr Mike Ryan, Executive Director of WHO Health Emergencies Programme as the Crisis Manager. The CMT brings together WHO, OCHA, IMO (International Maritime Organization), UNICEF, ICAO, WFP, FAO, the World Bank and several departments of the UN Secretariat. It held its first meeting yesterday via teleconference. This mechanism will help WHO focus on the health response while the other agencies will bring their expertise to bear on the wider social, economic and developmental implications of the outbreak. Additional members will be included depending on the evolution of the outbreak and its impact globally.",
             "WHO has prepared a list of Q&A on infection prevention and control for health care workers caring for patients with suspected or confirmed 2019-nCoV."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 45171
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 44730,
+                    "severe": 8204,
+                    "deaths": 1114
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 441,
+                    "deaths": 1
+                }
+            }
         ],
         "related_links": [
             {
@@ -811,6 +1018,28 @@
             "The two-day global research and innovation forum regarding COVID-19 was convened in line with the WHO R&D Blueprint this week. Leading health experts from around the world met at WHO to assess the current level of knowledge about the new COVID-19 disease, identify gaps and work together to accelerate and fund priority research needed to help stop this outbreak and prepare for any future outbreaks.",
             "Overnight 14’840 cases, including 13’332 clinically diagnosed cases were reported from Hubei. This is the first time China has reported clinically diagnosed cases in addition to laboratory-confirmed cases. For consistency, we report here only the number of laboratory-confirmed cases. WHO has formally requested additional information on the clinically diagnosed cases, in particular when these have occurred in the course of the outbreak and whether suspect cases were reclassified as clinically diagnosed cases."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 46997
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 46550,
+                    "deaths": 1368
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 447,
+                    "deaths": 1
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "Database to collect the latest scientific findings and knowledge on Coronavirus disease",
@@ -829,6 +1058,28 @@
             "The second death has been reported outside of China, in Japan. This individual did not have known travel history to China.",
             "In China, health care workers account for 1716 confirmed cases of COVID-19 including six deaths."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 49053
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 48548,
+                    "deaths": 1381
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 505,
+                    "deaths": 2
+                }
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200214-sitrep-25-covid-19.pdf"
     },
     {
@@ -837,6 +1088,28 @@
             "Egypt reported its first confirmed case of COVID-19. This is the second country in the WHO EMRO region to confirm a case, and the first reported case from the African continent. WHO was informed by the Egyptian Ministry of Health and Population. More information (in Arabic) can be found in a joint media statement from the Ministry and WHO.",
             "In a speech to the Munich Security Conference, the WHO Director-General, Dr. Tedros Adhanom Ghebreyesus, described aspects of the COVID-19 outbreak situation that WHO finds encouraging, and areas of concern.",
             "WHO regional offices continue to support countries with their COVID-19 readiness efforts. "
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 50580
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 50054,
+                    "deaths": 1524
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 526,
+                    "deaths": 2
+                }
+            }
         ],
         "related_links": [
             {
@@ -881,6 +1154,28 @@
             "A third death of a COVID-19 patient has been reported outside of China. This individual was a tourist from China visiting France.",
             "Studies to assess the epidemiology and clinical characteristics of COVID-19 cases in different settings are therefore critical to furthering our understanding of this virus and associated disease. Several early investigation master protocols or master forms are available for countries to use"
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 51857
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 51174,
+                    "deaths": 1666
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 683,
+                    "deaths": 3
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "Early investigations protocol",
@@ -896,6 +1191,28 @@
             "From today, WHO will be reporting all confirmed cases, including both laboratory-confirmed as previously reported, and those reported as clinically diagnosed (currently only applicable to Hubei province, China). From 13 February through 16 February, we reported only laboratory confirmed cases for Hubei province as mentioned in the situation report published on 13 February. The change in reporting is now shown in the figures. This accounts for the apparent large increase in cases compared to prior situation reports.",
             "Based on the evidence currently available about COVID-19, WHO has developed guidance documents for managing public health events at Points of Entry and mass gatherings. These are posted on WHO COVID-19 Points of Entry and Mass Gatherings website. See Technical Focus for more details.",
             "WHO Eastern Mediterranean office has updated information on COVID-19 cases"
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 71429
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 70635,
+                    "deaths": 1772
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 794,
+                    "deaths": 3
+                }
+            }
         ],
         "related_links": [
             {
@@ -919,6 +1236,28 @@
             "No new countries reported cases of COVID-19 in the past 24 hours.",
             "WHO Operations Support and Logistics (OSL) continues to gather and assess the needs of Member States for critical items such as Personal Protective Equipment (PPE). On 14 February, OSL started the dispatch of laboratory COVID-19 testing kits for 56 countries. As of 17 February, 37 shipments have been dispatched to 34 countries and three regional offices.",
             "Health care workers are on the front line of the response to the COVID-19 outbreak. WHO has developed guidance on the Rights, Roles and Responsibilities Of Health Workers, Including Key Considerations For Occupational Safety And Health."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 73332
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 72528,
+                    "deaths": 1870
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 804,
+                    "deaths": 3
+                }
+            }
         ],
         "preparedness_and_responses": [
             {
