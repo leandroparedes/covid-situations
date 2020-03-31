@@ -385,6 +385,29 @@
             "WHO is launching a Global 2019-nCoV Clinical Data Platform to allow Member States to contribute anonymized clinical data in order to inform the public health clinical response.",
             "WHO is continually monitoring developments and the Director-General can reconvene the Emergency Committee on very short notice as needed. Committee members are regularly informed of developments."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 4593
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 4537,
+                    "suspected": 6973,
+                    "severe": 976,
+                    "deaths": 106
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 56
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "China leaders discuss next steps in battle against coronavirus outbreak",
@@ -400,6 +423,29 @@
             "World Health Organization (WHO), in collaboration with the World Economic Forum, has set up a public private collaboration called “The Pandemic Supply Chain Network (PSCN)”. It is a Market Network that seeks to provide a platform for data sharing, market visibility, and operational coordination and connecting.",
             "Today, PSCN is launching the first of several teleconference calls with over 30 private sector organizations and 10 multilateral organizations to develop a market capacity and risk assessment for personal protective equipment (PPE). This assessment will be used as the basis to match the global demand for PPE with the global supply. The market and risk assessment for PPE is expected to be completed by 5 February 2020.",
             "The Emergency Committee on the novel coronavirus (2019-nCoV) under the International Health Regulations (IHR 2005) is re-convened by the World Health Organization Director-General Dr Tedros Adhanom Ghebreyesus on 30 January."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed":6065
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 5997,
+                    "suspected": 9239,
+                    "severe": 1239,
+                    "deaths": 132
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 68
+                }
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200129-sitrep-9-ncov-v2.pdf"
     },
@@ -417,6 +463,29 @@
                 "actions": [
                     "WHO has developed a protocol for the investigation of early cases (the “First Few X (FFX) Cases and contact investigation protocol for 2019-novel coronavirus (2019-nCoV) infection”). The protocol is designed to gain an early understanding of the key clinical, epidemiological and virological characteristics of the first cases of 2019-nCoV infection detected in any individual country, to inform the development and updating of public health guidance to manage cases and reduce potential spread and impact of infection."
                 ]
+            }
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 7818
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 7736,
+                    "suspected": 12167,
+                    "severe": 1370,
+                    "deaths": 170
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 82
+                }
             }
         ],
         "related_links": [
@@ -450,6 +519,29 @@
                 ]
             }
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 9826
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 9720,
+                    "suspected": 15238,
+                    "severe": 1527,
+                    "deaths": 213
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 106
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV)",
@@ -469,6 +561,28 @@
             "In China, 60.5% of all cases since the start of the outbreak have been reported from Hubei Province.",
             "Additional instances of human-to-human transmission outside China were reported."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 11953
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 11821,
+                    "severe": 1795,
+                    "deaths": 259
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 132
+                }
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200201-sitrep-12-ncov.pdf"
     },
     {
@@ -478,6 +592,29 @@
             "WHO is receiving information about cases from a number of countries. As additional details become known, WHO requests countries to share information in a timely manner as specified in the guidance on Global Surveillance for human infection with novel coronavirus (2019-nCoV).",
             "The first death has been reported outside of China, in the Philippines. The patient was a close contact of the first patient confirmed in the Philippines.",
             "Due to the high demand for timely and trustworthy information about 2019-nCoV WHO technical risk communication and social media teams have been working closely to track and respond to myths and rumours."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 14557
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 14411,
+                    "severe": 2110,
+                    "deaths": 304
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 146,
+                    "deaths": 1
+                }
+            }
         ],
         "related_links": [
             {
@@ -494,6 +631,29 @@
             "WHO has developed a dashboard for Novel coronavirus (2019-nCoV) with the number of confirmed cases globally, which includes cases in China by provinces, regions and cities, as well as confirmed cases outside China by country.",
             "WHO has prepared a list of Q&A to respond to queries WHO is receiving from various organizations and individuals.",
             "Working with technical experts in health operations, WHO operational support and logistics has developed a “2019-nCoV kit”, similar to prepared treatment kits used for outbreaks of other high threat pathogens. In the coming days, the costing, procurement and assembly of these kits will be a priority."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 17391
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 17238,
+                    "severe": 2296,
+                    "deaths": 361
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 153,
+                    "deaths": 1
+                }
+            }
         ],
         "related_links": [
             {
