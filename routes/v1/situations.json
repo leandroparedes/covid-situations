@@ -349,24 +349,24 @@
         "situation_in_numbers": [
             {
                 "location": "Global",
-                "numbers": [
-                    { "type": "Confirmed", "count": 2978 }
-                ]
+                "numbers": {
+                    "Confirmed": 2978
+                }
             },
             {
                 "location": "China",
-                "numbers": [
-                    { "type": "Confirmed", "count": 2741 },
-                    { "type": "Suspected", "count": 5794 },
-                    { "type": "Severe", "count": 461 },
-                    { "type": "Deaths", "count": 80 }
-                ]
+                "numbers": {
+                    "Confirmed": 2741,
+                    "Suspected": 5794,
+                    "Severe": 461,
+                    "Deaths": 80
+                }
             },
             {
                 "location": "Outside of China",
-                "numbers": [
-                    { "type": "Confirmed", "count": 37 }
-                ]
+                "numbers": {
+                    "Confirmed": 37
+                }
             }
         ],
         "related_links": [
