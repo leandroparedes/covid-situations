@@ -1302,6 +1302,28 @@
             "WHO is working with an international network of statisticians and mathematical modelers to estimate key epidemiologic parameters of COVID19, such as the incubation period (the time between infection and symptom onset), case fatality ratio (CFR, the proportion of cases that die), and the serial interval (the time between symptom onset of a primary and secondary case). Reports of current analyses that have estimated these parameters are provided in this Situation Report as a summary of currently available evidence. These values should be considered preliminary and parameters will likely be updated as more information becomes available. Modelling can support decision-making but needs to be combined with rigorous data collection and a comprehensive analysis of the situation.",
             "Several online courses related to COVID-19 have been added to the OpenWHO platform"
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 75204
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 74280,
+                    "deaths": 2006
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 924,
+                    "deaths": 3
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "A general introduction to emerging respiratory viruses (English)",
@@ -1333,6 +1355,28 @@
             "China has revised their guidance on case classification for COVID-19, removing the classification of “clinically diagnosed” previously used for Hubei province, and retaining only “suspected” and “confirmed” for all areas, the latter requiring laboratory confirmation. Some previously reported “clinically diagnosed” cases are thus expected to be discarded over the coming days as laboratory testing is conducted and some are found to be COVID-19-negative.",
             "In early January, following the notification of the occurrence of cases of COVID-19 among travelers from Wuhan, China, WHO established a Global Surveillance System to collect and organize essential information to describe and monitor COVID-19. All WHO regions have implemented the reporting of COVID-19 cases either through existing or newly-established data collection systems."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 75748
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 74675,
+                    "deaths": 2121
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 1073,
+                    "deaths": 8
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "China's guidance on case classification for COVID-19 (Chinese)",
@@ -1346,6 +1390,28 @@
         "reports": [
             "No new countries reported cases of COVID-19 in the past 24 hours.",
             "Through the International Food Safety Authorities Network (INFOSAN), national food safety authorities are seeking more information on the potential for persistence of SARS-CoV-2, which causes COVID-19, on foods traded internationally as well as the potential role of food in the transmission of the virus. Currently, there are investigations conducted to evaluate the viability and survival time of SARS-CoV-2. As a general rule, the consumption of raw or undercooked animal products should be avoided. Raw meat, raw milk or raw animal organs should be handled with care to avoid crosscontamination with uncooked foods."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 76769
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 75569,
+                    "deaths": 2239
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 1200,
+                    "deaths": 8
+                }
+            }
         ],
         "related_links": [
             {
@@ -1361,6 +1427,28 @@
             "Two new countries (Lebanon and Israel) reported cases of COVID-19 in the past 24 hours.", 
             "The role of environmental contamination in the transmission of COVID-19 is not yet clear. On 18 February, a new protocol entitled “Surface sampling of coronavirus disease (COVID-19): A practical “how to” protocol for health care and public health professionals” was published. This protocol was designed to determine viable virus presence and persistence on fomites in various locations where a COVID-19 patient is receiving care or isolated, and to understand how fomites may play a role in the transmission of the virus.",
             "The WHO Director-General briefed the emergency ministerial meeting on COVID-19 organized by the African Union and the Africa Centres for Disease Control and Prevention."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 77794
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 76392,
+                    "deaths": 2348
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 1402,
+                    "deaths": 11
+                }
+            }
         ],
         "related_links": [
             {
@@ -1379,6 +1467,28 @@
         "reports": [
             "No new countries reported cases of COVID-19 in the past 24 hours."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 78811
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 77042,
+                    "deaths": 2445
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 1769,
+                    "deaths": 17
+                }
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200223-sitrep-34-covid-19.pdf"
     },
     {
@@ -1386,6 +1496,28 @@
         "reports": [
             "One new Member State (Kuwait) reported cases of COVID-19 in the past 24 hours.",
             "Since the emergence of COVID-19 we have seen instances of public stigmatization among specific populations, and the rise of harmful stereotypes. Stigmatization could potentially contribute to more severe health problems, ongoing transmission, and difficulties controlling infectious diseases during an epidemic."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 79331
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 77262,
+                    "deaths": 2595
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 2069,
+                    "deaths": 23
+                }
+            }
         ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200224-sitrep-35-covid-19.pdf"
     },
@@ -1396,6 +1528,28 @@
             "For healthcare workers and public health professionals, WHO has an online course titled Infection Prevention and Control (IPC) for Novel Coronavirus (COVID-19). You can access the course through the following link: https://openwho.org/courses/COVID-19-IPC-EN. This course provides information on what facilities should be doing to prepare to respond to a case of an emerging respiratory virus such as the novel coronavirus.",
             "The WHO-China joint mission concluded on 24 February. The team has made a range of findings about the transmissibility of the virus, the severity of disease and the impact of the measures taken.",
             "A joint WHO and European Centre for Disease Prevention and Control (ECDC) mission arrived in Italy on 24 February to support Italian authorities on the COVID-19 situation."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 80239
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 77780,
+                    "deaths": 2666
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 2459,
+                    "deaths": 34
+                }
+            }
         ],
         "related_links": [
             {
@@ -1420,6 +1574,28 @@
             "For the first time, since the onset of symptoms of the first identified case of COVID-19 on 8 December 2019, there have been more new cases reported from countries outside of China than from China.",
             "The WHO Director-General provided opening remarks at the weekly Member State briefing on COVID-19 regarding ongoing and future WHO missions along with priorities for control of the outbreak."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 81109
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 78191,
+                    "deaths": 2718
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 2918,
+                    "deaths": 44
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "WHO Director-General provided opening remarks at the weekly Member State briefing on COVID-19 regarding ongoing and future",
@@ -1435,6 +1611,28 @@
             "WHO and the World Tourism Organization released a joint statement regarding responsibility and coordination on tourism and COVID-19.",
             "OpenWHO, a web-based learning platform, has launched the free online courses Introduction to Emerging Respiratory Viruses, Including Novel Coronovirus, in Portuguese and Health and Safety Briefing for Respiratory Diseases – ePROTECT in French today.",
             "WHO is utilizing an international network of expert laboratories to support in the detection of the COVID-19 virus globally. For more information, please see the Subject in Focus below."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 82294
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 78630,
+                    "deaths": 2747
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 3664,
+                    "deaths": 57
+                }
+            }
         ],
         "related_links": [
             {
@@ -1462,6 +1660,28 @@
             "As of 27 February, there are 36 117 (26 403 in Hubei and 15 826 in Wuhan) cases who have recovered from COVID-19 in China.",
             "Under the International Health Regulations (2005), States Parties implementing additional health measures that significantly interfere with international traffic shall notify WHO of the public health rationale of those measures within 48 hours of their implementation. As of 27 February, 41 States Parties are officially reporting additional health measures."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 83652
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 78961,
+                    "deaths": 2791
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 4691,
+                    "deaths": 67
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "WHO-China Joint Mission findings",
@@ -1479,6 +1699,28 @@
         "reports": [
             "Two new Member States (Mexico and San Marino) reported cases of COVID19 in the past 24 hours.",
             "WHO has published the Rational use of personal protective equipment for COVID-19. This document summarizes WHO recommendations for the appropriate use of personal protective equipment (PPE) in health care and community settings, including the handling of cargo. More information on Infection Prevention and Control (IPC) activities can be found in the Subject in Focus."   
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 85403
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 79394,
+                    "deaths": 2838
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 6009,
+                    "deaths": 86
+                }
+            }
         ],
         "related_links": [
             {
