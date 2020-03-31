@@ -47,6 +47,7 @@ const whitelistFields = [
     'reports',
     'highlights',
     'preparedness_and_responses',
+    'situation_in_numbers',
     'related_links',
     'original_report_link'
 ];
