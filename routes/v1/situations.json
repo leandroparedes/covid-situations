@@ -350,22 +350,22 @@
             {
                 "location": "Global",
                 "numbers": {
-                    "Confirmed": 2978
+                    "confirmed": 2978
                 }
             },
             {
                 "location": "China",
                 "numbers": {
-                    "Confirmed": 2741,
-                    "Suspected": 5794,
-                    "Severe": 461,
-                    "Deaths": 80
+                    "confirmed": 2741,
+                    "suspected": 5794,
+                    "severe": 461,
+                    "deaths": 80
                 }
             },
             {
                 "location": "Outside of China",
                 "numbers": {
-                    "Confirmed": 37
+                    "confirmed": 37
                 }
             }
         ],
