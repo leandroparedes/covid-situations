@@ -346,6 +346,29 @@
             "Current estimates of the incubation period of the virus range from 2-10 days, and these estimates will be refined as more data become available. Understanding the time when infected patients may transmit the virus to others is critical for control efforts. Detailed epidemiological information from more people infected is needed to determine the infectious period of 2019-nCoV, in particular whether transmission can occur from asymptomatic individuals or during the incubation period.",
             "WHO is continually monitoring developments and on standby to reconvene the Emergency Committee on very short notice as needed. Committee members are regularly informed of developments."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": [
+                    { "type": "Confirmed", "count": 2978 }
+                ]
+            },
+            {
+                "location": "China",
+                "numbers": [
+                    { "type": "Confirmed", "count": 2741 },
+                    { "type": "Suspected", "count": 5794 },
+                    { "type": "Severe", "count": 461 },
+                    { "type": "Deaths", "count": 80 }
+                ]
+            },
+            {
+                "location": "Outside of China",
+                "numbers": [
+                    { "type": "Confirmed", "count": 37 }
+                ]
+            }
+        ],
         "related_links": [
             {
                 "link_text": "Global Surveillance for human infection with coronavirus disease guidence",
