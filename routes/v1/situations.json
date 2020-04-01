@@ -1747,6 +1747,28 @@
                 ]
             }
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 87137
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 79968,
+                    "deaths": 2873
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 7169,
+                    "deaths": 104
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "WHO recommendations for international traffic in relation to COVID-19 outbreak",
@@ -1763,6 +1785,28 @@
             "Containment remains the top priority for all countries. Management for COVID-19 globally, however, is not a one-size-fits-all approach and must be tailored to the transmission scenario a country faces. Early robust measures are key to saving lives and halting transmission, notes the WHO DirectorGeneral.",
             "WHO’s Operations Supply and Logistics team are working across numerous areas to support the COVID-19 response. Activities include working to establish a Supply Chain Coordination Cell and providing a technical briefing for G20 members on the personal protective equipment (PPE) market situation."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 88948
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 80174,
+                    "deaths": 2915
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 8774,
+                    "deaths": 128
+                }
+            }
+        ],        
         "related_links": [
             {
                 "link_text": "A team of WHO experts has arrived in Tehran, Iran to support the COVID-19 response",
@@ -1782,6 +1826,28 @@
             "The increase of COVID-19 cases in the Eastern Mediterranean Region is of great concern. The WHO Regional Director of the Eastern Mediterranean region reiterated the need to enhance surveillance and response activities, and share critical information, as being essential to containing the outbreak and strengthening health systems.",
             "The Pan American Health Organization (PAHO) is implementing a comprehensive plan to support country preparedness and containment efforts for COVID-19. Barbados was one of the first Caribbean countries to acquire test kits and reagents for COVID-19 detection, and receive training on how to use them.",
             "Real-time training is critical for effective preparedness and response. WHO has several COVID-19 online resources for health professionals, decision-makers and the public in multiple languages."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 90870
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 80304,
+                    "deaths": 2946
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 10566,
+                    "deaths": 166
+                }
+            }
         ],
         "related_links": [
             {
@@ -1805,6 +1871,28 @@
             "Four new Member States (Argentina, Chile, Poland and Ukraine) have reported cases of COVID-19 in the past 24 hours.",
             "The WHO Prequalification Team announced that the Emergency Use Listing (EUL) is now open to candidate in-vitro diagnostic (IVD) laboratory tests to detect COVID-19 virus. The EUL procedure is developed to expedite the availability of IVDs needed in public health emergency situations. Manufacturers are invited to submit an Expression of Interest.",
             "Disruptions to the global supply of personal protective equipment (PPE) are leaving healthcare workers ill-equipped to care for patients. WHO is working with governments, industry and the Pandemic Supply Chain Network to boost production and secure allocations for critically affected and at-risk countries."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 93091
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 80422,
+                    "deaths": 2984
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 12669,
+                    "deaths": 214
+                }
+            }
         ],
         "related_links": [
             {
@@ -1830,6 +1918,28 @@
             "The WHO Director-General emphasized the importance of implementing a comprehensive approach to mitigate the impact of COVID-19. Educating the population, expanding surveillance, caring for patients, and strengthening preparedness systems are key to interrupting transmission.",
             "WHO’s initiative called the WHO Network for Information in Epidemics (EPIWIN) leverages all communications platforms to amplify evidence-based information. EPI-WIN has identified trusted sources and engaged with these “trust chains”."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 95324
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 80565,
+                    "deaths": 3015
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 14759,
+                    "deaths": 266
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "SouthEast Asia Region is preparing to roll out rapid response activities",
@@ -1848,6 +1958,28 @@
             "4 new countries/territories/areas (Bhutan, Cameroon, Serbia, and South Africa) have reported cases of COVID-19 in the past 24 hours.",
             "As the COVID-19 outbreak continues to evolve, comparisons have been drawn to influenza. WHO has provided a Q&A regarding the similarities and differences between the two diseases."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 98192
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 80711,
+                    "deaths": 3045
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 17481,
+                    "deaths": 355
+                }
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200306-sitrep-46-covid-19.pdf"
     },
     {
@@ -1856,6 +1988,28 @@
             "5 new countries/territories/areas (Colombia, Holy See, Peru, Serbia, and Togo) have reported cases of COVID-19 in the past 24 hours.",
             "The global number of reported cases of COVID-19 has surpassed 100,000.",
             "OpenWHO has reached 161, 000 learners in COVID-19 courses. The introductory course on COVID-19 has been partially or fully translated into 17 national languages."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 101927
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 80813,
+                    "deaths": 3073
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 21110,
+                    "deaths": 413
+                }
+            }
         ],
         "related_links": [
             {
@@ -1871,6 +2025,28 @@
             "8 new countries/territories/areas (Bulgaria, Costa Rica, Faroe Islands, French Guiana, Maldives, Malta, Martinique, and Republic of Moldova) have reported cases of COVID-19 in the past 24 hours.",
             "Over 100 countries have now reported laboratory-confirmed cases of COVID19.",
             "WHO has issued a consolidated package of existing preparedness and response guidance for countries to enable them to slow and stop COVID-19 transmission and save lives. WHO is urging all countries to prepare for the potential arrival of COVID-19 by readying emergency response systems; increasing capacity to detect and care for patients; ensuring hospitals have the space, supplies and necessary personnel; and developing life-saving medical interventions."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 105586
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 80859,
+                    "deaths": 3100
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 24272,
+                    "deaths": 484
+                }
+            }
         ],
         "highlights": [
             "100 countries with laboratory-confirmed cases"
@@ -1891,6 +2067,28 @@
             "WHO Operations Supply and Logistics (OSL) continues to support COVID-19 emergency operations where global demand for critical items continues to outpace global supply availability. Since the beginning of the outbreak, OSL have shipped more than 584,000 surgical masks, 47,000 N95 masks, 620,000 gloves, 72,000 gowns and 11,000 goggles to 57 countries.",
             "As of 9 March 2020, a total of 45 States Parties informed WHO of additional health measures they implemented in relation to COVID-19 and provided the public health rationale for these measures. WHO reiterates that measures that restrict the movement of people during this outbreak should be proportionate to the public health risk, short in duration and reviewed regularly as more information about the virus, the disease epidemiology and clinical characteristics becomes available."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 109577
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 80904,
+                    "deaths": 3123
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 28673,
+                    "deaths": 686
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "WHO continues to support Samoa and Tokelau with preparations for COVID19",
@@ -1905,6 +2103,28 @@
             "5 new countries/territories/areas (Brunei Darussalam, Mongolia, Cyprus, Guernsey and Panama) have reported cases of COVID-19 in the past 24 hours.",
             "WHO Director- General in his regular media briefing on 9 March stated that the threat of a pandemic has become very real; however, this would be the first pandemic in history that could be controlled.",
             "On 10 March, the IFRC, UNICEF and WHO issued a new guidance to help protect children and schools from transmission of the COVID-19 virus. The guidance provides critical considerations and practical checklists to keep schools safe."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 113702
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 80924,
+                    "deaths": 3140
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 32778,
+                    "deaths": 872
+                }
+            }
         ],
         "related_links": [
             {
@@ -1921,6 +2141,28 @@
             "Four new countries/territories/areas (Bolivia [Plurinational State of], Jamaica, Burkina Faso and Democratic Republic of the Congo) have reported cases of COVID-19 in the past 24 hours.",
             "The COVID-19 virus infects people of all ages. However, evidence to date suggests that two groups of people are at a higher risk of getting severe COVID-19 disease. These are older people; and those with underlying medical conditions. WHO emphasizes that all must protect themselves from COVID-19 in order to protect others.",
             "On 11 March, ICAO and WHO issued a joint statement to reminding all stakeholders of the importance of existing regulations and guidance."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 118319
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 80955,
+                    "deaths": 3162
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 37364,
+                    "deaths": 1130
+                }
+            }
         ],
         "related_links": [
             {
@@ -1940,6 +2182,28 @@
             "Four new countries/territories/areas (French Polynesia, Turkey, Honduras and Côte d’Ivoire) have reported cases of COVID-19 in the past 24 hours.",
             "The Clinical Unit continues to convene clinicians around the globe, twice weekly by teleconference (COVID-19 Clinical Network) to share knowledge and experiences from clinicians caring for COVID-19 patients and highlight operational challenges and technical questions.",
             "At the Member States information session held today, WHO Director-General reiterated that countries should not give up on stopping the outbreak now that WHO has characterized it as a pandemic. A shift from containment to mitigation would be wrong and dangerous. This is a controllable pandemic."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 125260
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 80891,
+                    "deaths": 3173
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 44279,
+                    "deaths": 1440
+                }
+            }
         ],
         "related_links": [
             {
@@ -1961,6 +2225,28 @@
             "Since the onset of the COVID-19 outbreak, Infection Prevention and Control (IPC) has been a major factor in preventive and mitigation measures. To ensure evidence-based quality guidance and prompt response to global demand, WHO convened a WHO Health Emergencies Programme Experts Advisory Panel for IPC.",
             "A team of experts from WHO, Global Outbreak Alert and Response Network partners, the Robert Koch Institute in Germany and the Chinese Center for Disease Control concluded a technical support mission on COVID-19 to Iran on 10 March 2020. During the team’s mission in Iran, the Ministry of Health and Medical Education (MOHME) launched a national campaign to control COVID19."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 132758
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 80991,
+                    "deaths": 3180
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 51767,
+                    "deaths": 1775
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "First-of-its-kind COVID-19 Solidarity Response Fund",
@@ -1980,6 +2266,28 @@
             "The Director-General said yesterday that Europe has now become the epicenter of the pandemic, with more reported cases and deaths than the rest of the world combined, apart from China. Many countries are now acting on the eight pillars of WHO’s Strategic Preparedness and Response Plan.",
             "WHO published guidance on ‘Clinical management of severe acute respiratory infection (SARI) when COVID-19 disease is suspected’ on 13 March. The document provides clinicians with updated interim guidance on timely, effective, and safe supportive management of patients with suspected and confirmed COVID-19."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 142534
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 81021,
+                    "deaths": 3194
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 61513,
+                    "deaths": 2198
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "WHO’s Strategic Preparedness and Response Plan",
@@ -1993,6 +2301,28 @@
         "reports": [
             "Nine new countries/territories/areas (African Region, European Region and Region of Americas) in have reported cases of COVID-19 in the past 24 hours.",
             "A WHO high-level technical mission concluded a visit to Iraq to support the Iraqi Ministry of Health in their COVID-19 prevention and containment measures. WHO is working around the clock to establish 3 negative-pressure [contagious respiratory disease isolation] rooms in Baghdad, Erbil and Basra to accommodate patients who might require more sophisticated medical treatment."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 153517
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 81048,
+                    "deaths": 3204
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 72469,
+                    "deaths": 2531
+                }
+            }
         ],
         "related_links": [
             {
@@ -2010,6 +2340,28 @@
             "The WHO COVID-19 Incident Management Team is working closely with partners across all levels to provide support to countries, strengthen technical and operational networking and collaboration, and support operational coordination of the global response.",
             "Two new technical guidance documents were published today: Critical preparedness, readiness and response actions for COVID-19 and Risk Communication and Community Engagement (RCCE) Action Plan Guidance."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 167515
+                }
+            },
+            {
+                "location": "China",
+                "numbers": {
+                    "confirmed": 81077,
+                    "deaths": 3218
+                }
+            },
+            {
+                "location": "Outside of China",
+                "numbers": {
+                    "confirmed": 86438,
+                    "deaths": 3388
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "Critical preparedness, readiness and response actions for COVID-19 and Risk Communication and Community Engagement (RCCE) Action Plan Guidance",
@@ -2025,6 +2377,56 @@
             "As the on-going COVID-19 pandemic continues to develop, WHO is committed to working together with the travel, transport and tourism sectors on emergency preparedness and response.",
             "OpenWHO is an interactive, web-based, knowledge-transfer platform offering free online courses to improve the response to health emergencies. COVID-19 resources are available in the official WHO languages and national languages",
             "The OpenWHO team is continuing to work with WHO Country Offices, public health institutes and educational entities who have offered voluntary translation support to help localize the response efforts"
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 179111
+                }
+            },
+            {
+                "location": "Western Pacific Region",
+                "numbers": {
+                    "confirmed": 91779,
+                    "deaths": 3357
+                }
+            },
+            {
+                "location": "European Region",
+                "numbers": {
+                    "confirmed": 64188,
+                    "deaths": 3108
+                }
+            },
+            {
+                "location": "South-East Asia",
+                "numbers": {
+                    "confirmed": 508,
+                    "deaths": 9
+                }
+            },
+            {
+                "location": "Eastern Mediterranean Region",
+                "numbers": {
+                    "confirmed": 16786,
+                    "deaths": 873
+                }
+            },
+            {
+                "location": "Region of the Americas",
+                "numbers": {
+                    "confirmed": 4910,
+                    "deaths": 68
+                }
+            },
+            {
+                "location": "African Region",
+                "numbers": {
+                    "confirmed": 228,
+                    "deaths": 4
+                }
+            }
         ],
         "related_links": [
             {
@@ -2054,6 +2456,56 @@
                 ]
             }
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 191127
+                }
+            },
+            {
+                "location": "Western Pacific Region",
+                "numbers": {
+                    "confirmed": 91845,
+                    "deaths": 3357
+                }
+            },
+            {
+                "location": "European Region",
+                "numbers": {
+                    "confirmed": 74760,
+                    "deaths": 3352
+                }
+            },
+            {
+                "location": "South-East Asia",
+                "numbers": {
+                    "confirmed": 538,
+                    "deaths": 9
+                }
+            },
+            {
+                "location": "Eastern Mediterranean Region",
+                "numbers": {
+                    "confirmed": 18060,
+                    "deaths": 1010
+                }
+            },
+            {
+                "location": "Region of the Americas",
+                "numbers": {
+                    "confirmed": 4979,
+                    "deaths": 68
+                }
+            },
+            {
+                "location": "African Region",
+                "numbers": {
+                    "confirmed": 233,
+                    "deaths": 4
+                }
+            }
+        ],
         "original_report_link": "https://github.com/CSSEGISandData/COVID-19/blob/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200318-sitrep-58-covid-19.pdf"
     },
     {
@@ -2062,6 +2514,56 @@
             "Seven new countries/territories/areas (African Region, Eastern Mediterranean Region, European Region, and Region of the Americas) have reported cases of COVID-19.",
             "The number of confirmed cases worldwide has exceeded 200 000. It took over three months to reach the first 100 00 confirmed cases, and only 12 days to reach the next 100 000.",
             "A new protocol to investigate the extent of COVID-19 infection in the population, as determined by positive antibody tests in the general population has been developed. The protocol is titled the Population-based age-stratified seroepidemiological investigation protocol for COVID-19 virus infection."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 209839
+                }
+            },
+            {
+                "location": "Western Pacific Region",
+                "numbers": {
+                    "confirmed": 92333,
+                    "deaths": 3377
+                }
+            },
+            {
+                "location": "European Region",
+                "numbers": {
+                    "confirmed": 87108,
+                    "deaths": 4084
+                }
+            },
+            {
+                "location": "South-East Asia",
+                "numbers": {
+                    "confirmed": 657,
+                    "deaths": 23
+                }
+            },
+            {
+                "location": "Eastern Mediterranean Region",
+                "numbers": {
+                    "confirmed": 19518,
+                    "deaths": 1161
+                }
+            },
+            {
+                "location": "Region of the Americas",
+                "numbers": {
+                    "confirmed": 9144,
+                    "deaths": 119
+                }
+            },
+            {
+                "location": "African Region",
+                "numbers": {
+                    "confirmed": 367,
+                    "deaths": 7
+                }
+            }
         ],
         "related_links": [
             {
@@ -2082,6 +2584,56 @@
             "Updated technical guidance on critical preparedness, readiness and response.",
             "OpenWHO is constantly updating and adding online open courses for COVID19 as a resource for health professionals, decision-makers and the public. As of 20 March, more than 500 000 learners have already enrolled."
         ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 234073
+                }
+            },
+            {
+                "location": "Western Pacific Region",
+                "numbers": {
+                    "confirmed": 93349,
+                    "deaths": 3405
+                }
+            },
+            {
+                "location": "European Region",
+                "numbers": {
+                    "confirmed": 104591,
+                    "deaths": 4899
+                }
+            },
+            {
+                "location": "South-East Asia",
+                "numbers": {
+                    "confirmed": 918,
+                    "deaths": 31
+                }
+            },
+            {
+                "location": "Eastern Mediterranean Region",
+                "numbers": {
+                    "confirmed": 20759,
+                    "deaths": 1312
+                }
+            },
+            {
+                "location": "Region of the Americas",
+                "numbers": {
+                    "confirmed": 13271,
+                    "deaths": 178
+                }
+            },
+            {
+                "location": "African Region",
+                "numbers": {
+                    "confirmed": 473,
+                    "deaths": 8
+                }
+            }
+        ],
         "related_links": [
             {
                 "link_text": "The COVID-19 Solidarity Response Fund",
@@ -2096,6 +2648,56 @@
             "Four new countries/territories/areas from the African Region have reported cases of COVID-19.",
             "As COVID-19 cases continue to increase, many countries are requesting individuals to stay at home in self-quarantine. WHO EURO has released a guide on how to stay physically active during self-quarantine.",
             "There has been a rise in criminals disguising themselves as WHO to steal money or sensitive information. WHO urges individuals to stay alert and to verify the authenticity of the request."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 292142
+                }
+            },
+            {
+                "location": "Western Pacific Region",
+                "numbers": {
+                    "confirmed": 94787,
+                    "deaths": 3438
+                }
+            },
+            {
+                "location": "European Region",
+                "numbers": {
+                    "confirmed": 151293,
+                    "deaths": 7426
+                }
+            },
+            {
+                "location": "South-East Asia",
+                "numbers": {
+                    "confirmed": 1257,
+                    "deaths": 45
+                }
+            },
+            {
+                "location": "Eastern Mediterranean Region",
+                "numbers": {
+                    "confirmed": 19685,
+                    "deaths": 252
+                }
+            },
+            {
+                "location": "Region of the Americas",
+                "numbers": {
+                    "confirmed": 19685,
+                    "deaths": 252
+                }
+            },
+            {
+                "location": "African Region",
+                "numbers": {
+                    "confirmed": 739,
+                    "deaths": 20
+                }
+            }
         ],
         "related_links": [
             {
@@ -2117,6 +2719,56 @@
             "Diagnostic testing for COVID-19 is critical to tracking the virus, understanding epidemiology, informing case management, and to suppressing transmission. WHO has updated the Laboratory Testing Strategy document according to the 4Cs transmission scenarios.",
             "WHO Regional Office for Europe has published interim guidance on how to deal with COVID-19 in prisons and other places of detention.",
             "World Water Day 2020, celebrated on 22 March, highlighted the essential role of hand washing in hygiene to protect you and those around you."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 332930
+                }
+            },
+            {
+                "location": "Western Pacific Region",
+                "numbers": {
+                    "confirmed": 95637,
+                    "deaths": 3474
+                }
+            },
+            {
+                "location": "European Region",
+                "numbers": {
+                    "confirmed": 171424,
+                    "deaths": 8743
+                }
+            },
+            {
+                "location": "South-East Asia",
+                "numbers": {
+                    "confirmed": 1776,
+                    "deaths": 58
+                }
+            },
+            {
+                "location": "Eastern Mediterranean Region",
+                "numbers": {
+                    "confirmed": 25375,
+                    "deaths": 1741
+                }
+            },
+            {
+                "location": "Region of the Americas",
+                "numbers": {
+                    "confirmed": 37016,
+                    "deaths": 465
+                }
+            },
+            {
+                "location": "African Region",
+                "numbers": {
+                    "confirmed": 990,
+                    "deaths": 23
+                }
+            }
         ],
         "related_links": [
             {
@@ -2142,6 +2794,56 @@
             "The WHO WhatsApp Health Alert has now attracted 10 million users since launching Friday, and the COVID-19 Solidarity Response Fund has raised more than US$70 million, in just 10 days.",
             "WHO and FIFA launched a joint campaign to equip the football community to tackle COVID-19. This awareness campaign calls on all people around the world to follow the five key steps to stop the spread of the disease.",
             "WHO and its partners are constantly working to strengthen the chains of essential COVID-19 supplies. As global demand rises, WHO and its partners aim to ensure assistance to areas most in need."
+        ],
+        "situation_in_numbers": [
+            {
+                "location": "Global",
+                "numbers": {
+                    "confirmed": 372757
+                }
+            },
+            {
+                "location": "Western Pacific Region",
+                "numbers": {
+                    "confirmed": 96580,
+                    "deaths": 3502
+                }
+            },
+            {
+                "location": "European Region",
+                "numbers": {
+                    "confirmed": 195511,
+                    "deaths": 10189
+                }
+            },
+            {
+                "location": "South-East Asia",
+                "numbers": {
+                    "confirmed": 1990,
+                    "deaths": 65
+                }
+            },
+            {
+                "location": "Eastern Mediterranean Region",
+                "numbers": {
+                    "confirmed": 27215,
+                    "deaths": 1877
+                }
+            },
+            {
+                "location": "Region of the Americas",
+                "numbers": {
+                    "confirmed": 49444,
+                    "deaths": 565
+                }
+            },
+            {
+                "location": "African Region",
+                "numbers": {
+                    "confirmed": 1305,
+                    "deaths": 26
+                }
+            }
         ],
         "related_links": [
             {
