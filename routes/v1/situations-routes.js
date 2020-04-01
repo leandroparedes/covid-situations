@@ -33,6 +33,35 @@ function paginate (options) {
     return paginatedData;
 }
 
+function dataWithRequestedFields(options) {
+    const { fieldsString, data, dataType } = options;
+
+    const fields = fieldsString.split(';');
+
+    const validation = validateFields(fields);
+    if (! validation.valid) {
+        throw formatInvalidFieldsError(validation);
+    }
+
+    switch (dataType) {
+        case 'array':
+            let arrayResponse = [];
+            data.map(situation => {
+                let situationData = {};
+                fields.map(field => situationData[field] = situation[field] || []);
+                arrayResponse.push(situationData);
+            });
+            return arrayResponse;
+        break;
+
+        case 'object':
+            let objectResponse = {};
+            fields.map(field => objectResponse[field] = data[field] || []);
+            return objectResponse;
+        break;
+    }
+}
+
 function findByID (id) {
     const year = id.slice(0, 4);
     const month = id.slice(4, 6);
@@ -84,45 +113,31 @@ function parseUrl (url) {
  * Return the last 10 situations reports
  */
 router.get('/latest', (req, res) => {
-    let filteredData = baseData;
+    let data = baseData.slice(baseData.length - 10, baseData.length);
 
-    // return only the requested fields
     if (req.query.fields) {
-        const fields = req.query.fields.split(';');
-        const validation = validateFields(fields);
-
-        if (! validation.valid) {
-            return res.status(400).send(
-                formatInvalidFieldsError(validation)
-            );
+        try {
+            data = dataWithRequestedFields({
+                fieldsString: req.query.fields,
+                data: data,
+                dataType: 'array'
+            });
+        } catch (error) {
+            return res.send(error);
         }
-
-        // filtered data is no longer all the original data
-        filteredData = [];
-
-        baseData.map(situation => {
-            let situationData = {};
-            fields.map(field => situationData[field] = situation[field] || []);
-            filteredData.push(situationData);
-        });
     }
-    
-    const latestData = filteredData.slice(baseData.length - 10, baseData.length);
 
     if (req.query.page) {
-        const paginated = paginate({
+        data = paginate({
             pageNumber: req.query.page,
             perPage: req.query.perPage,
-            data: latestData,
+            data: data,
             url: parseUrl(req.originalUrl),
             filtering: req.query.fields != undefined
         });
-
-        res.send(paginated);
-        return;
     }
 
-    res.send(latestData);
+    res.send(data);
 });
 
 /**
@@ -134,7 +149,7 @@ router.get('/:id', (req, res) => {
         return;
     }
 
-    const situation = findByID(req.params.id);
+    let situation = findByID(req.params.id);
 
     if (! situation) {
         res.status(404).send({ message: 'Situation not found' });
@@ -142,19 +157,15 @@ router.get('/:id', (req, res) => {
     }
 
     if (req.query.fields) {
-        const fields = req.query.fields.split(';');
-
-        const validation = validateFields(fields);
-
-        if (! validation.valid) {
-            return res.status(400).send(
-                formatInvalidFieldsError(validation)
-            );
+        try {
+            situation = dataWithRequestedFields({
+                fieldsString: req.query.fields,
+                data: situation,
+                dataType: 'object'
+            });
+        } catch (error) {
+            return res.send(error);
         }
-
-        let response = { situation: {} };
-        fields.map(field => response.situation[field] = situation[field] || []);
-        return res.send(response);
     }
 
     res.send({ situation });
@@ -164,47 +175,31 @@ router.get('/:id', (req, res) => {
  * Return all situations reports
  */
 router.get('/', (req, res) => {
-    // let the filtered data be all the original data
-    let filteredData = baseData;
+    let data = baseData;
 
-    // return only the requested fields
     if (req.query.fields) {
-        const fields = req.query.fields.split(';');
-        const validation = validateFields(fields);
-
-        if (! validation.valid) {
-            return res.status(400).send(
-                formatInvalidFieldsError(validation)
-            );
+        try {
+            data = dataWithRequestedFields({
+                fieldsString: req.query.fields,
+                data: data,
+                dataType: 'array'
+            });
+        } catch (error) {
+            return res.send(error);
         }
-
-        // filtered data is no longer all the original data
-        filteredData = [];
-
-        baseData.map(situation => {
-            let situationData = {};
-            fields.map(field => situationData[field] = situation[field] || []);
-            filteredData.push(situationData);
-        });
     }
 
-    // Here now filtered data is either the original data or actually filtered data
-    // ready to be paginated if necessary
-
-    // send paginated response
     if (req.query.page) {
-        const paginatedData = paginate({
+        data = paginate({
             pageNumber: req.query.page,
             perPage: req.query.perPage,
-            data: filteredData,
+            data: data,
             url: parseUrl(req.originalUrl),
             filtering: req.query.fields != undefined
         });
-        res.send(paginatedData);
-        return;
     }
 
-    res.send(filteredData);
+    res.send(data);
 });
 
 module.exports = router;
