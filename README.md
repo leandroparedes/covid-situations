@@ -32,6 +32,17 @@ Response:
           ]
         }
       ],
+      "situation_in_numbers": [
+        {
+            "location": "Global",
+            "numbers": {
+                "confirmed": 100,
+                "suspected": 200,
+                "severe": 50,
+                "deaths": 20
+            }
+        }
+      ],
       "related_links": [
         {
           "link_text": "text link 1",
@@ -54,6 +65,7 @@ Response:
     "reports": [],
     "highlights": [],
     "preparedness_and_responses": [],
+    "situation_in_numbers": [],
     "related_links": [],
     "original_report_link": "https://link_to_original_report_pdf.test/file.pdf"
   }
@@ -88,6 +100,7 @@ Response:
       "reports": [],
       "highlights": [],
       "preparedness_and_responses": [],
+      "situation_in_numbers": [],
       "related_links": [],
       "original_report_link": "https://link_to_original_report_pdf.test/file.pdf"
     }
@@ -120,6 +133,7 @@ Response
     - reports
     - highlights
     - preparedness_and_responses
+    - situation_in_numbers
     - related_links
     - original_report_link
 
@@ -155,7 +169,6 @@ This **will not** work
 * Distribution of Covid-19 maps images per situation report (if any)
 * Highlights per situation report
 * Charts images (epidemic curve by date, etc) per situation report (if any)
-* Situation in numbers (confirmed, suspected, severe, deaths) per report (if any)
 
 ## Built with this API
 https://covid-t.herokuapp.com/timeline
