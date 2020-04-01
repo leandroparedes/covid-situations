@@ -1,5 +1,5 @@
 # World Health Organization situations reports
-World Health Organization situations reports since the beginning of the Coronavirus outbreak.
+API for the World Health Organization situations reports since the beginning of the Coronavirus outbreak.
 
 Transcriptions from https://github.com/CSSEGISandData/COVID-19/tree/master/who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs
 
